@@ -1,10 +1,12 @@
 # run_instruct_cli.py
 from transformers import AutoModelForCausalLM, AutoTokenizer
+from peft import PeftModel
 from prompt_builder import make_prompt_builder
 import torch, re, argparse
 from pathlib import Path
 from tqdm.auto import tqdm
 import json, pandas as pd
+import unicodedata
 
 # ===== existing helpers =====
 def check_prompt(prompt_builder, model_name):
@@ -21,9 +23,39 @@ def extract_pred(text: str):
     m2 = re.search(r"(?s)(-?\d+)(?!.*\d)", text)
     return int(m2.group(1)) if m2 else None
 
-def gold_from_gsm8k(answer_field: str):
-    m = re.search(r"####\s*(-?\d+)", answer_field)
-    return int(m.group(1)) if m else None
+def _norm_text(s: str) -> str:
+    return unicodedata.normalize("NFKC", str(s)).strip()
+
+def extract_final_numeric(text: str):
+    """
+    GSM8K/MGSM の正解表記から最終数値を抽出。
+    - '#### 42' を優先、それが無ければ文中の最後の数値
+    - 見つからなければ None
+    """
+    if text is None:
+        return None
+    s = _norm_text(text)
+    m = re.search(r"####\s*(-?\d+(?:,\d{3})*(?:\.\d+)?)", s)
+    if m:
+        return int(m.group(1).replace(",", "")) if re.fullmatch(r"-?\d+(?:,\d{3})*", m.group(1)) or re.fullmatch(r"-?\d+(?:\.\d+)?", m.group(1)) else None
+    nums = re.findall(r"-?\d+(?:,\d{3})*(?:\.\d+)?", s)
+    if not nums:
+        return None
+    last = nums[-1].replace(",", "")
+    try:
+        return int(float(last))
+    except:
+        return None
+
+def load_mgsm_tsv(path: str) -> pd.DataFrame:
+    """
+    ヘッダ無しTSV（問題\t答）の MGSM を読む → DataFrame[question, answer]
+    """
+    df = pd.read_csv(path, sep="\t", header=None, names=["question", "answer"], dtype=str, encoding="utf-8")
+    df = df.dropna(subset=["question", "answer"])
+    df["question"] = df["question"].map(_norm_text)
+    df["answer"]   = df["answer"].map(_norm_text)
+    return df
 
 @torch.no_grad()
 def solve_batch_with_progress(questions, gold, prompt_builder, model, tok,
@@ -95,11 +127,28 @@ def default_out_from_input(input_path: str, model_name: str) -> str:
 
 def main():
     parser = argparse.ArgumentParser()
+    # argparse 追加
+    parser.add_argument(
+        "--adapter", type=str, default=None,
+        help="PEFT/LoRA adapter directory (e.g., ../train/outputs/llmjp1p8b-ja-cot-lora)"
+    )
     parser.add_argument(
         "--data",
         type=str,
         default="datasets/gsm8k/main/test-00000-of-00001.parquet",
         help="Input dataset parquet path (default: GSM8K test parquet)",
+    )
+    parser.add_argument(
+        "--dataset",
+        choices=["gsm8k", "mgsm"],
+        default="gsm8k",
+        help="Dataset type: gsm8k (parquet) or mgsm (tsv)",
+    )
+    parser.add_argument(
+        "--lang",
+        choices=["en", "ja", "zh"],
+        default="en",
+        help="Language for MGSM (used when --dataset mgsm)",
     )
     parser.add_argument(
         "--out",
@@ -112,11 +161,27 @@ def main():
     parser.add_argument("--max-new-tokens", type=int, default=256)
     args = parser.parse_args()
 
+    LANG2FILE = {
+        "en": "datasets/mgsm/mgsm_en.tsv",
+        "ja": "datasets/mgsm/mgsm_ja.tsv",
+        "zh": "datasets/mgsm/mgsm_zh.tsv",
+    }
+
     model_name = args.model
     tok = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForCausalLM.from_pretrained(
-        model_name, torch_dtype="auto", device_map="auto"
-    )
+
+    if args.adapter:
+        # まずベースをロードしてアダプタを差す（どのモデルでも動く安全ルート）
+        base = AutoModelForCausalLM.from_pretrained(
+            model_name, torch_dtype="auto", device_map="auto"
+        )
+        model = PeftModel.from_pretrained(base, args.adapter)  # ★ ここでアダプタ装着
+        # （任意）推論だけなら多少速く＆省メモリに： model = model.merge_and_unload()
+    else:
+        model = AutoModelForCausalLM.from_pretrained(
+            model_name, torch_dtype="auto", device_map="auto"
+        )
+
     tok.padding_side = "left"
     if tok.pad_token_id is None:
         tok.pad_token_id = tok.eos_token_id
@@ -125,12 +190,20 @@ def main():
     prompt_builder = make_prompt_builder(model_name, tok)
     check_prompt(prompt_builder, model_name)
 
-    df = pd.read_parquet(args.data)
-    questions = df["question"].tolist()
-    gold = [gold_from_gsm8k(a) for a in df["answer"].tolist()]
+    # --- Load dataset ---
+    if args.dataset == "mgsm":
+        data_path = args.data if args.data is not None else LANG2FILE[args.lang]
+        df = load_mgsm_tsv(data_path)
+        questions = df["question"].tolist()
+        gold = [extract_final_numeric(a) for a in df["answer"].tolist()]
+    else:
+        df = pd.read_parquet(args.data)
+        questions = df["question"].tolist()
+        gold = [extract_final_numeric(a) for a in df["answer"].tolist()]
 
-    out_path = args.out or default_out_from_input(args.data, args.model)
-    desc = f"{Path(args.data).name} ({Path(args.data).parent.name})"
+    in_path = args.data if args.data is not None else (LANG2FILE[args.lang] if args.dataset=="mgsm" else None)
+    out_path = args.out or default_out_from_input(in_path or "", args.model)
+    desc = f"{Path(in_path).name if in_path else args.dataset} ({args.dataset.upper()})"
     gens, preds, correct, seen = solve_batch_with_progress(
         questions,
         gold,

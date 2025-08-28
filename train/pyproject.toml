@@ -1,0 +1,16 @@
+[project]
+name = "train"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "accelerate>=1.10.1",
+    "datasets>=4.0.0",
+    "evaluate>=0.4.5",
+    "peft>=0.17.1",
+    "scipy>=1.16.1",
+    "tqdm>=4.67.1",
+    "transformers>=4.55.4",
+    "trl>=0.8",
+]

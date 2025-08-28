@@ -1,3 +1,12 @@
-datasets
-.venv
-__pycache__
+# ルート直下の datasets を無視
+/datasets
+
+# すべての場所の .venv を無視
+.venv/
+
+# すべての場所の __pycache__ を無視
+__pycache__/
+
+# すべての場所の output を無視
+outputs/
+
