@@ -1,0 +1,146 @@
+[
+  {
+    "arxiv_id": "2509.07242v1",
+    "title": "DORA: Dynamic O-RAN Resource Allocation for Multi-Slice 5G Networks",
+    "year": 2025,
+    "venue": "",
+    "citationCount": 0,
+    "ar5iv_html": "https://ar5iv.org/html/2509.07242v1",
+    "pdf": "http://arxiv.org/pdf/2509.07242v1"
+  },
+  {
+    "arxiv_id": "2508.17586v1",
+    "title": "Exploring Efficient Learning of Small BERT Networks with LoRA and DoRA",
+    "year": 2025,
+    "venue": "",
+    "citationCount": 0,
+    "ar5iv_html": "https://ar5iv.org/html/2508.17586v1",
+    "pdf": "http://arxiv.org/pdf/2508.17586v1"
+  },
+  {
+    "arxiv_id": "2507.14512v2",
+    "title": "Dora: A Controller Provisioning Strategy in Hierarchical Domain-based Satellite Networks",
+    "year": 2025,
+    "venue": "International Conference on Innovative Computing and Cloud Computing",
+    "citationCount": 0,
+    "ar5iv_html": "https://ar5iv.org/html/2507.14512v2",
+    "pdf": "http://arxiv.org/pdf/2507.14512v2"
+  },
+  {
+    "arxiv_id": "2505.14819v1",
+    "title": "DORA: Object Affordance-Guided Reinforcement Learning for Dexterous Robotic Manipulation",
+    "year": 2025,
+    "venue": "arXiv.org",
+    "citationCount": 0,
+    "ar5iv_html": "https://ar5iv.org/html/2505.14819v1",
+    "pdf": "http://arxiv.org/pdf/2505.14819v1"
+  },
+  {
+    "arxiv_id": "2504.03763v1",
+    "title": "Efficient Calibration for RRAM-based In-Memory Computing using DoRA",
+    "year": 2025,
+    "venue": "arXiv.org",
+    "citationCount": 0,
+    "ar5iv_html": "https://ar5iv.org/html/2504.03763v1",
+    "pdf": "http://arxiv.org/pdf/2504.03763v1"
+  },
+  {
+    "arxiv_id": "2502.10497v1",
+    "title": "Hallucinations and Truth: A Comprehensive Accuracy Evaluation of RAG, LoRA and DoRA",
+    "year": 2025,
+    "venue": "arXiv.org",
+    "citationCount": 1,
+    "ar5iv_html": "https://ar5iv.org/html/2502.10497v1",
+    "pdf": "http://arxiv.org/pdf/2502.10497v1"
+  },
+  {
+    "arxiv_id": "2412.17808v3",
+    "title": "Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders",
+    "year": 2024,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 25,
+    "ar5iv_html": "https://ar5iv.org/html/2412.17808v3",
+    "pdf": "http://arxiv.org/pdf/2412.17808v3"
+  },
+  {
+    "arxiv_id": "2405.17357v3",
+    "title": "DoRA: Enhancing Parameter-Efficient Fine-Tuning with Dynamic Rank Distribution",
+    "year": 2024,
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "citationCount": 27,
+    "ar5iv_html": "https://ar5iv.org/html/2405.17357v3",
+    "pdf": "http://arxiv.org/pdf/2405.17357v3"
+  },
+  {
+    "arxiv_id": "2402.09353v6",
+    "title": "DoRA: Weight-Decomposed Low-Rank Adaptation",
+    "year": 2024,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 504,
+    "ar5iv_html": "https://ar5iv.org/html/2402.09353v6",
+    "pdf": "http://arxiv.org/pdf/2402.09353v6"
+  },
+  {
+    "arxiv_id": "2311.11609v2",
+    "title": "Research assessment under debate: disentangling the interest around the DORA declaration on Twitter",
+    "year": 2023,
+    "venue": "Scientometrics",
+    "citationCount": 3,
+    "ar5iv_html": "https://ar5iv.org/html/2311.11609v2",
+    "pdf": "http://arxiv.org/pdf/2311.11609v2"
+  },
+  {
+    "arxiv_id": "2309.00855v3",
+    "title": "DoRA: Domain-Based Self-Supervised Learning Framework for Low-Resource Real Estate Appraisal",
+    "year": 2023,
+    "venue": "International Conference on Information and Knowledge Management",
+    "citationCount": 5,
+    "ar5iv_html": "https://ar5iv.org/html/2309.00855v3",
+    "pdf": "http://arxiv.org/pdf/2309.00855v3"
+  },
+  {
+    "arxiv_id": "2305.03903v2",
+    "title": "DORA: Distributed Oracle Agreement with Simple Majority",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 6,
+    "ar5iv_html": "https://ar5iv.org/html/2305.03903v2",
+    "pdf": "http://arxiv.org/pdf/2305.03903v2"
+  },
+  {
+    "arxiv_id": "2206.04530v4",
+    "title": "DORA: Exploring outlier representations in Deep Neural Networks",
+    "year": 2022,
+    "venue": "Trans. Mach. Learn. Res.",
+    "citationCount": 14,
+    "ar5iv_html": "https://ar5iv.org/html/2206.04530v4",
+    "pdf": "http://arxiv.org/pdf/2206.04530v4"
+  },
+  {
+    "arxiv_id": "2109.14551v1",
+    "title": "DORA: Distributed Online Risk-Aware Explorer",
+    "year": 2021,
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "citationCount": 8,
+    "ar5iv_html": "https://ar5iv.org/html/2109.14551v1",
+    "pdf": "http://arxiv.org/pdf/2109.14551v1"
+  },
+  {
+    "arxiv_id": "2107.03286v1",
+    "title": "DORA: Toward Policy Optimization for Task-oriented Dialogue System with Efficient Context",
+    "year": 2021,
+    "venue": "Computer Speech and Language",
+    "citationCount": 12,
+    "ar5iv_html": "https://ar5iv.org/html/2107.03286v1",
+    "pdf": "http://arxiv.org/pdf/2107.03286v1"
+  },
+  {
+    "arxiv_id": "1804.04012v1",
+    "title": "DORA The Explorer: Directed Outreaching Reinforcement Action-Selection",
+    "year": 2018,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 64,
+    "ar5iv_html": "https://ar5iv.org/html/1804.04012v1",
+    "pdf": "http://arxiv.org/pdf/1804.04012v1"
+  }
+]
