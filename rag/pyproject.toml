@@ -8,5 +8,6 @@ dependencies = [
     "arxiv>=2.2.0",
     "bs4>=0.0.2",
     "python-dateutil>=2.9.0.post0",
+    "rank-bm25>=0.2.2",
     "tqdm>=4.67.1",
 ]
