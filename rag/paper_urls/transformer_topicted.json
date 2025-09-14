@@ -1,0 +1,3082 @@
+[
+  {
+    "arxiv_id": "2410.23534",
+    "title": "Empirical Wavelet Transform",
+    "year": 2013,
+    "venue": "IEEE Transactions on Signal Processing",
+    "citationCount": 1680,
+    "arxiv_published": "2024-10-31",
+    "ar5iv_html": "https://ar5iv.org/html/2410.23534",
+    "pdf": "http://arxiv.org/pdf/2410.23534v1"
+  },
+  {
+    "arxiv_id": "2305.13245",
+    "title": "GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints",
+    "year": 2023,
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "citationCount": 831,
+    "arxiv_published": "2023-05-22",
+    "ar5iv_html": "https://ar5iv.org/html/2305.13245",
+    "pdf": "http://arxiv.org/pdf/2305.13245v3"
+  },
+  {
+    "arxiv_id": "2408.06072",
+    "title": "CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer",
+    "year": 2024,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 796,
+    "arxiv_published": "2024-08-12",
+    "ar5iv_html": "https://ar5iv.org/html/2408.06072",
+    "pdf": "http://arxiv.org/pdf/2408.06072v3"
+  },
+  {
+    "arxiv_id": "2310.06625",
+    "title": "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 703,
+    "arxiv_published": "2023-10-10",
+    "ar5iv_html": "https://ar5iv.org/html/2310.06625",
+    "pdf": "http://arxiv.org/pdf/2310.06625v4"
+  },
+  {
+    "arxiv_id": "2305.13048",
+    "title": "RWKV: Reinventing RNNs for the Transformer Era",
+    "year": 2023,
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "citationCount": 697,
+    "arxiv_published": "2023-05-22",
+    "ar5iv_html": "https://ar5iv.org/html/2305.13048",
+    "pdf": "http://arxiv.org/pdf/2305.13048v2"
+  },
+  {
+    "arxiv_id": "2405.21060",
+    "title": "Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality",
+    "year": 2024,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 689,
+    "arxiv_published": "2024-05-31",
+    "ar5iv_html": "https://ar5iv.org/html/2405.21060",
+    "pdf": "http://arxiv.org/pdf/2405.21060v1"
+  },
+  {
+    "arxiv_id": "2303.08810",
+    "title": "BiFormer: Vision Transformer with Bi-Level Routing Attention",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 593,
+    "arxiv_published": "2023-03-15",
+    "ar5iv_html": "https://ar5iv.org/html/2303.08810",
+    "pdf": "http://arxiv.org/pdf/2303.08810v1"
+  },
+  {
+    "arxiv_id": "2303.02937",
+    "title": "Shape transformation using variational implicit functions",
+    "year": 1999,
+    "venue": "SIGGRAPH Courses",
+    "citationCount": 573,
+    "arxiv_published": "2023-03-06",
+    "ar5iv_html": "https://ar5iv.org/html/2303.02937",
+    "pdf": "http://arxiv.org/pdf/2303.02937v1"
+  },
+  {
+    "arxiv_id": "2310.00426",
+    "title": "PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 527,
+    "arxiv_published": "2023-09-30",
+    "ar5iv_html": "https://ar5iv.org/html/2310.00426",
+    "pdf": "http://arxiv.org/pdf/2310.00426v3"
+  },
+  {
+    "arxiv_id": "2309.16588",
+    "title": "Vision Transformers Need Registers",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 450,
+    "arxiv_published": "2023-09-28",
+    "ar5iv_html": "https://ar5iv.org/html/2309.16588",
+    "pdf": "http://arxiv.org/pdf/2309.16588v2"
+  },
+  {
+    "arxiv_id": "2305.18654",
+    "title": "Faith and Fate: Limits of Transformers on Compositionality",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 418,
+    "arxiv_published": "2023-05-29",
+    "ar5iv_html": "https://ar5iv.org/html/2305.18654",
+    "pdf": "http://arxiv.org/pdf/2305.18654v3"
+  },
+  {
+    "arxiv_id": "2307.08621",
+    "title": "Retentive Network: A Successor to Transformer for Large Language Models",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 389,
+    "arxiv_published": "2023-07-17",
+    "ar5iv_html": "https://ar5iv.org/html/2307.08621",
+    "pdf": "http://arxiv.org/pdf/2307.08621v4"
+  },
+  {
+    "arxiv_id": "2305.07027",
+    "title": "EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 385,
+    "arxiv_published": "2023-05-11",
+    "ar5iv_html": "https://ar5iv.org/html/2305.07027",
+    "pdf": "http://arxiv.org/pdf/2305.07027v1"
+  },
+  {
+    "arxiv_id": "2401.03048",
+    "title": "Latte: Latent Diffusion Transformer for Video Generation",
+    "year": 2024,
+    "venue": "Trans. Mach. Learn. Res.",
+    "citationCount": 343,
+    "arxiv_published": "2024-01-05",
+    "ar5iv_html": "https://ar5iv.org/html/2401.03048",
+    "pdf": "http://arxiv.org/pdf/2401.03048v3"
+  },
+  {
+    "arxiv_id": "2310.01889",
+    "title": "Ring Attention with Blockwise Transformers for Near-Infinite Context",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 299,
+    "arxiv_published": "2023-10-03",
+    "ar5iv_html": "https://ar5iv.org/html/2310.01889",
+    "pdf": "http://arxiv.org/pdf/2310.01889v4"
+  },
+  {
+    "arxiv_id": "2303.06705",
+    "title": "Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 298,
+    "arxiv_published": "2023-03-12",
+    "ar5iv_html": "https://ar5iv.org/html/2303.06705",
+    "pdf": "http://arxiv.org/pdf/2303.06705v3"
+  },
+  {
+    "arxiv_id": "2408.12528",
+    "title": "Show-o: One Single Transformer to Unify Multimodal Understanding and Generation",
+    "year": 2024,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 296,
+    "arxiv_published": "2024-08-22",
+    "ar5iv_html": "https://ar5iv.org/html/2408.12528",
+    "pdf": "http://arxiv.org/pdf/2408.12528v7"
+  },
+  {
+    "arxiv_id": "2306.03823",
+    "title": "Transformative Effects of ChatGPT on Modern Education: Emerging Era of AI Chatbots",
+    "year": 2023,
+    "venue": "Internet of Things and Cyber-Physical Systems",
+    "citationCount": 293,
+    "arxiv_published": "2023-05-25",
+    "ar5iv_html": "https://ar5iv.org/html/2306.03823",
+    "pdf": "http://arxiv.org/pdf/2306.03823v1"
+  },
+  {
+    "arxiv_id": "2303.14978",
+    "title": "Learned Image Compression with Mixed Transformer-CNN Architectures",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 277,
+    "arxiv_published": "2023-03-27",
+    "ar5iv_html": "https://ar5iv.org/html/2303.14978",
+    "pdf": "http://arxiv.org/pdf/2303.14978v1"
+  },
+  {
+    "arxiv_id": "2303.11950",
+    "title": "Learning A Sparse Transformer Network for Effective Image Deraining",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 273,
+    "arxiv_published": "2023-03-21",
+    "ar5iv_html": "https://ar5iv.org/html/2303.11950",
+    "pdf": "http://arxiv.org/pdf/2303.11950v1"
+  },
+  {
+    "arxiv_id": "2403.19887",
+    "title": "Jamba: A Hybrid Transformer-Mamba Language Model",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 266,
+    "arxiv_published": "2024-03-28",
+    "ar5iv_html": "https://ar5iv.org/html/2403.19887",
+    "pdf": "http://arxiv.org/pdf/2403.19887v2"
+  },
+  {
+    "arxiv_id": "2402.02592",
+    "title": "Unified Training of Universal Time Series Forecasting Transformers",
+    "year": 2024,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 265,
+    "arxiv_published": "2024-02-04",
+    "ar5iv_html": "https://ar5iv.org/html/2402.02592",
+    "pdf": "http://arxiv.org/pdf/2402.02592v2"
+  },
+  {
+    "arxiv_id": "2306.07303",
+    "title": "A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks",
+    "year": 2023,
+    "venue": "Expert systems with applications",
+    "citationCount": 261,
+    "arxiv_published": "2023-06-11",
+    "ar5iv_html": "https://ar5iv.org/html/2306.07303",
+    "pdf": "http://arxiv.org/pdf/2306.07303v1"
+  },
+  {
+    "arxiv_id": "2306.08385",
+    "title": "NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 259,
+    "arxiv_published": "2023-06-14",
+    "ar5iv_html": "https://ar5iv.org/html/2306.08385",
+    "pdf": "http://arxiv.org/pdf/2306.08385v1"
+  },
+  {
+    "arxiv_id": "2401.08740",
+    "title": "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers",
+    "year": 2024,
+    "venue": "European Conference on Computer Vision",
+    "citationCount": 256,
+    "arxiv_published": "2024-01-16",
+    "ar5iv_html": "https://ar5iv.org/html/2401.08740",
+    "pdf": "http://arxiv.org/pdf/2401.08740v2"
+  },
+  {
+    "arxiv_id": "2303.08112",
+    "title": "Eliciting Latent Predictions from Transformers with the Tuned Lens",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 256,
+    "arxiv_published": "2023-03-14",
+    "ar5iv_html": "https://ar5iv.org/html/2303.08112",
+    "pdf": "http://arxiv.org/pdf/2303.08112v5"
+  },
+  {
+    "arxiv_id": "2305.20091",
+    "title": "Humans in 4D: Reconstructing and Tracking Humans with Transformers",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 236,
+    "arxiv_published": "2023-05-31",
+    "ar5iv_html": "https://ar5iv.org/html/2305.20091",
+    "pdf": "http://arxiv.org/pdf/2305.20091v3"
+  },
+  {
+    "arxiv_id": "2305.19466",
+    "title": "The Impact of Positional Encoding on Length Generalization in Transformers",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 233,
+    "arxiv_published": "2023-05-31",
+    "ar5iv_html": "https://ar5iv.org/html/2305.19466",
+    "pdf": "http://arxiv.org/pdf/2305.19466v2"
+  },
+  {
+    "arxiv_id": "2306.00989",
+    "title": "Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles",
+    "year": 2023,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 230,
+    "arxiv_published": "2023-06-01",
+    "ar5iv_html": "https://ar5iv.org/html/2306.00989",
+    "pdf": "http://arxiv.org/pdf/2306.00989v1"
+  },
+  {
+    "arxiv_id": "2305.10435",
+    "title": "GPT (Generative Pre-Trained Transformer)— A Comprehensive Review on Enabling Technologies, Potential Applications, Emerging Challenges, and Future Directions",
+    "year": 2023,
+    "venue": "IEEE Access",
+    "citationCount": 228,
+    "arxiv_published": "2023-05-11",
+    "ar5iv_html": "https://ar5iv.org/html/2305.10435",
+    "pdf": "http://arxiv.org/pdf/2305.10435v2"
+  },
+  {
+    "arxiv_id": "2306.09927",
+    "title": "Trained Transformers Learn Linear Models In-Context",
+    "year": 2023,
+    "venue": "Journal of machine learning research",
+    "citationCount": 226,
+    "arxiv_published": "2023-06-16",
+    "ar5iv_html": "https://ar5iv.org/html/2306.09927",
+    "pdf": "http://arxiv.org/pdf/2306.09927v3"
+  },
+  {
+    "arxiv_id": "2302.14376",
+    "title": "GNOT: A General Neural Operator Transformer for Operator Learning",
+    "year": 2023,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 226,
+    "arxiv_published": "2023-02-28",
+    "ar5iv_html": "https://ar5iv.org/html/2302.14376",
+    "pdf": "http://arxiv.org/pdf/2302.14376v3"
+  },
+  {
+    "arxiv_id": "2308.03364",
+    "title": "Dual Aggregation Transformer for Image Super-Resolution",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 217,
+    "arxiv_published": "2023-08-07",
+    "ar5iv_html": "https://ar5iv.org/html/2308.03364",
+    "pdf": "http://arxiv.org/pdf/2308.03364v2"
+  },
+  {
+    "arxiv_id": "2306.04637",
+    "title": "Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 215,
+    "arxiv_published": "2023-06-07",
+    "ar5iv_html": "https://ar5iv.org/html/2306.04637",
+    "pdf": "http://arxiv.org/pdf/2306.04637v2"
+  },
+  {
+    "arxiv_id": "2308.00442",
+    "title": "FLatten Transformer: Vision Transformer using Focused Linear Attention",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 211,
+    "arxiv_published": "2023-08-01",
+    "ar5iv_html": "https://ar5iv.org/html/2308.00442",
+    "pdf": "http://arxiv.org/pdf/2308.00442v2"
+  },
+  {
+    "arxiv_id": "2303.14189",
+    "title": "FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 202,
+    "arxiv_published": "2023-03-24",
+    "ar5iv_html": "https://ar5iv.org/html/2303.14189",
+    "pdf": "http://arxiv.org/pdf/2303.14189v2"
+  },
+  {
+    "arxiv_id": "2303.09975",
+    "title": "MedNeXt: Transformer-driven Scaling of ConvNets for Medical Image Segmentation",
+    "year": 2023,
+    "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "citationCount": 197,
+    "arxiv_published": "2023-03-17",
+    "ar5iv_html": "https://ar5iv.org/html/2303.09975",
+    "pdf": "http://arxiv.org/pdf/2303.09975v5"
+  },
+  {
+    "arxiv_id": "2306.00864",
+    "title": "A transformer-based representation-learning model with unified processing of multimodal input for clinical diagnostics",
+    "year": 2023,
+    "venue": "Nature Biomedical Engineering",
+    "citationCount": 196,
+    "arxiv_published": "2023-06-01",
+    "ar5iv_html": "https://ar5iv.org/html/2306.00864",
+    "pdf": "http://arxiv.org/pdf/2306.00864v1"
+  },
+  {
+    "arxiv_id": "2303.14389",
+    "title": "Masked Diffusion Transformer is a Strong Image Synthesizer",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 193,
+    "arxiv_published": "2023-03-25",
+    "ar5iv_html": "https://ar5iv.org/html/2303.14389",
+    "pdf": "http://arxiv.org/pdf/2303.14389v2"
+  },
+  {
+    "arxiv_id": "2306.00297",
+    "title": "Transformers learn to implement preconditioned gradient descent for in-context learning",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 190,
+    "arxiv_published": "2023-06-01",
+    "ar5iv_html": "https://ar5iv.org/html/2306.00297",
+    "pdf": "http://arxiv.org/pdf/2306.00297v2"
+  },
+  {
+    "arxiv_id": "2306.12059",
+    "title": "EquiformerV2: Improved Equivariant Transformer for Scaling to Higher-Degree Representations",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 187,
+    "arxiv_published": "2023-06-21",
+    "ar5iv_html": "https://ar5iv.org/html/2306.12059",
+    "pdf": "http://arxiv.org/pdf/2306.12059v3"
+  },
+  {
+    "arxiv_id": "2307.02486",
+    "title": "LongNet: Scaling Transformers to 1, 000, 000, 000 Tokens",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 185,
+    "arxiv_published": "2023-07-05",
+    "ar5iv_html": "https://ar5iv.org/html/2307.02486",
+    "pdf": "http://arxiv.org/pdf/2307.02486v2"
+  },
+  {
+    "arxiv_id": "2303.06555",
+    "title": "One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale",
+    "year": 2023,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 181,
+    "arxiv_published": "2023-03-12",
+    "ar5iv_html": "https://ar5iv.org/html/2303.06555",
+    "pdf": "http://arxiv.org/pdf/2303.06555v2"
+  },
+  {
+    "arxiv_id": "2304.09854",
+    "title": "Transformer-Based Visual Segmentation: A Survey",
+    "year": 2023,
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "citationCount": 180,
+    "arxiv_published": "2023-04-19",
+    "ar5iv_html": "https://ar5iv.org/html/2304.09854",
+    "pdf": "http://arxiv.org/pdf/2304.09854v4"
+  },
+  {
+    "arxiv_id": "2305.09880",
+    "title": "A survey of the vision transformers and their CNN-transformer based variants",
+    "year": 2023,
+    "venue": "Artificial Intelligence Review",
+    "citationCount": 177,
+    "arxiv_published": "2023-05-17",
+    "ar5iv_html": "https://ar5iv.org/html/2305.09880",
+    "pdf": "http://arxiv.org/pdf/2305.09880v4"
+  },
+  {
+    "arxiv_id": "2306.14896",
+    "title": "RVT: Robotic View Transformer for 3D Object Manipulation",
+    "year": 2023,
+    "venue": "Conference on Robot Learning",
+    "citationCount": 171,
+    "arxiv_published": "2023-06-26",
+    "ar5iv_html": "https://ar5iv.org/html/2306.14896",
+    "pdf": "http://arxiv.org/pdf/2306.14896v1"
+  },
+  {
+    "arxiv_id": "2305.16300",
+    "title": "Landmark Attention: Random-Access Infinite Context Length for Transformers",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 171,
+    "arxiv_published": "2023-05-25",
+    "ar5iv_html": "https://ar5iv.org/html/2305.16300",
+    "pdf": "http://arxiv.org/pdf/2305.16300v2"
+  },
+  {
+    "arxiv_id": "2305.03273",
+    "title": "Semantic Segmentation using Vision Transformers: A survey",
+    "year": 2023,
+    "venue": "Engineering applications of artificial intelligence",
+    "citationCount": 170,
+    "arxiv_published": "2023-05-05",
+    "ar5iv_html": "https://ar5iv.org/html/2305.03273",
+    "pdf": "http://arxiv.org/pdf/2305.03273v1"
+  },
+  {
+    "arxiv_id": "2311.15475",
+    "title": "MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 163,
+    "arxiv_published": "2023-11-27",
+    "ar5iv_html": "https://ar5iv.org/html/2311.15475",
+    "pdf": "http://arxiv.org/pdf/2311.15475v1"
+  },
+  {
+    "arxiv_id": "2303.04741",
+    "title": "GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation",
+    "year": 2022,
+    "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "citationCount": 163,
+    "arxiv_published": "2023-03-03",
+    "ar5iv_html": "https://ar5iv.org/html/2303.04741",
+    "pdf": "http://arxiv.org/pdf/2303.04741v1"
+  },
+  {
+    "arxiv_id": "2405.08748",
+    "title": "Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 161,
+    "arxiv_published": "2024-05-14",
+    "ar5iv_html": "https://ar5iv.org/html/2405.08748",
+    "pdf": "http://arxiv.org/pdf/2405.08748v1"
+  },
+  {
+    "arxiv_id": "2303.12766",
+    "title": "Spherical Transformer for LiDAR-Based 3D Recognition",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 160,
+    "arxiv_published": "2023-03-22",
+    "ar5iv_html": "https://ar5iv.org/html/2303.12766",
+    "pdf": "http://arxiv.org/pdf/2303.12766v1"
+  },
+  {
+    "arxiv_id": "2308.04352",
+    "title": "3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 159,
+    "arxiv_published": "2023-08-08",
+    "ar5iv_html": "https://ar5iv.org/html/2308.04352",
+    "pdf": "http://arxiv.org/pdf/2308.04352v1"
+  },
+  {
+    "arxiv_id": "2402.12875",
+    "title": "Chain of Thought Empowers Transformers to Solve Inherently Serial Problems",
+    "year": 2024,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 157,
+    "arxiv_published": "2024-02-20",
+    "ar5iv_html": "https://ar5iv.org/html/2402.12875",
+    "pdf": "http://arxiv.org/pdf/2402.12875v4"
+  },
+  {
+    "arxiv_id": "2312.05251",
+    "title": "Reconstructing Hands in 3D with Transformers",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 157,
+    "arxiv_published": "2023-12-08",
+    "ar5iv_html": "https://ar5iv.org/html/2312.05251",
+    "pdf": "http://arxiv.org/pdf/2312.05251v1"
+  },
+  {
+    "arxiv_id": "2402.10588",
+    "title": "Do Llamas Work in English? On the Latent Language of Multilingual Transformers",
+    "year": 2024,
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "citationCount": 156,
+    "arxiv_published": "2024-02-16",
+    "ar5iv_html": "https://ar5iv.org/html/2402.10588",
+    "pdf": "http://arxiv.org/pdf/2402.10588v4"
+  },
+  {
+    "arxiv_id": "2310.04948",
+    "title": "TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 155,
+    "arxiv_published": "2023-10-08",
+    "ar5iv_html": "https://ar5iv.org/html/2310.04948",
+    "pdf": "http://arxiv.org/pdf/2310.04948v3"
+  },
+  {
+    "arxiv_id": "2307.01694",
+    "title": "Spike-driven Transformer",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 155,
+    "arxiv_published": "2023-07-04",
+    "ar5iv_html": "https://ar5iv.org/html/2307.01694",
+    "pdf": "http://arxiv.org/pdf/2307.01694v1"
+  },
+  {
+    "arxiv_id": "2307.03170",
+    "title": "Focused Transformer: Contrastive Training for Context Scaling",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 145,
+    "arxiv_published": "2023-07-06",
+    "ar5iv_html": "https://ar5iv.org/html/2307.03170",
+    "pdf": "http://arxiv.org/pdf/2307.03170v2"
+  },
+  {
+    "arxiv_id": "2308.08742",
+    "title": "PMET: Precise Model Editing in a Transformer",
+    "year": 2023,
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citationCount": 144,
+    "arxiv_published": "2023-08-17",
+    "ar5iv_html": "https://ar5iv.org/html/2308.08742",
+    "pdf": "http://arxiv.org/pdf/2308.08742v6"
+  },
+  {
+    "arxiv_id": "2410.06940",
+    "title": "Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think",
+    "year": 2024,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 143,
+    "arxiv_published": "2024-10-09",
+    "ar5iv_html": "https://ar5iv.org/html/2410.06940",
+    "pdf": "http://arxiv.org/pdf/2410.06940v4"
+  },
+  {
+    "arxiv_id": "2307.00589",
+    "title": "BioCPT: Contrastive Pre-trained Transformers with Large-scale PubMed Search Logs for Zero-shot Biomedical Information Retrieval",
+    "year": 2023,
+    "venue": "Bioinform.",
+    "citationCount": 142,
+    "arxiv_published": "2023-07-02",
+    "ar5iv_html": "https://ar5iv.org/html/2307.00589",
+    "pdf": "http://arxiv.org/pdf/2307.00589v2"
+  },
+  {
+    "arxiv_id": "2309.14509",
+    "title": "DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 141,
+    "arxiv_published": "2023-09-25",
+    "ar5iv_html": "https://ar5iv.org/html/2309.14509",
+    "pdf": "http://arxiv.org/pdf/2309.14509v2"
+  },
+  {
+    "arxiv_id": "2311.17132",
+    "title": "TransNeXt: Robust Foveal Visual Perception for Vision Transformers",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 139,
+    "arxiv_published": "2023-11-28",
+    "ar5iv_html": "https://ar5iv.org/html/2311.17132",
+    "pdf": "http://arxiv.org/pdf/2311.17132v3"
+  },
+  {
+    "arxiv_id": "2303.16580",
+    "title": "Generalized Relation Modeling for Transformer Tracking",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 139,
+    "arxiv_published": "2023-03-29",
+    "ar5iv_html": "https://ar5iv.org/html/2303.16580",
+    "pdf": "http://arxiv.org/pdf/2303.16580v3"
+  },
+  {
+    "arxiv_id": "2404.07143",
+    "title": "Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 138,
+    "arxiv_published": "2024-04-10",
+    "ar5iv_html": "https://ar5iv.org/html/2404.07143",
+    "pdf": "http://arxiv.org/pdf/2404.07143v2"
+  },
+  {
+    "arxiv_id": "2306.15350",
+    "title": "CellViT: Vision Transformers for Precise Cell Segmentation and Classification",
+    "year": 2023,
+    "venue": "Medical Image Anal.",
+    "citationCount": 138,
+    "arxiv_published": "2023-06-27",
+    "ar5iv_html": "https://ar5iv.org/html/2306.15350",
+    "pdf": "http://arxiv.org/pdf/2306.15350v2"
+  },
+  {
+    "arxiv_id": "2303.06147",
+    "title": "Exphormer: Sparse Transformers for Graphs",
+    "year": 2023,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 138,
+    "arxiv_published": "2023-03-10",
+    "ar5iv_html": "https://ar5iv.org/html/2303.06147",
+    "pdf": "http://arxiv.org/pdf/2303.06147v2"
+  },
+  {
+    "arxiv_id": "2305.01625",
+    "title": "Unlimiformer: Long-Range Transformers with Unlimited Length Input",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 136,
+    "arxiv_published": "2023-05-02",
+    "ar5iv_html": "https://ar5iv.org/html/2305.01625",
+    "pdf": "http://arxiv.org/pdf/2305.01625v3"
+  },
+  {
+    "arxiv_id": "2310.11453",
+    "title": "BitNet: Scaling 1-bit Transformers for Large Language Models",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 135,
+    "arxiv_published": "2023-10-17",
+    "ar5iv_html": "https://ar5iv.org/html/2310.11453",
+    "pdf": "http://arxiv.org/pdf/2310.11453v1"
+  },
+  {
+    "arxiv_id": "2310.16028",
+    "title": "What Algorithms can Transformers Learn? A Study in Length Generalization",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 134,
+    "arxiv_published": "2023-10-24",
+    "ar5iv_html": "https://ar5iv.org/html/2310.16028",
+    "pdf": "http://arxiv.org/pdf/2310.16028v1"
+  },
+  {
+    "arxiv_id": "2307.06304",
+    "title": "Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 133,
+    "arxiv_published": "2023-07-12",
+    "ar5iv_html": "https://ar5iv.org/html/2307.06304",
+    "pdf": "http://arxiv.org/pdf/2307.06304v1"
+  },
+  {
+    "arxiv_id": "2307.01492",
+    "title": "FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 133,
+    "arxiv_published": "2023-07-04",
+    "ar5iv_html": "https://ar5iv.org/html/2307.01492",
+    "pdf": "http://arxiv.org/pdf/2307.01492v1"
+  },
+  {
+    "arxiv_id": "2309.03897",
+    "title": "ProPainter: Improving Propagation and Transformer for Video Inpainting",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 129,
+    "arxiv_published": "2023-09-07",
+    "ar5iv_html": "https://ar5iv.org/html/2309.03897",
+    "pdf": "http://arxiv.org/pdf/2309.03897v1"
+  },
+  {
+    "arxiv_id": "2308.03768",
+    "title": "GeoTransformer: Fast and Robust Point Cloud Registration With Geometric Transformer",
+    "year": 2023,
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "citationCount": 129,
+    "arxiv_published": "2023-07-25",
+    "ar5iv_html": "https://ar5iv.org/html/2308.03768",
+    "pdf": "http://arxiv.org/pdf/2308.03768v1"
+  },
+  {
+    "arxiv_id": "2303.14816",
+    "title": "Feature Shrinkage Pyramid for Camouflaged Object Detection with Transformers",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 128,
+    "arxiv_published": "2023-03-26",
+    "ar5iv_html": "https://ar5iv.org/html/2303.14816",
+    "pdf": "http://arxiv.org/pdf/2303.14816v1"
+  },
+  {
+    "arxiv_id": "2303.05760",
+    "title": "GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 128,
+    "arxiv_published": "2023-03-10",
+    "ar5iv_html": "https://ar5iv.org/html/2303.05760",
+    "pdf": "http://arxiv.org/pdf/2303.05760v2"
+  },
+  {
+    "arxiv_id": "2304.09790",
+    "title": "AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 125,
+    "arxiv_published": "2023-04-19",
+    "ar5iv_html": "https://ar5iv.org/html/2304.09790",
+    "pdf": "http://arxiv.org/pdf/2304.09790v1"
+  },
+  {
+    "arxiv_id": "2407.08083",
+    "title": "MambaVision: A Hybrid Mamba-Transformer Vision Backbone",
+    "year": 2024,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 124,
+    "arxiv_published": "2024-07-10",
+    "ar5iv_html": "https://ar5iv.org/html/2407.08083",
+    "pdf": "http://arxiv.org/pdf/2407.08083v2"
+  },
+  {
+    "arxiv_id": "2308.14036",
+    "title": "MB-TaylorFormer: Multi-branch Efficient Transformer Expanded by Taylor Formula for Image Dehazing",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 120,
+    "arxiv_published": "2023-08-27",
+    "ar5iv_html": "https://ar5iv.org/html/2308.14036",
+    "pdf": "http://arxiv.org/pdf/2308.14036v2"
+  },
+  {
+    "arxiv_id": "2303.16160",
+    "title": "One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 120,
+    "arxiv_published": "2023-03-28",
+    "ar5iv_html": "https://ar5iv.org/html/2303.16160",
+    "pdf": "http://arxiv.org/pdf/2303.16160v1"
+  },
+  {
+    "arxiv_id": "2410.10629",
+    "title": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 118,
+    "arxiv_published": "2024-10-14",
+    "ar5iv_html": "https://ar5iv.org/html/2410.10629",
+    "pdf": "http://arxiv.org/pdf/2410.10629v3"
+  },
+  {
+    "arxiv_id": "2402.19072",
+    "title": "TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables",
+    "year": 2024,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 118,
+    "arxiv_published": "2024-02-29",
+    "ar5iv_html": "https://ar5iv.org/html/2402.19072",
+    "pdf": "http://arxiv.org/pdf/2402.19072v4"
+  },
+  {
+    "arxiv_id": "2401.06199",
+    "title": "xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein",
+    "year": 2024,
+    "venue": "bioRxiv",
+    "citationCount": 118,
+    "arxiv_published": "2024-01-11",
+    "ar5iv_html": "https://ar5iv.org/html/2401.06199",
+    "pdf": "http://arxiv.org/pdf/2401.06199v2"
+  },
+  {
+    "arxiv_id": "2306.10759",
+    "title": "Simplifying and Empowering Transformers for Large-Graph Representations",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 118,
+    "arxiv_published": "2023-06-19",
+    "ar5iv_html": "https://ar5iv.org/html/2306.10759",
+    "pdf": "http://arxiv.org/pdf/2306.10759v5"
+  },
+  {
+    "arxiv_id": "2411.15098",
+    "title": "OminiControl: Minimal and Universal Control for Diffusion Transformer",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 117,
+    "arxiv_published": "2024-11-22",
+    "ar5iv_html": "https://ar5iv.org/html/2411.15098",
+    "pdf": "http://arxiv.org/pdf/2411.15098v6"
+  },
+  {
+    "arxiv_id": "2401.02425",
+    "title": "UAV Trajectory Planning for AoI-Minimal Data Collection in UAV-Aided IoT Networks by Transformer",
+    "year": 2023,
+    "venue": "IEEE Transactions on Wireless Communications",
+    "citationCount": 117,
+    "arxiv_published": "2023-11-08",
+    "ar5iv_html": "https://ar5iv.org/html/2401.02425",
+    "pdf": "http://arxiv.org/pdf/2401.02425v1"
+  },
+  {
+    "arxiv_id": "2305.17589",
+    "title": "Graph Inductive Biases in Transformers without Message Passing",
+    "year": 2023,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 117,
+    "arxiv_published": "2023-05-27",
+    "ar5iv_html": "https://ar5iv.org/html/2305.17589",
+    "pdf": "http://arxiv.org/pdf/2305.17589v1"
+  },
+  {
+    "arxiv_id": "2304.13030",
+    "title": "CompletionFormer: Depth Completion with Convolutions and Vision Transformers",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 117,
+    "arxiv_published": "2023-04-25",
+    "ar5iv_html": "https://ar5iv.org/html/2304.13030",
+    "pdf": "http://arxiv.org/pdf/2304.13030v1"
+  },
+  {
+    "arxiv_id": "2302.14017",
+    "title": "Full Stack Optimization of Transformer Inference: a Survey",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 116,
+    "arxiv_published": "2023-02-27",
+    "ar5iv_html": "https://ar5iv.org/html/2302.14017",
+    "pdf": "http://arxiv.org/pdf/2302.14017v1"
+  },
+  {
+    "arxiv_id": "2304.00570",
+    "title": "FedFTN: Personalized Federated Learning with Deep Feature Transformation Network for Multi-institutional Low-count PET Denoising",
+    "year": 2023,
+    "venue": "2023 IEEE Nuclear Science Symposium, Medical Imaging Conference and International Symposium on Room-Temperature Semiconductor Detectors (NSS MIC RTSD)",
+    "citationCount": 115,
+    "arxiv_published": "2023-04-02",
+    "ar5iv_html": "https://ar5iv.org/html/2304.00570",
+    "pdf": "http://arxiv.org/pdf/2304.00570v3"
+  },
+  {
+    "arxiv_id": "2303.15446",
+    "title": "SwiftFormer: Efficient Additive Attention for Transformer-based Real-time Mobile Vision Applications",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 115,
+    "arxiv_published": "2023-03-27",
+    "ar5iv_html": "https://ar5iv.org/html/2303.15446",
+    "pdf": "http://arxiv.org/pdf/2303.15446v2"
+  },
+  {
+    "arxiv_id": "2309.11523",
+    "title": "RMT: Retentive Networks Meet Vision Transformers",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 114,
+    "arxiv_published": "2023-09-20",
+    "ar5iv_html": "https://ar5iv.org/html/2309.11523",
+    "pdf": "http://arxiv.org/pdf/2309.11523v6"
+  },
+  {
+    "arxiv_id": "2305.16843",
+    "title": "Randomized Positional Encodings Boost Length Generalization of Transformers",
+    "year": 2023,
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "citationCount": 114,
+    "arxiv_published": "2023-05-26",
+    "ar5iv_html": "https://ar5iv.org/html/2305.16843",
+    "pdf": "http://arxiv.org/pdf/2305.16843v1"
+  },
+  {
+    "arxiv_id": "2406.06484",
+    "title": "Parallelizing Linear Transformers with the Delta Rule over Sequence Length",
+    "year": 2024,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 113,
+    "arxiv_published": "2024-06-10",
+    "ar5iv_html": "https://ar5iv.org/html/2406.06484",
+    "pdf": "http://arxiv.org/pdf/2406.06484v6"
+  },
+  {
+    "arxiv_id": "2306.06283",
+    "title": "14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon",
+    "year": 2023,
+    "venue": "Digital Discovery",
+    "citationCount": 113,
+    "arxiv_published": "2023-06-09",
+    "ar5iv_html": "https://ar5iv.org/html/2306.06283",
+    "pdf": "http://arxiv.org/pdf/2306.06283v4"
+  },
+  {
+    "arxiv_id": "2402.01032",
+    "title": "Repeat After Me: Transformers are Better than State Space Models at Copying",
+    "year": 2024,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 112,
+    "arxiv_published": "2024-02-01",
+    "ar5iv_html": "https://ar5iv.org/html/2402.01032",
+    "pdf": "http://arxiv.org/pdf/2402.01032v2"
+  },
+  {
+    "arxiv_id": "2308.03274",
+    "title": "DSformer: A Double Sampling Transformer for Multivariate Time Series Long-term Prediction",
+    "year": 2023,
+    "venue": "International Conference on Information and Knowledge Management",
+    "citationCount": 112,
+    "arxiv_published": "2023-08-07",
+    "ar5iv_html": "https://ar5iv.org/html/2308.03274",
+    "pdf": "http://arxiv.org/pdf/2308.03274v1"
+  },
+  {
+    "arxiv_id": "2309.14322",
+    "title": "Small-scale proxies for large-scale Transformer training instabilities",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 111,
+    "arxiv_published": "2023-09-25",
+    "ar5iv_html": "https://ar5iv.org/html/2309.14322",
+    "pdf": "http://arxiv.org/pdf/2309.14322v2"
+  },
+  {
+    "arxiv_id": "2306.00802",
+    "title": "Birth of a Transformer: A Memory Viewpoint",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 111,
+    "arxiv_published": "2023-06-01",
+    "ar5iv_html": "https://ar5iv.org/html/2306.00802",
+    "pdf": "http://arxiv.org/pdf/2306.00802v2"
+  },
+  {
+    "arxiv_id": "2503.11651",
+    "title": "VGGT: Visual Geometry Grounded Transformer",
+    "year": 2025,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 108,
+    "arxiv_published": "2025-03-14",
+    "ar5iv_html": "https://ar5iv.org/html/2503.11651",
+    "pdf": "http://arxiv.org/pdf/2503.11651v1"
+  },
+  {
+    "arxiv_id": "2308.09124",
+    "title": "Linearity of Relation Decoding in Transformer Language Models",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 108,
+    "arxiv_published": "2023-08-17",
+    "ar5iv_html": "https://ar5iv.org/html/2308.09124",
+    "pdf": "http://arxiv.org/pdf/2308.09124v2"
+  },
+  {
+    "arxiv_id": "2310.12570",
+    "title": "DA-TransUNet: integrating spatial and channel dual attention with transformer U-net for medical image segmentation",
+    "year": 2023,
+    "venue": "Frontiers in Bioengineering and Biotechnology",
+    "citationCount": 107,
+    "arxiv_published": "2023-10-19",
+    "ar5iv_html": "https://ar5iv.org/html/2310.12570",
+    "pdf": "http://arxiv.org/pdf/2310.12570v2"
+  },
+  {
+    "arxiv_id": "2308.02236",
+    "title": "FB-BEV: BEV Representation from Forward-Backward View Transformations",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 107,
+    "arxiv_published": "2023-08-04",
+    "ar5iv_html": "https://ar5iv.org/html/2308.02236",
+    "pdf": "http://arxiv.org/pdf/2308.02236v2"
+  },
+  {
+    "arxiv_id": "2305.03045",
+    "title": "OctFormer: Octree-based Transformers for 3D Point Clouds",
+    "year": 2023,
+    "venue": "ACM Transactions on Graphics",
+    "citationCount": 106,
+    "arxiv_published": "2023-05-04",
+    "ar5iv_html": "https://ar5iv.org/html/2305.03045",
+    "pdf": "http://arxiv.org/pdf/2305.03045v2"
+  },
+  {
+    "arxiv_id": "2405.05945",
+    "title": "Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 105,
+    "arxiv_published": "2024-05-09",
+    "ar5iv_html": "https://ar5iv.org/html/2405.05945",
+    "pdf": "http://arxiv.org/pdf/2405.05945v3"
+  },
+  {
+    "arxiv_id": "2305.07185",
+    "title": "MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 105,
+    "arxiv_published": "2023-05-12",
+    "ar5iv_html": "https://ar5iv.org/html/2305.07185",
+    "pdf": "http://arxiv.org/pdf/2305.07185v2"
+  },
+  {
+    "arxiv_id": "2306.12929",
+    "title": "Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 104,
+    "arxiv_published": "2023-06-22",
+    "ar5iv_html": "https://ar5iv.org/html/2306.12929",
+    "pdf": "http://arxiv.org/pdf/2306.12929v2"
+  },
+  {
+    "arxiv_id": "2404.02258",
+    "title": "Mixture-of-Depths: Dynamically allocating compute in transformer-based language models",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 103,
+    "arxiv_published": "2024-04-02",
+    "ar5iv_html": "https://ar5iv.org/html/2404.02258",
+    "pdf": "http://arxiv.org/pdf/2404.02258v1"
+  },
+  {
+    "arxiv_id": "2304.03571",
+    "title": "β-Variational autoencoders and transformers for reduced-order modelling of fluid flows",
+    "year": 2023,
+    "venue": "Nature Communications",
+    "citationCount": 103,
+    "arxiv_published": "2023-04-07",
+    "ar5iv_html": "https://ar5iv.org/html/2304.03571",
+    "pdf": "http://arxiv.org/pdf/2304.03571v2"
+  },
+  {
+    "arxiv_id": "2304.03410",
+    "title": "$R^{2}$ Former: Unified Retrieval and Reranking Transformer for Place Recognition",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 103,
+    "arxiv_published": "2023-04-06",
+    "ar5iv_html": "https://ar5iv.org/html/2304.03410",
+    "pdf": "http://arxiv.org/pdf/2304.03410v1"
+  },
+  {
+    "arxiv_id": "2303.09325",
+    "title": "Can Generative Pre-trained Transformers (GPT) Pass Assessments in Higher Education Programming Courses?",
+    "year": 2023,
+    "venue": "ASAIL@ICAIL",
+    "citationCount": 103,
+    "arxiv_published": "2023-03-16",
+    "ar5iv_html": "https://ar5iv.org/html/2303.09325",
+    "pdf": "http://arxiv.org/pdf/2303.09325v1"
+  },
+  {
+    "arxiv_id": "2306.01129",
+    "title": "White-Box Transformers via Sparse Rate Reduction",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 102,
+    "arxiv_published": "2023-06-01",
+    "ar5iv_html": "https://ar5iv.org/html/2306.01129",
+    "pdf": "http://arxiv.org/pdf/2306.01129v1"
+  },
+  {
+    "arxiv_id": "2306.02896",
+    "title": "Representational Strengths and Limitations of Transformers",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 101,
+    "arxiv_published": "2023-06-05",
+    "ar5iv_html": "https://ar5iv.org/html/2306.02896",
+    "pdf": "http://arxiv.org/pdf/2306.02896v2"
+  },
+  {
+    "arxiv_id": "2303.07109",
+    "title": "Transformer-based World Models Are Happy With 100k Interactions",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 101,
+    "arxiv_published": "2023-03-13",
+    "ar5iv_html": "https://ar5iv.org/html/2303.07109",
+    "pdf": "http://arxiv.org/pdf/2303.07109v1"
+  },
+  {
+    "arxiv_id": "2310.11690",
+    "title": "Deep learning based on Transformer architecture for power system short-term voltage stability assessment with class imbalance",
+    "year": 2023,
+    "venue": "Renewable & Sustainable Energy Reviews",
+    "citationCount": 100,
+    "arxiv_published": "2023-10-18",
+    "ar5iv_html": "https://ar5iv.org/html/2310.11690",
+    "pdf": "http://arxiv.org/pdf/2310.11690v1"
+  },
+  {
+    "arxiv_id": "2310.10408",
+    "title": "A cross Transformer for image denoising",
+    "year": 2023,
+    "venue": "Information Fusion",
+    "citationCount": 100,
+    "arxiv_published": "2023-10-16",
+    "ar5iv_html": "https://ar5iv.org/html/2310.10408",
+    "pdf": "http://arxiv.org/pdf/2310.10408v1"
+  },
+  {
+    "arxiv_id": "2307.03381",
+    "title": "Teaching Arithmetic to Small Transformers",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 100,
+    "arxiv_published": "2023-07-07",
+    "ar5iv_html": "https://ar5iv.org/html/2307.03381",
+    "pdf": "http://arxiv.org/pdf/2307.03381v1"
+  },
+  {
+    "arxiv_id": "2308.09442",
+    "title": "BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 99,
+    "arxiv_published": "2023-08-18",
+    "ar5iv_html": "https://ar5iv.org/html/2308.09442",
+    "pdf": "http://arxiv.org/pdf/2308.09442v2"
+  },
+  {
+    "arxiv_id": "2308.07935",
+    "title": "Transforming Sentiment Analysis in the Financial Domain with ChatGPT",
+    "year": 2023,
+    "venue": "Machine Learning with Applications",
+    "citationCount": 98,
+    "arxiv_published": "2023-08-13",
+    "ar5iv_html": "https://ar5iv.org/html/2308.07935",
+    "pdf": "http://arxiv.org/pdf/2308.07935v1"
+  },
+  {
+    "arxiv_id": "2305.17560",
+    "title": "Scalable Transformer for PDE Surrogate Modeling",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 98,
+    "arxiv_published": "2023-05-27",
+    "ar5iv_html": "https://ar5iv.org/html/2305.17560",
+    "pdf": "http://arxiv.org/pdf/2305.17560v2"
+  },
+  {
+    "arxiv_id": "2305.16642",
+    "title": "Improving position encoding of transformers for multivariate time series classification",
+    "year": 2023,
+    "venue": "Data mining and knowledge discovery",
+    "citationCount": 98,
+    "arxiv_published": "2023-05-26",
+    "ar5iv_html": "https://ar5iv.org/html/2305.16642",
+    "pdf": "http://arxiv.org/pdf/2305.16642v1"
+  },
+  {
+    "arxiv_id": "2303.08231",
+    "title": "Rotation-Invariant Transformer for Point Cloud Matching",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 97,
+    "arxiv_published": "2023-03-14",
+    "ar5iv_html": "https://ar5iv.org/html/2303.08231",
+    "pdf": "http://arxiv.org/pdf/2303.08231v3"
+  },
+  {
+    "arxiv_id": "2303.01028",
+    "title": "Specformer: Spectral Graph Neural Networks Meet Transformers",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 97,
+    "arxiv_published": "2023-03-02",
+    "ar5iv_html": "https://ar5iv.org/html/2303.01028",
+    "pdf": "http://arxiv.org/pdf/2303.01028v1"
+  },
+  {
+    "arxiv_id": "2305.10427",
+    "title": "Accelerating Transformer Inference for Translation via Parallel Decoding",
+    "year": 2023,
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "citationCount": 96,
+    "arxiv_published": "2023-05-17",
+    "ar5iv_html": "https://ar5iv.org/html/2305.10427",
+    "pdf": "http://arxiv.org/pdf/2305.10427v1"
+  },
+  {
+    "arxiv_id": "2304.11062",
+    "title": "Scaling Transformer to 1M tokens and beyond with RMT",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 96,
+    "arxiv_published": "2023-04-19",
+    "ar5iv_html": "https://ar5iv.org/html/2304.11062",
+    "pdf": "http://arxiv.org/pdf/2304.11062v2"
+  },
+  {
+    "arxiv_id": "2304.03608",
+    "title": "ALIKED: A Lighter Keypoint and Descriptor Extraction Network via Deformable Transformation",
+    "year": 2023,
+    "venue": "IEEE Transactions on Instrumentation and Measurement",
+    "citationCount": 96,
+    "arxiv_published": "2023-04-07",
+    "ar5iv_html": "https://ar5iv.org/html/2304.03608",
+    "pdf": "http://arxiv.org/pdf/2304.03608v2"
+  },
+  {
+    "arxiv_id": "2401.14002",
+    "title": "Phase transformation on heating of an aged cement paste",
+    "year": 2004,
+    "venue": "",
+    "citationCount": 96,
+    "arxiv_published": "2024-01-25",
+    "ar5iv_html": "https://ar5iv.org/html/2401.14002",
+    "pdf": "http://arxiv.org/pdf/2401.14002v1"
+  },
+  {
+    "arxiv_id": "2304.02211",
+    "title": "METransformer: Radiology Report Generation by Transformer with Multiple Learnable Expert Tokens",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 95,
+    "arxiv_published": "2023-04-05",
+    "ar5iv_html": "https://ar5iv.org/html/2304.02211",
+    "pdf": "http://arxiv.org/pdf/2304.02211v1"
+  },
+  {
+    "arxiv_id": "2303.06296",
+    "title": "Stabilizing Transformer Training by Preventing Attention Entropy Collapse",
+    "year": 2023,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 93,
+    "arxiv_published": "2023-03-11",
+    "ar5iv_html": "https://ar5iv.org/html/2303.06296",
+    "pdf": "http://arxiv.org/pdf/2303.06296v2"
+  },
+  {
+    "arxiv_id": "2404.15758",
+    "title": "Let's Think Dot by Dot: Hidden Computation in Transformer Language Models",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 92,
+    "arxiv_published": "2024-04-24",
+    "ar5iv_html": "https://ar5iv.org/html/2404.15758",
+    "pdf": "http://arxiv.org/pdf/2404.15758v1"
+  },
+  {
+    "arxiv_id": "2401.15583",
+    "title": "SCTransNet: Spatial-Channel Cross Transformer Network for Infrared Small Target Detection",
+    "year": 2024,
+    "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+    "citationCount": 92,
+    "arxiv_published": "2024-01-28",
+    "ar5iv_html": "https://ar5iv.org/html/2401.15583",
+    "pdf": "http://arxiv.org/pdf/2401.15583v3"
+  },
+  {
+    "arxiv_id": "2409.00750",
+    "title": "MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer",
+    "year": 2024,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 91,
+    "arxiv_published": "2024-09-01",
+    "ar5iv_html": "https://ar5iv.org/html/2409.00750",
+    "pdf": "http://arxiv.org/pdf/2409.00750v3"
+  },
+  {
+    "arxiv_id": "2307.08579",
+    "title": "Scale-Aware Modulation Meet Transformer",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 91,
+    "arxiv_published": "2023-07-17",
+    "ar5iv_html": "https://ar5iv.org/html/2307.08579",
+    "pdf": "http://arxiv.org/pdf/2307.08579v2"
+  },
+  {
+    "arxiv_id": "2306.17817",
+    "title": "Act3D: 3D Feature Field Transformers for Multi-Task Robotic Manipulation",
+    "year": 2023,
+    "venue": "Conference on Robot Learning",
+    "citationCount": 91,
+    "arxiv_published": "2023-06-30",
+    "ar5iv_html": "https://ar5iv.org/html/2306.17817",
+    "pdf": "http://arxiv.org/pdf/2306.17817v2"
+  },
+  {
+    "arxiv_id": "2305.07011",
+    "title": "Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 91,
+    "arxiv_published": "2023-05-11",
+    "ar5iv_html": "https://ar5iv.org/html/2305.07011",
+    "pdf": "http://arxiv.org/pdf/2305.07011v4"
+  },
+  {
+    "arxiv_id": "2402.02366",
+    "title": "Transolver: A Fast Transformer Solver for PDEs on General Geometries",
+    "year": 2024,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 90,
+    "arxiv_published": "2024-02-04",
+    "ar5iv_html": "https://ar5iv.org/html/2402.02366",
+    "pdf": "http://arxiv.org/pdf/2402.02366v2"
+  },
+  {
+    "arxiv_id": "2307.07982",
+    "title": "A Survey of Techniques for Optimizing Transformer Inference",
+    "year": 2023,
+    "venue": "Journal of systems architecture",
+    "citationCount": 90,
+    "arxiv_published": "2023-07-16",
+    "ar5iv_html": "https://ar5iv.org/html/2307.07982",
+    "pdf": "http://arxiv.org/pdf/2307.07982v1"
+  },
+  {
+    "arxiv_id": "2305.00729",
+    "title": "What Do Self-Supervised Vision Transformers Learn?",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 90,
+    "arxiv_published": "2023-05-01",
+    "ar5iv_html": "https://ar5iv.org/html/2305.00729",
+    "pdf": "http://arxiv.org/pdf/2305.00729v1"
+  },
+  {
+    "arxiv_id": "2402.02368",
+    "title": "Timer: Generative Pre-trained Transformers Are Large Time Series Models",
+    "year": 2024,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 89,
+    "arxiv_published": "2024-02-04",
+    "ar5iv_html": "https://ar5iv.org/html/2402.02368",
+    "pdf": "http://arxiv.org/pdf/2402.02368v3"
+  },
+  {
+    "arxiv_id": "2308.06873",
+    "title": "SpeechX: Neural Codec Language Model as a Versatile Speech Transformer",
+    "year": 2023,
+    "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+    "citationCount": 89,
+    "arxiv_published": "2023-08-14",
+    "ar5iv_html": "https://ar5iv.org/html/2308.06873",
+    "pdf": "http://arxiv.org/pdf/2308.06873v2"
+  },
+  {
+    "arxiv_id": "2306.09305",
+    "title": "Fast Training of Diffusion Models with Masked Transformers",
+    "year": 2023,
+    "venue": "Trans. Mach. Learn. Res.",
+    "citationCount": 88,
+    "arxiv_published": "2023-06-15",
+    "ar5iv_html": "https://ar5iv.org/html/2306.09305",
+    "pdf": "http://arxiv.org/pdf/2306.09305v2"
+  },
+  {
+    "arxiv_id": "2303.17606",
+    "title": "AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 88,
+    "arxiv_published": "2023-03-30",
+    "ar5iv_html": "https://ar5iv.org/html/2303.17606",
+    "pdf": "http://arxiv.org/pdf/2303.17606v2"
+  },
+  {
+    "arxiv_id": "2405.14832",
+    "title": "Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer",
+    "year": 2024,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 87,
+    "arxiv_published": "2024-05-23",
+    "ar5iv_html": "https://ar5iv.org/html/2405.14832",
+    "pdf": "http://arxiv.org/pdf/2405.14832v2"
+  },
+  {
+    "arxiv_id": "2312.02139",
+    "title": "DiffiT: Diffusion Vision Transformers for Image Generation",
+    "year": 2023,
+    "venue": "European Conference on Computer Vision",
+    "citationCount": 87,
+    "arxiv_published": "2023-12-04",
+    "ar5iv_html": "https://ar5iv.org/html/2312.02139",
+    "pdf": "http://arxiv.org/pdf/2312.02139v3"
+  },
+  {
+    "arxiv_id": "2305.06090",
+    "title": "XTab: Cross-table Pretraining for Tabular Transformers",
+    "year": 2023,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 87,
+    "arxiv_published": "2023-05-10",
+    "ar5iv_html": "https://ar5iv.org/html/2305.06090",
+    "pdf": "http://arxiv.org/pdf/2305.06090v1"
+  },
+  {
+    "arxiv_id": "2312.17071",
+    "title": "SCTNet: Single-Branch CNN with Transformer Semantic Information for Real-Time Segmentation",
+    "year": 2023,
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citationCount": 86,
+    "arxiv_published": "2023-12-28",
+    "ar5iv_html": "https://ar5iv.org/html/2312.17071",
+    "pdf": "http://arxiv.org/pdf/2312.17071v2"
+  },
+  {
+    "arxiv_id": "2304.13960",
+    "title": "Noise Is Not the Main Factor Behind the Gap Between SGD and Adam on Transformers, but Sign Descent Might Be",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 86,
+    "arxiv_published": "2023-04-27",
+    "ar5iv_html": "https://ar5iv.org/html/2304.13960",
+    "pdf": "http://arxiv.org/pdf/2304.13960v1"
+  },
+  {
+    "arxiv_id": "2303.15832",
+    "title": "The transformative potential of machine learning for experiments in fluid mechanics",
+    "year": 2023,
+    "venue": "Nature Reviews Physics",
+    "citationCount": 86,
+    "arxiv_published": "2023-03-28",
+    "ar5iv_html": "https://ar5iv.org/html/2303.15832",
+    "pdf": "http://arxiv.org/pdf/2303.15832v2"
+  },
+  {
+    "arxiv_id": "2303.13434",
+    "title": "Patch-Mix Transformer for Unsupervised Domain Adaptation: A Game Perspective",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 86,
+    "arxiv_published": "2023-03-23",
+    "ar5iv_html": "https://ar5iv.org/html/2303.13434",
+    "pdf": "http://arxiv.org/pdf/2303.13434v2"
+  },
+  {
+    "arxiv_id": "2305.19467",
+    "title": "Synthetic CT Generation from MRI using 3D Transformer-based Denoising Diffusion Model",
+    "year": 2023,
+    "venue": "Medical Physics (Lancaster)",
+    "citationCount": 85,
+    "arxiv_published": "2023-05-31",
+    "ar5iv_html": "https://ar5iv.org/html/2305.19467",
+    "pdf": "http://arxiv.org/pdf/2305.19467v1"
+  },
+  {
+    "arxiv_id": "2312.03876",
+    "title": "Scaling transformer neural networks for skillful and reliable medium-range weather forecasting",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 84,
+    "arxiv_published": "2023-12-06",
+    "ar5iv_html": "https://ar5iv.org/html/2312.03876",
+    "pdf": "http://arxiv.org/pdf/2312.03876v2"
+  },
+  {
+    "arxiv_id": "2310.01403",
+    "title": "CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 84,
+    "arxiv_published": "2023-10-02",
+    "ar5iv_html": "https://ar5iv.org/html/2310.01403",
+    "pdf": "http://arxiv.org/pdf/2310.01403v2"
+  },
+  {
+    "arxiv_id": "2306.06189",
+    "title": "FasterViT: Fast Vision Transformers with Hierarchical Attention",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 83,
+    "arxiv_published": "2023-06-09",
+    "ar5iv_html": "https://ar5iv.org/html/2306.06189",
+    "pdf": "http://arxiv.org/pdf/2306.06189v2"
+  },
+  {
+    "arxiv_id": "2305.16380",
+    "title": "Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 82,
+    "arxiv_published": "2023-05-25",
+    "ar5iv_html": "https://ar5iv.org/html/2305.16380",
+    "pdf": "http://arxiv.org/pdf/2305.16380v4"
+  },
+  {
+    "arxiv_id": "2304.10716",
+    "title": "Joint Token Pruning and Squeezing Towards More Aggressive Compression of Vision Transformers",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 81,
+    "arxiv_published": "2023-04-21",
+    "ar5iv_html": "https://ar5iv.org/html/2304.10716",
+    "pdf": "http://arxiv.org/pdf/2304.10716v1"
+  },
+  {
+    "arxiv_id": "2308.05305",
+    "title": "From CNN to Transformer: A Review of Medical Image Segmentation Models",
+    "year": 2023,
+    "venue": "Journal of imaging informatics in medicine",
+    "citationCount": 80,
+    "arxiv_published": "2023-08-10",
+    "ar5iv_html": "https://ar5iv.org/html/2308.05305",
+    "pdf": "http://arxiv.org/pdf/2308.05305v1"
+  },
+  {
+    "arxiv_id": "2303.00957",
+    "title": "Preference Transformer: Modeling Human Preferences using Transformers for RL",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 80,
+    "arxiv_published": "2023-03-02",
+    "ar5iv_html": "https://ar5iv.org/html/2303.00957",
+    "pdf": "http://arxiv.org/pdf/2303.00957v1"
+  },
+  {
+    "arxiv_id": "2307.01831",
+    "title": "DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 79,
+    "arxiv_published": "2023-07-04",
+    "ar5iv_html": "https://ar5iv.org/html/2307.01831",
+    "pdf": "http://arxiv.org/pdf/2307.01831v1"
+  },
+  {
+    "arxiv_id": "2305.13311",
+    "title": "VDT: General-purpose Video Diffusion Transformers via Mask Modeling",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 79,
+    "arxiv_published": "2023-05-22",
+    "ar5iv_html": "https://ar5iv.org/html/2305.13311",
+    "pdf": "http://arxiv.org/pdf/2305.13311v2"
+  },
+  {
+    "arxiv_id": "2304.14065",
+    "title": "Lightweight, Pre-trained Transformers for Remote Sensing Timeseries",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 79,
+    "arxiv_published": "2023-04-27",
+    "ar5iv_html": "https://ar5iv.org/html/2304.14065",
+    "pdf": "http://arxiv.org/pdf/2304.14065v4"
+  },
+  {
+    "arxiv_id": "2402.14797",
+    "title": "Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis",
+    "year": 2024,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 78,
+    "arxiv_published": "2024-02-22",
+    "ar5iv_html": "https://ar5iv.org/html/2402.14797",
+    "pdf": "http://arxiv.org/pdf/2402.14797v1"
+  },
+  {
+    "arxiv_id": "2310.05249",
+    "title": "In-Context Convergence of Transformers",
+    "year": 2023,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 78,
+    "arxiv_published": "2023-10-08",
+    "ar5iv_html": "https://ar5iv.org/html/2310.05249",
+    "pdf": "http://arxiv.org/pdf/2310.05249v1"
+  },
+  {
+    "arxiv_id": "2303.16450",
+    "title": "Self-Positioning Point-Based Transformer for Point Cloud Understanding",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 78,
+    "arxiv_published": "2023-03-29",
+    "ar5iv_html": "https://ar5iv.org/html/2303.16450",
+    "pdf": "http://arxiv.org/pdf/2303.16450v1"
+  },
+  {
+    "arxiv_id": "2407.17140",
+    "title": "RT-DETRv2: Improved Baseline with Bag-of-Freebies for Real-Time Detection Transformer",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 76,
+    "arxiv_published": "2024-07-24",
+    "ar5iv_html": "https://ar5iv.org/html/2407.17140",
+    "pdf": "http://arxiv.org/pdf/2407.17140v1"
+  },
+  {
+    "arxiv_id": "2404.03663",
+    "title": "Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips",
+    "year": 2024,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 76,
+    "arxiv_published": "2024-02-15",
+    "ar5iv_html": "https://ar5iv.org/html/2404.03663",
+    "pdf": "http://arxiv.org/pdf/2404.03663v1"
+  },
+  {
+    "arxiv_id": "2312.16649",
+    "title": "Forgery-aware Adaptive Transformer for Generalizable Synthetic Image Detection",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 76,
+    "arxiv_published": "2023-12-27",
+    "ar5iv_html": "https://ar5iv.org/html/2312.16649",
+    "pdf": "http://arxiv.org/pdf/2312.16649v1"
+  },
+  {
+    "arxiv_id": "2311.14405",
+    "title": "OneFormer3D: One Transformer for Unified Point Cloud Segmentation",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 76,
+    "arxiv_published": "2023-11-24",
+    "ar5iv_html": "https://ar5iv.org/html/2311.14405",
+    "pdf": "http://arxiv.org/pdf/2311.14405v1"
+  },
+  {
+    "arxiv_id": "2309.14700",
+    "title": "Structure Invariant Transformation for better Adversarial Transferability",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 76,
+    "arxiv_published": "2023-09-26",
+    "ar5iv_html": "https://ar5iv.org/html/2309.14700",
+    "pdf": "http://arxiv.org/pdf/2309.14700v1"
+  },
+  {
+    "arxiv_id": "2304.14746",
+    "title": "FlowTransformer: A Transformer Framework for Flow-based Network Intrusion Detection Systems",
+    "year": 2023,
+    "venue": "Expert systems with applications",
+    "citationCount": 76,
+    "arxiv_published": "2023-04-28",
+    "ar5iv_html": "https://ar5iv.org/html/2304.14746",
+    "pdf": "http://arxiv.org/pdf/2304.14746v1"
+  },
+  {
+    "arxiv_id": "2303.14341",
+    "title": "Towards Accurate Post-Training Quantization for Vision Transformer",
+    "year": 2022,
+    "venue": "ACM Multimedia",
+    "citationCount": 76,
+    "arxiv_published": "2023-03-25",
+    "ar5iv_html": "https://ar5iv.org/html/2303.14341",
+    "pdf": "http://arxiv.org/pdf/2303.14341v1"
+  },
+  {
+    "arxiv_id": "2310.08744",
+    "title": "Circuit Component Reuse Across Tasks in Transformer Language Models",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 75,
+    "arxiv_published": "2023-10-12",
+    "ar5iv_html": "https://ar5iv.org/html/2310.08744",
+    "pdf": "http://arxiv.org/pdf/2310.08744v3"
+  },
+  {
+    "arxiv_id": "2309.03445",
+    "title": "Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy",
+    "year": 2023,
+    "venue": "ACM Multimedia",
+    "citationCount": 75,
+    "arxiv_published": "2023-09-07",
+    "ar5iv_html": "https://ar5iv.org/html/2309.03445",
+    "pdf": "http://arxiv.org/pdf/2309.03445v1"
+  },
+  {
+    "arxiv_id": "2308.08333",
+    "title": "Improving Depth Gradient Continuity in Transformers: A Comparative Study on Monocular Depth Estimation with CNN",
+    "year": 2023,
+    "venue": "British Machine Vision Conference",
+    "citationCount": 75,
+    "arxiv_published": "2023-08-16",
+    "ar5iv_html": "https://ar5iv.org/html/2308.08333",
+    "pdf": "http://arxiv.org/pdf/2308.08333v4"
+  },
+  {
+    "arxiv_id": "2304.00844",
+    "title": "Spectral Enhanced Rectangle Transformer for Hyperspectral Image Denoising",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 75,
+    "arxiv_published": "2023-04-03",
+    "ar5iv_html": "https://ar5iv.org/html/2304.00844",
+    "pdf": "http://arxiv.org/pdf/2304.00844v1"
+  },
+  {
+    "arxiv_id": "2303.05725",
+    "title": "CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 75,
+    "arxiv_published": "2023-03-10",
+    "ar5iv_html": "https://ar5iv.org/html/2303.05725",
+    "pdf": "http://arxiv.org/pdf/2303.05725v4"
+  },
+  {
+    "arxiv_id": "2406.10163",
+    "title": "MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 74,
+    "arxiv_published": "2024-06-14",
+    "ar5iv_html": "https://ar5iv.org/html/2406.10163",
+    "pdf": "http://arxiv.org/pdf/2406.10163v2"
+  },
+  {
+    "arxiv_id": "2402.14083",
+    "title": "Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 74,
+    "arxiv_published": "2024-02-21",
+    "ar5iv_html": "https://ar5iv.org/html/2402.14083",
+    "pdf": "http://arxiv.org/pdf/2402.14083v2"
+  },
+  {
+    "arxiv_id": "2305.15896",
+    "title": "MixFormerV2: Efficient Fully Transformer Tracking",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 74,
+    "arxiv_published": "2023-05-25",
+    "ar5iv_html": "https://ar5iv.org/html/2305.15896",
+    "pdf": "http://arxiv.org/pdf/2305.15896v2"
+  },
+  {
+    "arxiv_id": "2303.09752",
+    "title": "CoLT5: Faster Long-Range Transformers with Conditional Computation",
+    "year": 2023,
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "citationCount": 74,
+    "arxiv_published": "2023-03-17",
+    "ar5iv_html": "https://ar5iv.org/html/2303.09752",
+    "pdf": "http://arxiv.org/pdf/2303.09752v3"
+  },
+  {
+    "arxiv_id": "2403.13298",
+    "title": "Rotary Position Embedding for Vision Transformer",
+    "year": 2024,
+    "venue": "European Conference on Computer Vision",
+    "citationCount": 73,
+    "arxiv_published": "2024-03-20",
+    "ar5iv_html": "https://ar5iv.org/html/2403.13298",
+    "pdf": "http://arxiv.org/pdf/2403.13298v2"
+  },
+  {
+    "arxiv_id": "2311.00208",
+    "title": "What Formal Languages Can Transformers Express? A Survey",
+    "year": 2023,
+    "venue": "Transactions of the Association for Computational Linguistics",
+    "citationCount": 73,
+    "arxiv_published": "2023-11-01",
+    "ar5iv_html": "https://ar5iv.org/html/2311.00208",
+    "pdf": "http://arxiv.org/pdf/2311.00208v3"
+  },
+  {
+    "arxiv_id": "2306.08045",
+    "title": "Efficient 3D Semantic Segmentation with Superpoint Transformer",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 73,
+    "arxiv_published": "2023-06-13",
+    "ar5iv_html": "https://ar5iv.org/html/2306.08045",
+    "pdf": "http://arxiv.org/pdf/2306.08045v2"
+  },
+  {
+    "arxiv_id": "2305.15272",
+    "title": "ViTMatte: Boosting Image Matting with Pretrained Plain Vision Transformers",
+    "year": 2023,
+    "venue": "Information Fusion",
+    "citationCount": 73,
+    "arxiv_published": "2023-05-24",
+    "ar5iv_html": "https://ar5iv.org/html/2305.15272",
+    "pdf": "http://arxiv.org/pdf/2305.15272v2"
+  },
+  {
+    "arxiv_id": "2407.21705",
+    "title": "Tora: Trajectory-oriented Diffusion Transformer for Video Generation",
+    "year": 2024,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 72,
+    "arxiv_published": "2024-07-31",
+    "ar5iv_html": "https://ar5iv.org/html/2407.21705",
+    "pdf": "http://arxiv.org/pdf/2407.21705v4"
+  },
+  {
+    "arxiv_id": "2310.16836",
+    "title": "LLM-FP4: 4-Bit Floating-Point Quantized Transformers",
+    "year": 2023,
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "citationCount": 72,
+    "arxiv_published": "2023-10-25",
+    "ar5iv_html": "https://ar5iv.org/html/2310.16836",
+    "pdf": "http://arxiv.org/pdf/2310.16836v1"
+  },
+  {
+    "arxiv_id": "2303.09435",
+    "title": "Jump to Conclusions: Short-Cutting Transformers with Linear Transformations",
+    "year": 2023,
+    "venue": "International Conference on Language Resources and Evaluation",
+    "citationCount": 72,
+    "arxiv_published": "2023-03-16",
+    "ar5iv_html": "https://ar5iv.org/html/2303.09435",
+    "pdf": "http://arxiv.org/pdf/2303.09435v2"
+  },
+  {
+    "arxiv_id": "2407.12781",
+    "title": "VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control",
+    "year": 2024,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 71,
+    "arxiv_published": "2024-07-17",
+    "ar5iv_html": "https://ar5iv.org/html/2407.12781",
+    "pdf": "http://arxiv.org/pdf/2407.12781v3"
+  },
+  {
+    "arxiv_id": "2407.05996",
+    "title": "Multimodal Diffusion Transformer: Learning Versatile Behavior from Multimodal Goals",
+    "year": 2024,
+    "venue": "Robotics: Science and Systems",
+    "citationCount": 71,
+    "arxiv_published": "2024-07-08",
+    "ar5iv_html": "https://ar5iv.org/html/2407.05996",
+    "pdf": "http://arxiv.org/pdf/2407.05996v1"
+  },
+  {
+    "arxiv_id": "2403.09572",
+    "title": "Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation",
+    "year": 2024,
+    "venue": "European Conference on Computer Vision",
+    "citationCount": 71,
+    "arxiv_published": "2024-03-14",
+    "ar5iv_html": "https://ar5iv.org/html/2403.09572",
+    "pdf": "http://arxiv.org/pdf/2403.09572v4"
+  },
+  {
+    "arxiv_id": "2309.05858",
+    "title": "Uncovering mesa-optimization algorithms in Transformers",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 71,
+    "arxiv_published": "2023-09-11",
+    "ar5iv_html": "https://ar5iv.org/html/2309.05858",
+    "pdf": "http://arxiv.org/pdf/2309.05858v2"
+  },
+  {
+    "arxiv_id": "2305.09533",
+    "title": "NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer",
+    "year": 2023,
+    "venue": "ACM Multimedia",
+    "citationCount": 71,
+    "arxiv_published": "2023-05-16",
+    "ar5iv_html": "https://ar5iv.org/html/2305.09533",
+    "pdf": "http://arxiv.org/pdf/2305.09533v3"
+  },
+  {
+    "arxiv_id": "2304.11954",
+    "title": "Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 71,
+    "arxiv_published": "2023-04-24",
+    "ar5iv_html": "https://ar5iv.org/html/2304.11954",
+    "pdf": "http://arxiv.org/pdf/2304.11954v3"
+  },
+  {
+    "arxiv_id": "2402.14735",
+    "title": "How Transformers Learn Causal Structure with Gradient Descent",
+    "year": 2024,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 70,
+    "arxiv_published": "2024-02-22",
+    "ar5iv_html": "https://ar5iv.org/html/2402.14735",
+    "pdf": "http://arxiv.org/pdf/2402.14735v2"
+  },
+  {
+    "arxiv_id": "2402.05956",
+    "title": "Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting",
+    "year": 2024,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 70,
+    "arxiv_published": "2024-02-04",
+    "ar5iv_html": "https://ar5iv.org/html/2402.05956",
+    "pdf": "http://arxiv.org/pdf/2402.05956v5"
+  },
+  {
+    "arxiv_id": "2307.15700",
+    "title": "MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 70,
+    "arxiv_published": "2023-07-28",
+    "ar5iv_html": "https://ar5iv.org/html/2307.15700",
+    "pdf": "http://arxiv.org/pdf/2307.15700v3"
+  },
+  {
+    "arxiv_id": "2305.03210",
+    "title": "AttentionViz: A Global View of Transformer Attention",
+    "year": 2023,
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "citationCount": 70,
+    "arxiv_published": "2023-05-04",
+    "ar5iv_html": "https://ar5iv.org/html/2305.03210",
+    "pdf": "http://arxiv.org/pdf/2305.03210v2"
+  },
+  {
+    "arxiv_id": "2303.04245",
+    "title": "How Do Transformers Learn Topic Structure: Towards a Mechanistic Understanding",
+    "year": 2023,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 70,
+    "arxiv_published": "2023-03-07",
+    "ar5iv_html": "https://ar5iv.org/html/2303.04245",
+    "pdf": "http://arxiv.org/pdf/2303.04245v2"
+  },
+  {
+    "arxiv_id": "2406.01034",
+    "title": "Enhancing Graph Collaborative Filtering with FourierKAN Feature Transformation",
+    "year": 2024,
+    "venue": "",
+    "citationCount": 69,
+    "arxiv_published": "2024-06-03",
+    "ar5iv_html": "https://ar5iv.org/html/2406.01034",
+    "pdf": "http://arxiv.org/pdf/2406.01034v3"
+  },
+  {
+    "arxiv_id": "2309.09709",
+    "title": "CATR: Combinatorial-Dependence Audio-Queried Transformer for Audio-Visual Video Segmentation",
+    "year": 2023,
+    "venue": "ACM Multimedia",
+    "citationCount": 69,
+    "arxiv_published": "2023-09-18",
+    "ar5iv_html": "https://ar5iv.org/html/2309.09709",
+    "pdf": "http://arxiv.org/pdf/2309.09709v2"
+  },
+  {
+    "arxiv_id": "2308.06904",
+    "title": "Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 69,
+    "arxiv_published": "2023-08-14",
+    "ar5iv_html": "https://ar5iv.org/html/2308.06904",
+    "pdf": "http://arxiv.org/pdf/2308.06904v1"
+  },
+  {
+    "arxiv_id": "2308.11632",
+    "title": "Alternative agriculture land-use transformation pathways by partial-equilibrium agricultural sector model: a mathematical approach",
+    "year": 2023,
+    "venue": "International journal of information technology",
+    "citationCount": 69,
+    "arxiv_published": "2023-08-12",
+    "ar5iv_html": "https://ar5iv.org/html/2308.11632",
+    "pdf": "http://arxiv.org/pdf/2308.11632v1"
+  },
+  {
+    "arxiv_id": "2306.08330",
+    "title": "Multimodal Optimal Transport-based Co-Attention Transformer with Global Structure Consistency for Survival Prediction",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 69,
+    "arxiv_published": "2023-06-14",
+    "ar5iv_html": "https://ar5iv.org/html/2306.08330",
+    "pdf": "http://arxiv.org/pdf/2306.08330v2"
+  },
+  {
+    "arxiv_id": "2309.08206",
+    "title": "Salient Object Detection in Optical Remote Sensing Images Driven by Transformer",
+    "year": 2023,
+    "venue": "IEEE Transactions on Image Processing",
+    "citationCount": 68,
+    "arxiv_published": "2023-09-15",
+    "ar5iv_html": "https://ar5iv.org/html/2309.08206",
+    "pdf": "http://arxiv.org/pdf/2309.08206v1"
+  },
+  {
+    "arxiv_id": "2303.04989",
+    "title": "ARS-DETR: Aspect Ratio-Sensitive Detection Transformer for Aerial Oriented Object Detection",
+    "year": 2023,
+    "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+    "citationCount": 68,
+    "arxiv_published": "2023-03-09",
+    "ar5iv_html": "https://ar5iv.org/html/2303.04989",
+    "pdf": "http://arxiv.org/pdf/2303.04989v3"
+  },
+  {
+    "arxiv_id": "2409.20537",
+    "title": "Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers",
+    "year": 2024,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 67,
+    "arxiv_published": "2024-09-30",
+    "ar5iv_html": "https://ar5iv.org/html/2409.20537",
+    "pdf": "http://arxiv.org/pdf/2409.20537v1"
+  },
+  {
+    "arxiv_id": "2308.09891",
+    "title": "SwinLSTM: Improving Spatiotemporal Prediction Accuracy using Swin Transformer and LSTM",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 66,
+    "arxiv_published": "2023-08-19",
+    "ar5iv_html": "https://ar5iv.org/html/2308.09891",
+    "pdf": "http://arxiv.org/pdf/2308.09891v2"
+  },
+  {
+    "arxiv_id": "2410.23533",
+    "title": "2D Empirical Transforms. Wavelets, Ridgelets, and Curvelets Revisited",
+    "year": 2014,
+    "venue": "SIAM Journal of Imaging Sciences",
+    "citationCount": 66,
+    "arxiv_published": "2024-10-31",
+    "ar5iv_html": "https://ar5iv.org/html/2410.23533",
+    "pdf": "http://arxiv.org/pdf/2410.23533v1"
+  },
+  {
+    "arxiv_id": "2401.11605",
+    "title": "Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers",
+    "year": 2024,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 65,
+    "arxiv_published": "2024-01-21",
+    "ar5iv_html": "https://ar5iv.org/html/2401.11605",
+    "pdf": "http://arxiv.org/pdf/2401.11605v1"
+  },
+  {
+    "arxiv_id": "2310.10616",
+    "title": "How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 65,
+    "arxiv_published": "2023-10-16",
+    "ar5iv_html": "https://ar5iv.org/html/2310.10616",
+    "pdf": "http://arxiv.org/pdf/2310.10616v1"
+  },
+  {
+    "arxiv_id": "2308.09361",
+    "title": "SwinJSCC: Taming Swin Transformer for Deep Joint Source-Channel Coding",
+    "year": 2023,
+    "venue": "IEEE Transactions on Cognitive Communications and Networking",
+    "citationCount": 65,
+    "arxiv_published": "2023-08-18",
+    "ar5iv_html": "https://ar5iv.org/html/2308.09361",
+    "pdf": "http://arxiv.org/pdf/2308.09361v2"
+  },
+  {
+    "arxiv_id": "2303.07336",
+    "title": "MP-Former: Mask-Piloted Transformer for Image Segmentation",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 65,
+    "arxiv_published": "2023-03-13",
+    "ar5iv_html": "https://ar5iv.org/html/2303.07336",
+    "pdf": "http://arxiv.org/pdf/2303.07336v2"
+  },
+  {
+    "arxiv_id": "2303.12799",
+    "title": "Time Series as Images: Vision Transformer for Irregularly Sampled Time Series",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 65,
+    "arxiv_published": "2023-03-01",
+    "ar5iv_html": "https://ar5iv.org/html/2303.12799",
+    "pdf": "http://arxiv.org/pdf/2303.12799v2"
+  },
+  {
+    "arxiv_id": "2310.05900",
+    "title": "Learning high-accuracy error decoding for quantum processors",
+    "year": 2023,
+    "venue": "The Naturalist",
+    "citationCount": 64,
+    "arxiv_published": "2023-10-09",
+    "ar5iv_html": "https://ar5iv.org/html/2310.05900",
+    "pdf": "http://arxiv.org/pdf/2310.05900v1"
+  },
+  {
+    "arxiv_id": "2310.03016",
+    "title": "Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 64,
+    "arxiv_published": "2023-10-04",
+    "ar5iv_html": "https://ar5iv.org/html/2310.03016",
+    "pdf": "http://arxiv.org/pdf/2310.03016v1"
+  },
+  {
+    "arxiv_id": "2308.07732",
+    "title": "UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 64,
+    "arxiv_published": "2023-08-15",
+    "ar5iv_html": "https://ar5iv.org/html/2308.07732",
+    "pdf": "http://arxiv.org/pdf/2308.07732v1"
+  },
+  {
+    "arxiv_id": "2307.01146",
+    "title": "AVSegFormer: Audio-Visual Segmentation with Transformer",
+    "year": 2023,
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citationCount": 64,
+    "arxiv_published": "2023-07-03",
+    "ar5iv_html": "https://ar5iv.org/html/2307.01146",
+    "pdf": "http://arxiv.org/pdf/2307.01146v4"
+  },
+  {
+    "arxiv_id": "2306.16175",
+    "title": "C²Former: Calibrated and Complementary Transformer for RGB-Infrared Object Detection",
+    "year": 2023,
+    "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+    "citationCount": 64,
+    "arxiv_published": "2023-06-28",
+    "ar5iv_html": "https://ar5iv.org/html/2306.16175",
+    "pdf": "http://arxiv.org/pdf/2306.16175v3"
+  },
+  {
+    "arxiv_id": "2304.03110",
+    "title": "Continual Detection Transformer for Incremental Object Detection",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 64,
+    "arxiv_published": "2023-04-06",
+    "ar5iv_html": "https://ar5iv.org/html/2304.03110",
+    "pdf": "http://arxiv.org/pdf/2304.03110v1"
+  },
+  {
+    "arxiv_id": "2410.10812",
+    "title": "HART: Efficient Visual Generation with Hybrid Autoregressive Transformer",
+    "year": 2024,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 63,
+    "arxiv_published": "2024-10-14",
+    "ar5iv_html": "https://ar5iv.org/html/2410.10812",
+    "pdf": "http://arxiv.org/pdf/2410.10812v1"
+  },
+  {
+    "arxiv_id": "2306.06669",
+    "title": "TransMRSR: transformer-based self-distilled generative prior for brain MRI super-resolution",
+    "year": 2023,
+    "venue": "The Visual Computer",
+    "citationCount": 63,
+    "arxiv_published": "2023-06-11",
+    "ar5iv_html": "https://ar5iv.org/html/2306.06669",
+    "pdf": "http://arxiv.org/pdf/2306.06669v1"
+  },
+  {
+    "arxiv_id": "2305.07766",
+    "title": "NL2TL: Transforming Natural Languages to Temporal Logics using Large Language Models",
+    "year": 2023,
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "citationCount": 63,
+    "arxiv_published": "2023-05-12",
+    "ar5iv_html": "https://ar5iv.org/html/2305.07766",
+    "pdf": "http://arxiv.org/pdf/2305.07766v2"
+  },
+  {
+    "arxiv_id": "2305.02567",
+    "title": "LayoutDM: Transformer-based Diffusion Model for Layout Generation",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 63,
+    "arxiv_published": "2023-05-04",
+    "ar5iv_html": "https://ar5iv.org/html/2305.02567",
+    "pdf": "http://arxiv.org/pdf/2305.02567v1"
+  },
+  {
+    "arxiv_id": "2304.10628",
+    "title": "HM-ViT: Hetero-modal Vehicle-to-Vehicle Cooperative Perception with Vision Transformer",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 63,
+    "arxiv_published": "2023-04-20",
+    "ar5iv_html": "https://ar5iv.org/html/2304.10628",
+    "pdf": "http://arxiv.org/pdf/2304.10628v1"
+  },
+  {
+    "arxiv_id": "2303.06908",
+    "title": "CrossFormer++: A Versatile Vision Transformer Hinging on Cross-Scale Attention",
+    "year": 2023,
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "citationCount": 63,
+    "arxiv_published": "2023-03-13",
+    "ar5iv_html": "https://ar5iv.org/html/2303.06908",
+    "pdf": "http://arxiv.org/pdf/2303.06908v2"
+  },
+  {
+    "arxiv_id": "2405.12981",
+    "title": "Reducing Transformer Key-Value Cache Size with Cross-Layer Attention",
+    "year": 2024,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 62,
+    "arxiv_published": "2024-05-21",
+    "ar5iv_html": "https://ar5iv.org/html/2405.12981",
+    "pdf": "http://arxiv.org/pdf/2405.12981v1"
+  },
+  {
+    "arxiv_id": "2402.16142",
+    "title": "From Text to Transformation: A Comprehensive Review of Large Language Models' Versatility",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 62,
+    "arxiv_published": "2024-02-25",
+    "ar5iv_html": "https://ar5iv.org/html/2402.16142",
+    "pdf": "http://arxiv.org/pdf/2402.16142v1"
+  },
+  {
+    "arxiv_id": "2402.12376",
+    "title": "FiT: Flexible Vision Transformer for Diffusion Model",
+    "year": 2024,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 62,
+    "arxiv_published": "2024-02-19",
+    "ar5iv_html": "https://ar5iv.org/html/2402.12376",
+    "pdf": "http://arxiv.org/pdf/2402.12376v4"
+  },
+  {
+    "arxiv_id": "2303.07428",
+    "title": "TransNetR: Transformer-based Residual Network for Polyp Segmentation with Multi-Center Out-of-Distribution Testing",
+    "year": 2023,
+    "venue": "International Conference on Medical Imaging with Deep Learning",
+    "citationCount": 62,
+    "arxiv_published": "2023-03-13",
+    "ar5iv_html": "https://ar5iv.org/html/2303.07428",
+    "pdf": "http://arxiv.org/pdf/2303.07428v1"
+  },
+  {
+    "arxiv_id": "2406.01721",
+    "title": "DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs",
+    "year": 2024,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 61,
+    "arxiv_published": "2024-06-03",
+    "ar5iv_html": "https://ar5iv.org/html/2406.01721",
+    "pdf": "http://arxiv.org/pdf/2406.01721v3"
+  },
+  {
+    "arxiv_id": "2402.16788",
+    "title": "Why Transformers Need Adam: A Hessian Perspective",
+    "year": 2024,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 61,
+    "arxiv_published": "2024-02-26",
+    "ar5iv_html": "https://ar5iv.org/html/2402.16788",
+    "pdf": "http://arxiv.org/pdf/2402.16788v4"
+  },
+  {
+    "arxiv_id": "2402.02029",
+    "title": "ScribFormer: Transformer Makes CNN Work Better for Scribble-Based Medical Image Segmentation",
+    "year": 2024,
+    "venue": "IEEE Transactions on Medical Imaging",
+    "citationCount": 61,
+    "arxiv_published": "2024-02-03",
+    "ar5iv_html": "https://ar5iv.org/html/2402.02029",
+    "pdf": "http://arxiv.org/pdf/2402.02029v1"
+  },
+  {
+    "arxiv_id": "2309.05239",
+    "title": "HAT: Hybrid Attention Transformer for Image Restoration",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 61,
+    "arxiv_published": "2023-09-11",
+    "ar5iv_html": "https://ar5iv.org/html/2309.05239",
+    "pdf": "http://arxiv.org/pdf/2309.05239v2"
+  },
+  {
+    "arxiv_id": "2308.06947",
+    "title": "Knowing Where to Focus: Event-aware Transformer for Video Grounding",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 61,
+    "arxiv_published": "2023-08-14",
+    "ar5iv_html": "https://ar5iv.org/html/2308.06947",
+    "pdf": "http://arxiv.org/pdf/2308.06947v1"
+  },
+  {
+    "arxiv_id": "2305.16309",
+    "title": "Imitating Task and Motion Planning with Visuomotor Transformers",
+    "year": 2023,
+    "venue": "Conference on Robot Learning",
+    "citationCount": 61,
+    "arxiv_published": "2023-05-25",
+    "ar5iv_html": "https://ar5iv.org/html/2305.16309",
+    "pdf": "http://arxiv.org/pdf/2305.16309v3"
+  },
+  {
+    "arxiv_id": "2303.15754",
+    "title": "Transferable Adversarial Attacks on Vision Transformers with Token Gradient Regularization",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 61,
+    "arxiv_published": "2023-03-28",
+    "ar5iv_html": "https://ar5iv.org/html/2303.15754",
+    "pdf": "http://arxiv.org/pdf/2303.15754v2"
+  },
+  {
+    "arxiv_id": "2303.04935",
+    "title": "X-Pruner: eXplainable Pruning for Vision Transformers",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 61,
+    "arxiv_published": "2023-03-08",
+    "ar5iv_html": "https://ar5iv.org/html/2303.04935",
+    "pdf": "http://arxiv.org/pdf/2303.04935v2"
+  },
+  {
+    "arxiv_id": "2410.23775",
+    "title": "In-Context LoRA for Diffusion Transformers",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 60,
+    "arxiv_published": "2024-10-31",
+    "ar5iv_html": "https://ar5iv.org/html/2410.23775",
+    "pdf": "http://arxiv.org/pdf/2410.23775v3"
+  },
+  {
+    "arxiv_id": "2405.15071",
+    "title": "Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 60,
+    "arxiv_published": "2024-05-23",
+    "ar5iv_html": "https://ar5iv.org/html/2405.15071",
+    "pdf": "http://arxiv.org/pdf/2405.15071v3"
+  },
+  {
+    "arxiv_id": "2310.16288",
+    "title": "MotionAGFormer: Enhancing 3D Human Pose Estimation with a Transformer-GCNFormer Network",
+    "year": 2023,
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "citationCount": 60,
+    "arxiv_published": "2023-10-25",
+    "ar5iv_html": "https://ar5iv.org/html/2310.16288",
+    "pdf": "http://arxiv.org/pdf/2310.16288v1"
+  },
+  {
+    "arxiv_id": "2305.17863",
+    "title": "GridFormer: Residual Dense Transformer with Grid Structure for Image Restoration in Adverse Weather Conditions",
+    "year": 2023,
+    "venue": "International Journal of Computer Vision",
+    "citationCount": 60,
+    "arxiv_published": "2023-05-29",
+    "ar5iv_html": "https://ar5iv.org/html/2305.17863",
+    "pdf": "http://arxiv.org/pdf/2305.17863v2"
+  },
+  {
+    "arxiv_id": "2305.15805",
+    "title": "Dynamic Context Pruning for Efficient and Interpretable Autoregressive Transformers",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 60,
+    "arxiv_published": "2023-05-25",
+    "ar5iv_html": "https://ar5iv.org/html/2305.15805",
+    "pdf": "http://arxiv.org/pdf/2305.15805v3"
+  },
+  {
+    "arxiv_id": "2303.00980",
+    "title": "Learning to Grow Pretrained Models for Efficient Transformer Training",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 60,
+    "arxiv_published": "2023-03-02",
+    "ar5iv_html": "https://ar5iv.org/html/2303.00980",
+    "pdf": "http://arxiv.org/pdf/2303.00980v1"
+  },
+  {
+    "arxiv_id": "2302.14502",
+    "title": "A Survey on Long Text Modeling with Transformers",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 60,
+    "arxiv_published": "2023-02-28",
+    "ar5iv_html": "https://ar5iv.org/html/2302.14502",
+    "pdf": "http://arxiv.org/pdf/2302.14502v2"
+  },
+  {
+    "arxiv_id": "2303.10951",
+    "title": "Tracker Meets Night: A Transformer Enhancer for UAV Tracking",
+    "year": 2022,
+    "venue": "IEEE Robotics and Automation Letters",
+    "citationCount": 60,
+    "arxiv_published": "2023-03-20",
+    "ar5iv_html": "https://ar5iv.org/html/2303.10951",
+    "pdf": "http://arxiv.org/pdf/2303.10951v1"
+  },
+  {
+    "arxiv_id": "2405.18991",
+    "title": "EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 59,
+    "arxiv_published": "2024-05-29",
+    "ar5iv_html": "https://ar5iv.org/html/2405.18991",
+    "pdf": "http://arxiv.org/pdf/2405.18991v2"
+  },
+  {
+    "arxiv_id": "2404.09516",
+    "title": "State Space Model for New-Generation Network Alternative to Transformers: A Survey",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 59,
+    "arxiv_published": "2024-04-15",
+    "ar5iv_html": "https://ar5iv.org/html/2404.09516",
+    "pdf": "http://arxiv.org/pdf/2404.09516v1"
+  },
+  {
+    "arxiv_id": "2404.08472",
+    "title": "TSLANet: Rethinking Transformers for Time Series Representation Learning",
+    "year": 2024,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 59,
+    "arxiv_published": "2024-04-12",
+    "ar5iv_html": "https://ar5iv.org/html/2404.08472",
+    "pdf": "http://arxiv.org/pdf/2404.08472v2"
+  },
+  {
+    "arxiv_id": "2306.03099",
+    "title": "CrystalGPT: Enhancing system-to-system transferability in crystallization prediction and control using time-series-transformers",
+    "year": 2023,
+    "venue": "Computers and Chemical Engineering",
+    "citationCount": 59,
+    "arxiv_published": "2023-05-31",
+    "ar5iv_html": "https://ar5iv.org/html/2306.03099",
+    "pdf": "http://arxiv.org/pdf/2306.03099v1"
+  },
+  {
+    "arxiv_id": "2406.01125",
+    "title": "Δ-DiT: A Training-Free Acceleration Method Tailored for Diffusion Transformers",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 58,
+    "arxiv_published": "2024-06-03",
+    "ar5iv_html": "https://ar5iv.org/html/2406.01125",
+    "pdf": "http://arxiv.org/pdf/2406.01125v1"
+  },
+  {
+    "arxiv_id": "2404.16112",
+    "title": "Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges",
+    "year": 2024,
+    "venue": "Engineering applications of artificial intelligence",
+    "citationCount": 58,
+    "arxiv_published": "2024-04-24",
+    "ar5iv_html": "https://ar5iv.org/html/2404.16112",
+    "pdf": "http://arxiv.org/pdf/2404.16112v1"
+  },
+  {
+    "arxiv_id": "2403.16495",
+    "title": "LSTTN: A Long-Short Term Transformer-based Spatio-temporal Neural Network for Traffic Flow Forecasting",
+    "year": 2024,
+    "venue": "Knowledge-Based Systems",
+    "citationCount": 58,
+    "arxiv_published": "2024-03-25",
+    "ar5iv_html": "https://ar5iv.org/html/2403.16495",
+    "pdf": "http://arxiv.org/pdf/2403.16495v1"
+  },
+  {
+    "arxiv_id": "2310.11417",
+    "title": "VcT: Visual Change Transformer for Remote Sensing Image Change Detection",
+    "year": 2023,
+    "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+    "citationCount": 58,
+    "arxiv_published": "2023-10-17",
+    "ar5iv_html": "https://ar5iv.org/html/2310.11417",
+    "pdf": "http://arxiv.org/pdf/2310.11417v1"
+  },
+  {
+    "arxiv_id": "2310.08566",
+    "title": "Transformers as Decision Makers: Provable In-Context Reinforcement Learning via Supervised Pretraining",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 58,
+    "arxiv_published": "2023-10-12",
+    "ar5iv_html": "https://ar5iv.org/html/2310.08566",
+    "pdf": "http://arxiv.org/pdf/2310.08566v2"
+  },
+  {
+    "arxiv_id": "2304.09915",
+    "title": "DCN-T: Dual Context Network With Transformer for Hyperspectral Image Classification",
+    "year": 2023,
+    "venue": "IEEE Transactions on Image Processing",
+    "citationCount": 58,
+    "arxiv_published": "2023-04-19",
+    "ar5iv_html": "https://ar5iv.org/html/2304.09915",
+    "pdf": "http://arxiv.org/pdf/2304.09915v1"
+  },
+  {
+    "arxiv_id": "2304.01627",
+    "title": "Self-Supervised Image Denoising for Real-World Images With Context-Aware Transformer",
+    "year": 2023,
+    "venue": "IEEE Access",
+    "citationCount": 58,
+    "arxiv_published": "2023-04-04",
+    "ar5iv_html": "https://ar5iv.org/html/2304.01627",
+    "pdf": "http://arxiv.org/pdf/2304.01627v1"
+  },
+  {
+    "arxiv_id": "2303.18138",
+    "title": "BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection",
+    "year": 2023,
+    "venue": "The Web Conference",
+    "citationCount": 58,
+    "arxiv_published": "2023-03-29",
+    "ar5iv_html": "https://ar5iv.org/html/2303.18138",
+    "pdf": "http://arxiv.org/pdf/2303.18138v2"
+  },
+  {
+    "arxiv_id": "2303.16892",
+    "title": "Multi-scale Hierarchical Vision Transformer with Cascaded Attention Decoding for Medical Image Segmentation",
+    "year": 2023,
+    "venue": "International Conference on Medical Imaging with Deep Learning",
+    "citationCount": 58,
+    "arxiv_published": "2023-03-29",
+    "ar5iv_html": "https://ar5iv.org/html/2303.16892",
+    "pdf": "http://arxiv.org/pdf/2303.16892v1"
+  },
+  {
+    "arxiv_id": "2406.01615",
+    "title": "Building and development of an organizational competence for digital transformation in SMEs",
+    "year": 2021,
+    "venue": "Journal of Industrial Engineering and Management",
+    "citationCount": 58,
+    "arxiv_published": "2024-05-31",
+    "ar5iv_html": "https://ar5iv.org/html/2406.01615",
+    "pdf": "http://arxiv.org/pdf/2406.01615v1"
+  },
+  {
+    "arxiv_id": "2406.12199",
+    "title": "Time Series Modeling for Heart Rate Prediction: From ARIMA to Transformers",
+    "year": 2024,
+    "venue": "2024 6th International Conference on Electronic Engineering and Informatics (EEI)",
+    "citationCount": 57,
+    "arxiv_published": "2024-06-18",
+    "ar5iv_html": "https://ar5iv.org/html/2406.12199",
+    "pdf": "http://arxiv.org/pdf/2406.12199v3"
+  },
+  {
+    "arxiv_id": "2406.01733",
+    "title": "Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching",
+    "year": 2024,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 57,
+    "arxiv_published": "2024-06-03",
+    "ar5iv_html": "https://ar5iv.org/html/2406.01733",
+    "pdf": "http://arxiv.org/pdf/2406.01733v2"
+  },
+  {
+    "arxiv_id": "2310.20494",
+    "title": "A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations",
+    "year": 2023,
+    "venue": "IEEE transactions on multimedia",
+    "citationCount": 57,
+    "arxiv_published": "2023-10-31",
+    "ar5iv_html": "https://ar5iv.org/html/2310.20494",
+    "pdf": "http://arxiv.org/pdf/2310.20494v1"
+  },
+  {
+    "arxiv_id": "2310.01082",
+    "title": "Linear attention is (maybe) all you need (to understand transformer optimization)",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 57,
+    "arxiv_published": "2023-10-02",
+    "ar5iv_html": "https://ar5iv.org/html/2310.01082",
+    "pdf": "http://arxiv.org/pdf/2310.01082v2"
+  },
+  {
+    "arxiv_id": "2308.11509",
+    "title": "SwinFace: A Multi-Task Transformer for Face Recognition, Expression Recognition, Age Estimation and Attribute Estimation",
+    "year": 2023,
+    "venue": "IEEE transactions on circuits and systems for video technology (Print)",
+    "citationCount": 57,
+    "arxiv_published": "2023-08-22",
+    "ar5iv_html": "https://ar5iv.org/html/2308.11509",
+    "pdf": "http://arxiv.org/pdf/2308.11509v1"
+  },
+  {
+    "arxiv_id": "2303.17605",
+    "title": "SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 57,
+    "arxiv_published": "2023-03-30",
+    "ar5iv_html": "https://ar5iv.org/html/2303.17605",
+    "pdf": "http://arxiv.org/pdf/2303.17605v1"
+  },
+  {
+    "arxiv_id": "2303.06833",
+    "title": "Transformer-based Planning for Symbolic Regression",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 57,
+    "arxiv_published": "2023-03-13",
+    "ar5iv_html": "https://ar5iv.org/html/2303.06833",
+    "pdf": "http://arxiv.org/pdf/2303.06833v5"
+  },
+  {
+    "arxiv_id": "2405.00208",
+    "title": "A Primer on the Inner Workings of Transformer-based Language Models",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 56,
+    "arxiv_published": "2024-04-30",
+    "ar5iv_html": "https://ar5iv.org/html/2405.00208",
+    "pdf": "http://arxiv.org/pdf/2405.00208v3"
+  },
+  {
+    "arxiv_id": "2312.01919",
+    "title": "COTR: Compact Occupancy TRansformer for Vision-Based 3D Occupancy Prediction",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 56,
+    "arxiv_published": "2023-12-04",
+    "ar5iv_html": "https://ar5iv.org/html/2312.01919",
+    "pdf": "http://arxiv.org/pdf/2312.01919v2"
+  },
+  {
+    "arxiv_id": "2312.00878",
+    "title": "Grounding Everything: Emerging Localization Properties in Vision-Language Transformers",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 56,
+    "arxiv_published": "2023-12-01",
+    "ar5iv_html": "https://ar5iv.org/html/2312.00878",
+    "pdf": "http://arxiv.org/pdf/2312.00878v3"
+  },
+  {
+    "arxiv_id": "2310.14228",
+    "title": "Hierarchical Vector Quantized Transformer for Multi-class Unsupervised Anomaly Detection",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 56,
+    "arxiv_published": "2023-10-22",
+    "ar5iv_html": "https://ar5iv.org/html/2310.14228",
+    "pdf": "http://arxiv.org/pdf/2310.14228v1"
+  },
+  {
+    "arxiv_id": "2306.11987",
+    "title": "Training Transformers with 4-bit Integers",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 56,
+    "arxiv_published": "2023-06-21",
+    "ar5iv_html": "https://ar5iv.org/html/2306.11987",
+    "pdf": "http://arxiv.org/pdf/2306.11987v2"
+  },
+  {
+    "arxiv_id": "2405.06652",
+    "title": "Large Language Model (LLM) AI text generation detection based on transformer deep learning algorithm",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 55,
+    "arxiv_published": "2024-04-06",
+    "ar5iv_html": "https://ar5iv.org/html/2405.06652",
+    "pdf": "http://arxiv.org/pdf/2405.06652v1"
+  },
+  {
+    "arxiv_id": "2310.09615",
+    "title": "STORM: Efficient Stochastic Transformer based World Models for Reinforcement Learning",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 55,
+    "arxiv_published": "2023-10-14",
+    "ar5iv_html": "https://ar5iv.org/html/2310.09615",
+    "pdf": "http://arxiv.org/pdf/2310.09615v1"
+  },
+  {
+    "arxiv_id": "2308.10280",
+    "title": "MacFormer: Map-Agent Coupled Transformer for Real-Time and Robust Trajectory Prediction",
+    "year": 2023,
+    "venue": "IEEE Robotics and Automation Letters",
+    "citationCount": 55,
+    "arxiv_published": "2023-08-20",
+    "ar5iv_html": "https://ar5iv.org/html/2308.10280",
+    "pdf": "http://arxiv.org/pdf/2308.10280v2"
+  },
+  {
+    "arxiv_id": "2305.17997",
+    "title": "DiffRate : Differentiable Compression Rate for Efficient Vision Transformers",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 55,
+    "arxiv_published": "2023-05-29",
+    "ar5iv_html": "https://ar5iv.org/html/2305.17997",
+    "pdf": "http://arxiv.org/pdf/2305.17997v1"
+  },
+  {
+    "arxiv_id": "2303.16513",
+    "title": "Cascaded Local Implicit Transformer for Arbitrary-Scale Super-Resolution",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 55,
+    "arxiv_published": "2023-03-29",
+    "ar5iv_html": "https://ar5iv.org/html/2303.16513",
+    "pdf": "http://arxiv.org/pdf/2303.16513v1"
+  },
+  {
+    "arxiv_id": "2303.12423",
+    "title": "Text with Knowledge Graph Augmented Transformer for Video Captioning",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 55,
+    "arxiv_published": "2023-03-22",
+    "ar5iv_html": "https://ar5iv.org/html/2303.12423",
+    "pdf": "http://arxiv.org/pdf/2303.12423v2"
+  },
+  {
+    "arxiv_id": "2303.11607",
+    "title": "Transformers in Speech Processing: A Survey",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 55,
+    "arxiv_published": "2023-03-21",
+    "ar5iv_html": "https://ar5iv.org/html/2303.11607",
+    "pdf": "http://arxiv.org/pdf/2303.11607v2"
+  },
+  {
+    "arxiv_id": "2406.07539",
+    "title": "BAKU: An Efficient Transformer for Multi-Task Policy Learning",
+    "year": 2024,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 54,
+    "arxiv_published": "2024-06-11",
+    "ar5iv_html": "https://ar5iv.org/html/2406.07539",
+    "pdf": "http://arxiv.org/pdf/2406.07539v2"
+  },
+  {
+    "arxiv_id": "2406.02486",
+    "title": "A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 54,
+    "arxiv_published": "2024-06-04",
+    "ar5iv_html": "https://ar5iv.org/html/2406.02486",
+    "pdf": "http://arxiv.org/pdf/2406.02486v2"
+  },
+  {
+    "arxiv_id": "2401.06104",
+    "title": "Transformers are Multi-State RNNs",
+    "year": 2024,
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "citationCount": 54,
+    "arxiv_published": "2024-01-11",
+    "ar5iv_html": "https://ar5iv.org/html/2401.06104",
+    "pdf": "http://arxiv.org/pdf/2401.06104v2"
+  },
+  {
+    "arxiv_id": "2310.02642",
+    "title": "GET: Group Event Transformer for Event-Based Vision",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 54,
+    "arxiv_published": "2023-10-04",
+    "ar5iv_html": "https://ar5iv.org/html/2310.02642",
+    "pdf": "http://arxiv.org/pdf/2310.02642v1"
+  },
+  {
+    "arxiv_id": "2307.00371",
+    "title": "Learning Content-enhanced Mask Transformer for Domain Generalized Urban-Scene Segmentation",
+    "year": 2023,
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citationCount": 54,
+    "arxiv_published": "2023-07-01",
+    "ar5iv_html": "https://ar5iv.org/html/2307.00371",
+    "pdf": "http://arxiv.org/pdf/2307.00371v5"
+  },
+  {
+    "arxiv_id": "2305.18741",
+    "title": "Grokking of Hierarchical Structure in Vanilla Transformers",
+    "year": 2023,
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "citationCount": 54,
+    "arxiv_published": "2023-05-30",
+    "ar5iv_html": "https://ar5iv.org/html/2305.18741",
+    "pdf": "http://arxiv.org/pdf/2305.18741v1"
+  },
+  {
+    "arxiv_id": "2305.00505",
+    "title": "Fixed-time safe tracking control of uncertain high-order nonlinear pure-feedback systems via unified transformation functions",
+    "year": 2023,
+    "venue": "Kybernetika (Praha)",
+    "citationCount": 54,
+    "arxiv_published": "2023-04-30",
+    "ar5iv_html": "https://ar5iv.org/html/2305.00505",
+    "pdf": "http://arxiv.org/pdf/2305.00505v1"
+  },
+  {
+    "arxiv_id": "2304.11523",
+    "title": "TransFlow: Transformer as Flow Learner",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 54,
+    "arxiv_published": "2023-04-23",
+    "ar5iv_html": "https://ar5iv.org/html/2304.11523",
+    "pdf": "http://arxiv.org/pdf/2304.11523v1"
+  },
+  {
+    "arxiv_id": "2303.04599",
+    "title": "Point Cloud Classification Using Content-Based Transformer via Clustering in Feature Space",
+    "year": 2023,
+    "venue": "IEEE/CAA Journal of Automatica Sinica",
+    "citationCount": 54,
+    "arxiv_published": "2023-03-08",
+    "ar5iv_html": "https://ar5iv.org/html/2303.04599",
+    "pdf": "http://arxiv.org/pdf/2303.04599v1"
+  },
+  {
+    "arxiv_id": "2303.01610",
+    "title": "Sparse MoE as the New Dropout: Scaling Dense and Self-Slimmable Transformers",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 54,
+    "arxiv_published": "2023-03-02",
+    "ar5iv_html": "https://ar5iv.org/html/2303.01610",
+    "pdf": "http://arxiv.org/pdf/2303.01610v1"
+  },
+  {
+    "arxiv_id": "2402.05602",
+    "title": "AttnLRP: Attention-Aware Layer-wise Relevance Propagation for Transformers",
+    "year": 2024,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 53,
+    "arxiv_published": "2024-02-08",
+    "ar5iv_html": "https://ar5iv.org/html/2402.05602",
+    "pdf": "http://arxiv.org/pdf/2402.05602v2"
+  },
+  {
+    "arxiv_id": "2309.02031",
+    "title": "A Survey on Efficient Vision Transformers: Algorithms, Techniques, and Performance Benchmarking",
+    "year": 2023,
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "citationCount": 53,
+    "arxiv_published": "2023-09-05",
+    "ar5iv_html": "https://ar5iv.org/html/2309.02031",
+    "pdf": "http://arxiv.org/pdf/2309.02031v2"
+  },
+  {
+    "arxiv_id": "2308.16898",
+    "title": "Transformers as Support Vector Machines",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 53,
+    "arxiv_published": "2023-08-31",
+    "ar5iv_html": "https://ar5iv.org/html/2308.16898",
+    "pdf": "http://arxiv.org/pdf/2308.16898v3"
+  },
+  {
+    "arxiv_id": "2308.05464",
+    "title": "Global in Local: A Convolutional Transformer for SAR ATR FSL",
+    "year": 2023,
+    "venue": "IEEE Geoscience and Remote Sensing Letters",
+    "citationCount": 53,
+    "arxiv_published": "2023-08-10",
+    "ar5iv_html": "https://ar5iv.org/html/2308.05464",
+    "pdf": "http://arxiv.org/pdf/2308.05464v1"
+  },
+  {
+    "arxiv_id": "2303.14474",
+    "title": "3Mformer: Multi-order Multi-mode Transformer for Skeletal Action Recognition",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 53,
+    "arxiv_published": "2023-03-25",
+    "ar5iv_html": "https://ar5iv.org/html/2303.14474",
+    "pdf": "http://arxiv.org/pdf/2303.14474v1"
+  },
+  {
+    "arxiv_id": "2302.14435",
+    "title": "ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 53,
+    "arxiv_published": "2023-02-28",
+    "ar5iv_html": "https://ar5iv.org/html/2302.14435",
+    "pdf": "http://arxiv.org/pdf/2302.14435v1"
+  },
+  {
+    "arxiv_id": "2310.06778",
+    "title": "How Knowledge Workers Think Generative AI Will (Not) Transform Their Industries",
+    "year": 2023,
+    "venue": "International Conference on Human Factors in Computing Systems",
+    "citationCount": 52,
+    "arxiv_published": "2023-10-10",
+    "ar5iv_html": "https://ar5iv.org/html/2310.06778",
+    "pdf": "http://arxiv.org/pdf/2310.06778v2"
+  },
+  {
+    "arxiv_id": "2308.06009",
+    "title": "ViGT: proposal-free video grounding with a learnable token in the transformer",
+    "year": 2023,
+    "venue": "Science China Information Sciences",
+    "citationCount": 52,
+    "arxiv_published": "2023-08-11",
+    "ar5iv_html": "https://ar5iv.org/html/2308.06009",
+    "pdf": "http://arxiv.org/pdf/2308.06009v1"
+  },
+  {
+    "arxiv_id": "2305.12095",
+    "title": "CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 52,
+    "arxiv_published": "2023-05-20",
+    "ar5iv_html": "https://ar5iv.org/html/2305.12095",
+    "pdf": "http://arxiv.org/pdf/2305.12095v5"
+  },
+  {
+    "arxiv_id": "2303.12621",
+    "title": "OcTr: Octree-Based Transformer for 3D Object Detection",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 52,
+    "arxiv_published": "2023-03-22",
+    "ar5iv_html": "https://ar5iv.org/html/2303.12621",
+    "pdf": "http://arxiv.org/pdf/2303.12621v1"
+  },
+  {
+    "arxiv_id": "2303.12384",
+    "title": "RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration",
+    "year": 2023,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 52,
+    "arxiv_published": "2023-03-22",
+    "ar5iv_html": "https://ar5iv.org/html/2303.12384",
+    "pdf": "http://arxiv.org/pdf/2303.12384v3"
+  },
+  {
+    "arxiv_id": "2306.01002",
+    "title": "Adaptive ship-radiated noise recognition with learnable fine-grained wavelet transform",
+    "year": 2022,
+    "venue": "Ocean Engineering",
+    "citationCount": 52,
+    "arxiv_published": "2023-05-31",
+    "ar5iv_html": "https://ar5iv.org/html/2306.01002",
+    "pdf": "http://arxiv.org/pdf/2306.01002v2"
+  },
+  {
+    "arxiv_id": "2408.07583",
+    "title": "Transformers and large language models for efficient intrusion detection systems: A comprehensive survey",
+    "year": 2024,
+    "venue": "Information Fusion",
+    "citationCount": 51,
+    "arxiv_published": "2024-08-14",
+    "ar5iv_html": "https://ar5iv.org/html/2408.07583",
+    "pdf": "http://arxiv.org/pdf/2408.07583v2"
+  },
+  {
+    "arxiv_id": "2402.10635",
+    "title": "ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling",
+    "year": 2024,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 51,
+    "arxiv_published": "2024-02-16",
+    "ar5iv_html": "https://ar5iv.org/html/2402.10635",
+    "pdf": "http://arxiv.org/pdf/2402.10635v1"
+  },
+  {
+    "arxiv_id": "2311.14737",
+    "title": "Positional Description Matters for Transformers Arithmetic",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 51,
+    "arxiv_published": "2023-11-22",
+    "ar5iv_html": "https://ar5iv.org/html/2311.14737",
+    "pdf": "http://arxiv.org/pdf/2311.14737v1"
+  },
+  {
+    "arxiv_id": "2303.04488",
+    "title": "Magnushammer: A Transformer-based Approach to Premise Selection",
+    "year": 2023,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 51,
+    "arxiv_published": "2023-03-08",
+    "ar5iv_html": "https://ar5iv.org/html/2303.04488",
+    "pdf": "http://arxiv.org/pdf/2303.04488v3"
+  },
+  {
+    "arxiv_id": "2501.18427",
+    "title": "SANA 1.5: Efficient Scaling of Training-Time and Inference-Time Compute in Linear Diffusion Transformer",
+    "year": 2025,
+    "venue": "arXiv.org",
+    "citationCount": 50,
+    "arxiv_published": "2025-01-30",
+    "ar5iv_html": "https://ar5iv.org/html/2501.18427",
+    "pdf": "http://arxiv.org/pdf/2501.18427v4"
+  },
+  {
+    "arxiv_id": "2407.10172",
+    "title": "Restoring Images in Adverse Weather Conditions via Histogram Transformer",
+    "year": 2024,
+    "venue": "European Conference on Computer Vision",
+    "citationCount": 50,
+    "arxiv_published": "2024-07-14",
+    "ar5iv_html": "https://ar5iv.org/html/2407.10172",
+    "pdf": "http://arxiv.org/pdf/2407.10172v2"
+  },
+  {
+    "arxiv_id": "2312.04557",
+    "title": "GenTron: Diffusion Transformers for Image and Video Generation",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 50,
+    "arxiv_published": "2023-12-07",
+    "ar5iv_html": "https://ar5iv.org/html/2312.04557",
+    "pdf": "http://arxiv.org/pdf/2312.04557v2"
+  },
+  {
+    "arxiv_id": "2306.05067",
+    "title": "Improving Visual Prompt Tuning for Self-supervised Vision Transformers",
+    "year": 2023,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 50,
+    "arxiv_published": "2023-06-08",
+    "ar5iv_html": "https://ar5iv.org/html/2306.05067",
+    "pdf": "http://arxiv.org/pdf/2306.05067v1"
+  }
+]

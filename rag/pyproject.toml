@@ -6,5 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "arxiv>=2.2.0",
+    "bs4>=0.0.2",
     "python-dateutil>=2.9.0.post0",
+    "tqdm>=4.67.1",
 ]

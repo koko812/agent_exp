@@ -1,0 +1,3162 @@
+[
+  {
+    "arxiv_id": "1512.03385",
+    "title": "Deep Residual Learning for Image Recognition",
+    "year": 2015,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 200458,
+    "arxiv_published": "2015-12-10",
+    "ar5iv_html": "https://ar5iv.org/html/1512.03385",
+    "pdf": "http://arxiv.org/pdf/1512.03385v1"
+  },
+  {
+    "arxiv_id": "1801.04381",
+    "title": "MobileNetV2: Inverted Residuals and Linear Bottlenecks",
+    "year": 2018,
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "citationCount": 20161,
+    "arxiv_published": "2018-01-13",
+    "ar5iv_html": "https://ar5iv.org/html/1801.04381",
+    "pdf": "http://arxiv.org/pdf/1801.04381v4"
+  },
+  {
+    "arxiv_id": "1602.07261",
+    "title": "Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning",
+    "year": 2016,
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citationCount": 14539,
+    "arxiv_published": "2016-02-23",
+    "ar5iv_html": "https://ar5iv.org/html/1602.07261",
+    "pdf": "http://arxiv.org/pdf/1602.07261v2"
+  },
+  {
+    "arxiv_id": "1611.05431",
+    "title": "Aggregated Residual Transformations for Deep Neural Networks",
+    "year": 2016,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 10585,
+    "arxiv_published": "2016-11-16",
+    "ar5iv_html": "https://ar5iv.org/html/1611.05431",
+    "pdf": "http://arxiv.org/pdf/1611.05431v2"
+  },
+  {
+    "arxiv_id": "1603.05027",
+    "title": "Identity Mappings in Deep Residual Networks",
+    "year": 2016,
+    "venue": "European Conference on Computer Vision",
+    "citationCount": 10373,
+    "arxiv_published": "2016-03-16",
+    "ar5iv_html": "https://ar5iv.org/html/1603.05027",
+    "pdf": "http://arxiv.org/pdf/1603.05027v3"
+  },
+  {
+    "arxiv_id": "1605.07146",
+    "title": "Wide Residual Networks",
+    "year": 2016,
+    "venue": "British Machine Vision Conference",
+    "citationCount": 8174,
+    "arxiv_published": "2016-05-23",
+    "ar5iv_html": "https://ar5iv.org/html/1605.07146",
+    "pdf": "http://arxiv.org/pdf/1605.07146v4"
+  },
+  {
+    "arxiv_id": "1608.03981",
+    "title": "Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising",
+    "year": 2016,
+    "venue": "IEEE Transactions on Image Processing",
+    "citationCount": 7243,
+    "arxiv_published": "2016-08-13",
+    "ar5iv_html": "https://ar5iv.org/html/1608.03981",
+    "pdf": "http://arxiv.org/pdf/1608.03981v1"
+  },
+  {
+    "arxiv_id": "1707.02921",
+    "title": "Enhanced Deep Residual Networks for Single Image Super-Resolution",
+    "year": 2017,
+    "venue": "2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "citationCount": 6101,
+    "arxiv_published": "2017-07-10",
+    "ar5iv_html": "https://ar5iv.org/html/1707.02921",
+    "pdf": "http://arxiv.org/pdf/1707.02921v1"
+  },
+  {
+    "arxiv_id": "1807.02758",
+    "title": "Image Super-Resolution Using Very Deep Residual Channel Attention Networks",
+    "year": 2018,
+    "venue": "European Conference on Computer Vision",
+    "citationCount": 4477,
+    "arxiv_published": "2018-07-08",
+    "ar5iv_html": "https://ar5iv.org/html/1807.02758",
+    "pdf": "http://arxiv.org/pdf/1807.02758v2"
+  },
+  {
+    "arxiv_id": "1802.08797",
+    "title": "Residual Dense Network for Image Super-Resolution",
+    "year": 2018,
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "citationCount": 3415,
+    "arxiv_published": "2018-02-24",
+    "ar5iv_html": "https://ar5iv.org/html/1802.08797",
+    "pdf": "http://arxiv.org/pdf/1802.08797v2"
+  },
+  {
+    "arxiv_id": "1704.06904",
+    "title": "Residual Attention Network for Image Classification",
+    "year": 2017,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 3346,
+    "arxiv_published": "2017-04-23",
+    "ar5iv_html": "https://ar5iv.org/html/1704.06904",
+    "pdf": "http://arxiv.org/pdf/1704.06904v1"
+  },
+  {
+    "arxiv_id": "1711.10684",
+    "title": "Road Extraction by Deep Residual U-Net",
+    "year": 2017,
+    "venue": "IEEE Geoscience and Remote Sensing Letters",
+    "citationCount": 2219,
+    "arxiv_published": "2017-11-29",
+    "ar5iv_html": "https://ar5iv.org/html/1711.10684",
+    "pdf": "http://arxiv.org/pdf/1711.10684v1"
+  },
+  {
+    "arxiv_id": "1610.00081",
+    "title": "Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction",
+    "year": 2016,
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citationCount": 2147,
+    "arxiv_published": "2016-10-01",
+    "ar5iv_html": "https://ar5iv.org/html/1610.00081",
+    "pdf": "http://arxiv.org/pdf/1610.00081v2"
+  },
+  {
+    "arxiv_id": "1606.00373",
+    "title": "Deeper Depth Prediction with Fully Convolutional Residual Networks",
+    "year": 2016,
+    "venue": "International Conference on 3D Vision",
+    "citationCount": 1859,
+    "arxiv_published": "2016-06-01",
+    "ar5iv_html": "https://ar5iv.org/html/1606.00373",
+    "pdf": "http://arxiv.org/pdf/1606.00373v2"
+  },
+  {
+    "arxiv_id": "1711.10305",
+    "title": "Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks",
+    "year": 2017,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 1685,
+    "arxiv_published": "2017-11-28",
+    "ar5iv_html": "https://ar5iv.org/html/1711.10305",
+    "pdf": "http://arxiv.org/pdf/1711.10305v1"
+  },
+  {
+    "arxiv_id": "1705.09914",
+    "title": "Dilated Residual Networks",
+    "year": 2017,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 1644,
+    "arxiv_published": "2017-05-28",
+    "ar5iv_html": "https://ar5iv.org/html/1705.09914",
+    "pdf": "http://arxiv.org/pdf/1705.09914v1"
+  },
+  {
+    "arxiv_id": "1602.04433",
+    "title": "Unsupervised Domain Adaptation with Residual Transfer Networks",
+    "year": 2016,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 1515,
+    "arxiv_published": "2016-02-14",
+    "ar5iv_html": "https://ar5iv.org/html/1602.04433",
+    "pdf": "http://arxiv.org/pdf/1602.04433v2"
+  },
+  {
+    "arxiv_id": "1702.00288",
+    "title": "Low-Dose CT With a Residual Encoder-Decoder Convolutional Neural Network",
+    "year": 2017,
+    "venue": "IEEE Transactions on Medical Imaging",
+    "citationCount": 1350,
+    "arxiv_published": "2017-02-01",
+    "ar5iv_html": "https://ar5iv.org/html/1702.00288",
+    "pdf": "http://arxiv.org/pdf/1702.00288v3"
+  },
+  {
+    "arxiv_id": "1803.08664",
+    "title": "Fast, Accurate, and, Lightweight Super-Resolution with Cascading Residual Network",
+    "year": 2018,
+    "venue": "European Conference on Computer Vision",
+    "citationCount": 1159,
+    "arxiv_published": "2018-03-23",
+    "ar5iv_html": "https://ar5iv.org/html/1803.08664",
+    "pdf": "http://arxiv.org/pdf/1803.08664v5"
+  },
+  {
+    "arxiv_id": "1802.02627",
+    "title": "Going Deeper in Spiking Neural Networks: VGG and Residual Architectures",
+    "year": 2018,
+    "venue": "Frontiers in Neuroscience",
+    "citationCount": 1046,
+    "arxiv_published": "2018-02-07",
+    "ar5iv_html": "https://ar5iv.org/html/1802.02627",
+    "pdf": "http://arxiv.org/pdf/1802.02627v4"
+  },
+  {
+    "arxiv_id": "1802.06955",
+    "title": "Recurrent Residual Convolutional Neural Network based on U-Net (R2U-Net) for Medical Image Segmentation",
+    "year": 2018,
+    "venue": "arXiv.org",
+    "citationCount": 1038,
+    "arxiv_published": "2018-02-20",
+    "ar5iv_html": "https://ar5iv.org/html/1802.06955",
+    "pdf": "http://arxiv.org/pdf/1802.06955v5"
+  },
+  {
+    "arxiv_id": "1705.08045",
+    "title": "Learning multiple visual domains with residual adapters",
+    "year": 2017,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 964,
+    "arxiv_published": "2017-05-22",
+    "ar5iv_html": "https://ar5iv.org/html/1705.08045",
+    "pdf": "http://arxiv.org/pdf/1705.08045v5"
+  },
+  {
+    "arxiv_id": "1605.07648",
+    "title": "FractalNet: Ultra-Deep Neural Networks without Residuals",
+    "year": 2016,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 956,
+    "arxiv_published": "2016-05-24",
+    "ar5iv_html": "https://ar5iv.org/html/1605.07648",
+    "pdf": "http://arxiv.org/pdf/1605.07648v4"
+  },
+  {
+    "arxiv_id": "1603.08029",
+    "title": "Resnet in Resnet: Generalizing Residual Architectures",
+    "year": 2016,
+    "venue": "arXiv.org",
+    "citationCount": 869,
+    "arxiv_published": "2016-03-25",
+    "ar5iv_html": "https://ar5iv.org/html/1603.08029",
+    "pdf": "http://arxiv.org/pdf/1603.08029v1"
+  },
+  {
+    "arxiv_id": "2103.04286",
+    "title": "RFN-Nest: An end-to-end residual fusion network for infrared and visible images",
+    "year": 2021,
+    "venue": "Information Fusion",
+    "citationCount": 762,
+    "arxiv_published": "2021-03-07",
+    "ar5iv_html": "https://ar5iv.org/html/2103.04286",
+    "pdf": "http://arxiv.org/pdf/2103.04286v2"
+  },
+  {
+    "arxiv_id": "1812.10477",
+    "title": "Residual Dense Network for Image Restoration",
+    "year": 2018,
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "citationCount": 744,
+    "arxiv_published": "2018-12-25",
+    "ar5iv_html": "https://ar5iv.org/html/1812.10477",
+    "pdf": "http://arxiv.org/pdf/1812.10477v2"
+  },
+  {
+    "arxiv_id": "1611.02155",
+    "title": "Spatiotemporal Residual Networks for Video Action Recognition",
+    "year": 2016,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 724,
+    "arxiv_published": "2016-11-07",
+    "ar5iv_html": "https://ar5iv.org/html/1611.02155",
+    "pdf": "http://arxiv.org/pdf/1611.02155v1"
+  },
+  {
+    "arxiv_id": "1610.02915",
+    "title": "Deep Pyramidal Residual Networks",
+    "year": 2016,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 700,
+    "arxiv_published": "2016-10-10",
+    "ar5iv_html": "https://ar5iv.org/html/1610.02915",
+    "pdf": "http://arxiv.org/pdf/1610.02915v4"
+  },
+  {
+    "arxiv_id": "1903.10082",
+    "title": "Residual Non-local Attention Networks for Image Restoration",
+    "year": 2019,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 686,
+    "arxiv_published": "2019-03-24",
+    "ar5iv_html": "https://ar5iv.org/html/1903.10082",
+    "pdf": "http://arxiv.org/pdf/1903.10082v1"
+  },
+  {
+    "arxiv_id": "2202.07123",
+    "title": "Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework",
+    "year": 2022,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 646,
+    "arxiv_published": "2022-02-15",
+    "ar5iv_html": "https://ar5iv.org/html/2202.07123",
+    "pdf": "http://arxiv.org/pdf/2202.07123v2"
+  },
+  {
+    "arxiv_id": "1811.00995",
+    "title": "Invertible Residual Networks",
+    "year": 2018,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 645,
+    "arxiv_published": "2018-11-02",
+    "ar5iv_html": "https://ar5iv.org/html/1811.00995",
+    "pdf": "http://arxiv.org/pdf/1811.00995v3"
+  },
+  {
+    "arxiv_id": "1708.07632",
+    "title": "Learning Spatio-Temporal Features with 3D Residual Networks for Action Recognition",
+    "year": 2017,
+    "venue": "2017 IEEE International Conference on Computer Vision Workshops (ICCVW)",
+    "citationCount": 625,
+    "arxiv_published": "2017-08-25",
+    "ar5iv_html": "https://ar5iv.org/html/1708.07632",
+    "pdf": "http://arxiv.org/pdf/1708.07632v1"
+  },
+  {
+    "arxiv_id": "1707.04585",
+    "title": "The Reversible Residual Network: Backpropagation Without Storing Activations",
+    "year": 2017,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 570,
+    "arxiv_published": "2017-07-14",
+    "ar5iv_html": "https://ar5iv.org/html/1707.04585",
+    "pdf": "http://arxiv.org/pdf/1707.04585v1"
+  },
+  {
+    "arxiv_id": "1611.08323",
+    "title": "Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes",
+    "year": 2016,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 568,
+    "arxiv_published": "2016-11-24",
+    "ar5iv_html": "https://ar5iv.org/html/1611.08323",
+    "pdf": "http://arxiv.org/pdf/1611.08323v2"
+  },
+  {
+    "arxiv_id": "2102.04159",
+    "title": "Deep Residual Learning in Spiking Neural Networks",
+    "year": 2021,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 546,
+    "arxiv_published": "2021-02-08",
+    "ar5iv_html": "https://ar5iv.org/html/2102.04159",
+    "pdf": "http://arxiv.org/pdf/2102.04159v6"
+  },
+  {
+    "arxiv_id": "2001.10167",
+    "title": "Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach",
+    "year": 2020,
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citationCount": 531,
+    "arxiv_published": "2020-01-28",
+    "ar5iv_html": "https://ar5iv.org/html/2001.10167",
+    "pdf": "http://arxiv.org/pdf/2001.10167v1"
+  },
+  {
+    "arxiv_id": "1711.07553",
+    "title": "Residual Gated Graph ConvNets",
+    "year": 2017,
+    "venue": "arXiv.org",
+    "citationCount": 503,
+    "arxiv_published": "2017-11-20",
+    "ar5iv_html": "https://ar5iv.org/html/1711.07553",
+    "pdf": "http://arxiv.org/pdf/1711.07553v2"
+  },
+  {
+    "arxiv_id": "1708.00225",
+    "title": "CREST: Convolutional Residual Learning for Visual Tracking",
+    "year": 2017,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 489,
+    "arxiv_published": "2017-08-01",
+    "ar5iv_html": "https://ar5iv.org/html/1708.00225",
+    "pdf": "http://arxiv.org/pdf/1708.00225v1"
+  },
+  {
+    "arxiv_id": "1805.11956",
+    "title": "Short-Term Load Forecasting With Deep Residual Networks",
+    "year": 2018,
+    "venue": "IEEE Transactions on Smart Grid",
+    "citationCount": 480,
+    "arxiv_published": "2018-05-30",
+    "ar5iv_html": "https://ar5iv.org/html/1805.11956",
+    "pdf": "http://arxiv.org/pdf/1805.11956v1"
+  },
+  {
+    "arxiv_id": "1711.08393",
+    "title": "BlockDrop: Dynamic Inference Paths in Residual Networks",
+    "year": 2017,
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "citationCount": 479,
+    "arxiv_published": "2017-11-22",
+    "ar5iv_html": "https://ar5iv.org/html/1711.08393",
+    "pdf": "http://arxiv.org/pdf/1711.08393v4"
+  },
+  {
+    "arxiv_id": "1708.09204",
+    "title": "Cascade Residual Learning: A Two-Stage Convolutional Neural Network for Stereo Matching",
+    "year": 2017,
+    "venue": "2017 IEEE International Conference on Computer Vision Workshops (ICCVW)",
+    "citationCount": 461,
+    "arxiv_published": "2017-08-30",
+    "ar5iv_html": "https://ar5iv.org/html/1708.09204",
+    "pdf": "http://arxiv.org/pdf/1708.09204v2"
+  },
+  {
+    "arxiv_id": "1701.02543",
+    "title": "Predicting Citywide Crowd Flows Using Deep Spatio-Temporal Residual Networks",
+    "year": 2017,
+    "venue": "Artificial Intelligence",
+    "citationCount": 451,
+    "arxiv_published": "2017-01-10",
+    "ar5iv_html": "https://ar5iv.org/html/1701.02543",
+    "pdf": "http://arxiv.org/pdf/1701.02543v1"
+  },
+  {
+    "arxiv_id": "2207.10289",
+    "title": "A comprehensive study of non-adaptive and residual-based adaptive sampling for physics-informed neural networks",
+    "year": 2022,
+    "venue": "Computer Methods in Applied Mechanics and Engineering",
+    "citationCount": 448,
+    "arxiv_published": "2022-07-21",
+    "ar5iv_html": "https://ar5iv.org/html/2207.10289",
+    "pdf": "http://arxiv.org/pdf/2207.10289v1"
+  },
+  {
+    "arxiv_id": "2203.01941",
+    "title": "Autoregressive Image Generation using Residual Quantization",
+    "year": 2022,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 446,
+    "arxiv_published": "2022-03-03",
+    "ar5iv_html": "https://ar5iv.org/html/2203.01941",
+    "pdf": "http://arxiv.org/pdf/2203.01941v2"
+  },
+  {
+    "arxiv_id": "1812.03201",
+    "title": "Residual Reinforcement Learning for Robot Control",
+    "year": 2018,
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "citationCount": 438,
+    "arxiv_published": "2018-12-07",
+    "ar5iv_html": "https://ar5iv.org/html/1812.03201",
+    "pdf": "http://arxiv.org/pdf/1812.03201v2"
+  },
+  {
+    "arxiv_id": "1808.04256",
+    "title": "CT Super-Resolution GAN Constrained by the Identical, Residual, and Cycle Learning Ensemble (GAN-CIRCLE)",
+    "year": 2018,
+    "venue": "IEEE Transactions on Medical Imaging",
+    "citationCount": 423,
+    "arxiv_published": "2018-08-10",
+    "ar5iv_html": "https://ar5iv.org/html/1808.04256",
+    "pdf": "http://arxiv.org/pdf/1808.04256v3"
+  },
+  {
+    "arxiv_id": "1605.02305",
+    "title": "Estimating Depth From Monocular Images as Classification Using Deep Fully Convolutional Residual Networks",
+    "year": 2016,
+    "venue": "IEEE transactions on circuits and systems for video technology (Print)",
+    "citationCount": 413,
+    "arxiv_published": "2016-05-08",
+    "ar5iv_html": "https://ar5iv.org/html/1605.02305",
+    "pdf": "http://arxiv.org/pdf/1605.02305v3"
+  },
+  {
+    "arxiv_id": "2009.11551",
+    "title": "Residual Feature Distillation Network for Lightweight Image Super-Resolution",
+    "year": 2020,
+    "venue": "ECCV Workshops",
+    "citationCount": 412,
+    "arxiv_published": "2020-09-24",
+    "ar5iv_html": "https://ar5iv.org/html/2009.11551",
+    "pdf": "http://arxiv.org/pdf/2009.11551v1"
+  },
+  {
+    "arxiv_id": "1903.11239",
+    "title": "TossingBot: Learning to Throw Arbitrary Objects With Residual Physics",
+    "year": 2019,
+    "venue": "IEEE Transactions on robotics",
+    "citationCount": 402,
+    "arxiv_published": "2019-03-27",
+    "ar5iv_html": "https://ar5iv.org/html/1903.11239",
+    "pdf": "http://arxiv.org/pdf/1903.11239v3"
+  },
+  {
+    "arxiv_id": "1906.02735",
+    "title": "Residual Flows for Invertible Generative Modeling",
+    "year": 2019,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 398,
+    "arxiv_published": "2019-06-06",
+    "ar5iv_html": "https://ar5iv.org/html/1906.02735",
+    "pdf": "http://arxiv.org/pdf/1906.02735v6"
+  },
+  {
+    "arxiv_id": "1806.00183",
+    "title": "Hyperspectral Image Denoising Employing a Spatial–Spectral Deep Residual Convolutional Neural Network",
+    "year": 2018,
+    "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+    "citationCount": 398,
+    "arxiv_published": "2018-06-01",
+    "ar5iv_html": "https://ar5iv.org/html/1806.00183",
+    "pdf": "http://arxiv.org/pdf/1806.00183v3"
+  },
+  {
+    "arxiv_id": "1604.07125",
+    "title": "Approximate residual balancing: debiased inference of average treatment effects in high dimensions",
+    "year": 2016,
+    "venue": "",
+    "citationCount": 396,
+    "arxiv_published": "2016-04-25",
+    "ar5iv_html": "https://ar5iv.org/html/1604.07125",
+    "pdf": "http://arxiv.org/pdf/1604.07125v5"
+  },
+  {
+    "arxiv_id": "2106.16031",
+    "title": "ResViT: Residual Vision Transformers for Multimodal Medical Image Synthesis",
+    "year": 2021,
+    "venue": "IEEE Transactions on Medical Imaging",
+    "citationCount": 387,
+    "arxiv_published": "2021-06-30",
+    "ar5iv_html": "https://ar5iv.org/html/2106.16031",
+    "pdf": "http://arxiv.org/pdf/2106.16031v3"
+  },
+  {
+    "arxiv_id": "1705.07556",
+    "title": "Boosting the Accuracy of Multispectral Image Pansharpening by Learning a Deep Residual Network",
+    "year": 2017,
+    "venue": "IEEE Geoscience and Remote Sensing Letters",
+    "citationCount": 382,
+    "arxiv_published": "2017-05-22",
+    "ar5iv_html": "https://ar5iv.org/html/1705.07556",
+    "pdf": "http://arxiv.org/pdf/1705.07556v2"
+  },
+  {
+    "arxiv_id": "1701.06643",
+    "title": "Residual and plain convolutional neural networks for 3D brain MRI classification",
+    "year": 2017,
+    "venue": "IEEE International Symposium on Biomedical Imaging",
+    "citationCount": 380,
+    "arxiv_published": "2017-01-23",
+    "ar5iv_html": "https://ar5iv.org/html/1701.06643",
+    "pdf": "http://arxiv.org/pdf/1701.06643v1"
+  },
+  {
+    "arxiv_id": "1612.02297",
+    "title": "Spatially Adaptive Computation Time for Residual Networks",
+    "year": 2016,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 358,
+    "arxiv_published": "2016-12-07",
+    "ar5iv_html": "https://ar5iv.org/html/1612.02297",
+    "pdf": "http://arxiv.org/pdf/1612.02297v2"
+  },
+  {
+    "arxiv_id": "1901.09321",
+    "title": "Fixup Initialization: Residual Learning Without Normalization",
+    "year": 2019,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 355,
+    "arxiv_published": "2019-01-27",
+    "ar5iv_html": "https://ar5iv.org/html/1901.09321",
+    "pdf": "http://arxiv.org/pdf/1901.09321v2"
+  },
+  {
+    "arxiv_id": "2104.02699",
+    "title": "ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement",
+    "year": 2021,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 353,
+    "arxiv_published": "2021-04-06",
+    "ar5iv_html": "https://ar5iv.org/html/2104.02699",
+    "pdf": "http://arxiv.org/pdf/2104.02699v2"
+  },
+  {
+    "arxiv_id": "1902.01445",
+    "title": "Residual Energy-Based Cluster-Head Selection in WSNs for IoT Application",
+    "year": 2019,
+    "venue": "IEEE Internet of Things Journal",
+    "citationCount": 346,
+    "arxiv_published": "2019-02-04",
+    "ar5iv_html": "https://ar5iv.org/html/1902.01445",
+    "pdf": "http://arxiv.org/pdf/1902.01445v1"
+  },
+  {
+    "arxiv_id": "1703.04615",
+    "title": "Recasting Residual-based Local Descriptors as Convolutional Neural Networks: an Application to Image Forgery Detection",
+    "year": 2017,
+    "venue": "Information Hiding and Multimedia Security Workshop",
+    "citationCount": 341,
+    "arxiv_published": "2017-03-14",
+    "ar5iv_html": "https://ar5iv.org/html/1703.04615",
+    "pdf": "http://arxiv.org/pdf/1703.04615v1"
+  },
+  {
+    "arxiv_id": "2003.01811",
+    "title": "RMP-SNN: Residual Membrane Potential Neuron for Enabling Deeper High-Accuracy and Low-Latency Spiking Neural Network",
+    "year": 2020,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 336,
+    "arxiv_published": "2020-02-25",
+    "ar5iv_html": "https://ar5iv.org/html/2003.01811",
+    "pdf": "http://arxiv.org/pdf/2003.01811v2"
+  },
+  {
+    "arxiv_id": "1702.05743",
+    "title": "DR2-Net: Deep Residual Reconstruction Network for Image Compressive Sensing",
+    "year": 2017,
+    "venue": "Neurocomputing",
+    "citationCount": 326,
+    "arxiv_published": "2017-02-19",
+    "ar5iv_html": "https://ar5iv.org/html/1702.05743",
+    "pdf": "http://arxiv.org/pdf/1702.05743v4"
+  },
+  {
+    "arxiv_id": "1801.05173",
+    "title": "Fully convolutional multi‐scale residual DenseNets for cardiac segmentation and automated cardiac diagnosis using ensemble of classifiers",
+    "year": 2018,
+    "venue": "Medical Image Anal.",
+    "citationCount": 321,
+    "arxiv_published": "2018-01-16",
+    "ar5iv_html": "https://ar5iv.org/html/1801.05173",
+    "pdf": "http://arxiv.org/pdf/1801.05173v1"
+  },
+  {
+    "arxiv_id": "1708.08989",
+    "title": "Deep Residual Bidir-LSTM for Human Activity Recognition Using Wearable Sensors",
+    "year": 2017,
+    "venue": "Mathematical Problems in Engineering",
+    "citationCount": 321,
+    "arxiv_published": "2017-08-22",
+    "ar5iv_html": "https://ar5iv.org/html/1708.08989",
+    "pdf": "http://arxiv.org/pdf/1708.08989v2"
+  },
+  {
+    "arxiv_id": "1608.02908",
+    "title": "Residual Networks of Residual Networks: Multilevel Residual Networks",
+    "year": 2016,
+    "venue": "IEEE transactions on circuits and systems for video technology (Print)",
+    "citationCount": 321,
+    "arxiv_published": "2016-08-09",
+    "ar5iv_html": "https://ar5iv.org/html/1608.02908",
+    "pdf": "http://arxiv.org/pdf/1608.02908v2"
+  },
+  {
+    "arxiv_id": "1703.04105",
+    "title": "Combining Residual Networks with LSTMs for Lipreading",
+    "year": 2017,
+    "venue": "Interspeech",
+    "citationCount": 315,
+    "arxiv_published": "2017-03-12",
+    "ar5iv_html": "https://ar5iv.org/html/1703.04105",
+    "pdf": "http://arxiv.org/pdf/1703.04105v4"
+  },
+  {
+    "arxiv_id": "1909.04810",
+    "title": "Antipodal Robotic Grasping using Generative Residual Convolutional Neural Network",
+    "year": 2019,
+    "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+    "citationCount": 306,
+    "arxiv_published": "2019-09-11",
+    "ar5iv_html": "https://ar5iv.org/html/1909.04810",
+    "pdf": "http://arxiv.org/pdf/1909.04810v4"
+  },
+  {
+    "arxiv_id": "1804.00432",
+    "title": "Deep Residual Learning for Accelerated MRI Using Magnitude and Phase Networks",
+    "year": 2018,
+    "venue": "IEEE Transactions on Biomedical Engineering",
+    "citationCount": 303,
+    "arxiv_published": "2018-04-02",
+    "ar5iv_html": "https://ar5iv.org/html/1804.00432",
+    "pdf": "http://arxiv.org/pdf/1804.00432v1"
+  },
+  {
+    "arxiv_id": "1606.01455",
+    "title": "Multimodal Residual Learning for Visual QA",
+    "year": 2016,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 301,
+    "arxiv_published": "2016-06-05",
+    "ar5iv_html": "https://ar5iv.org/html/1606.01455",
+    "pdf": "http://arxiv.org/pdf/1606.01455v2"
+  },
+  {
+    "arxiv_id": "2307.12348",
+    "title": "ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting",
+    "year": 2023,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 291,
+    "arxiv_published": "2023-07-23",
+    "ar5iv_html": "https://ar5iv.org/html/2307.12348",
+    "pdf": "http://arxiv.org/pdf/2307.12348v3"
+  },
+  {
+    "arxiv_id": "1803.10443",
+    "title": "Influence of surface finish and residual stresses on the ageing sensitivity of biomedical grade zirconia.",
+    "year": 2006,
+    "venue": "Biomaterials",
+    "citationCount": 289,
+    "arxiv_published": "2018-03-28",
+    "ar5iv_html": "https://ar5iv.org/html/1803.10443",
+    "pdf": "http://arxiv.org/pdf/1803.10443v1"
+  },
+  {
+    "arxiv_id": "1906.11129",
+    "title": "Uncertainty Guided Multi-Scale Residual Learning-Using a Cycle Spinning CNN for Single Image De-Raining",
+    "year": 2019,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 280,
+    "arxiv_published": "2019-06-12",
+    "ar5iv_html": "https://ar5iv.org/html/1906.11129",
+    "pdf": "http://arxiv.org/pdf/1906.11129v1"
+  },
+  {
+    "arxiv_id": "1810.01965",
+    "title": "CRED: A Deep Residual Network of Convolutional and Recurrent Units for Earthquake Signal Detection",
+    "year": 2018,
+    "venue": "Scientific Reports",
+    "citationCount": 278,
+    "arxiv_published": "2018-10-03",
+    "ar5iv_html": "https://ar5iv.org/html/1810.01965",
+    "pdf": "http://arxiv.org/pdf/1810.01965v1"
+  },
+  {
+    "arxiv_id": "1904.05290",
+    "title": "Iterative Residual Refinement for Joint Optical Flow and Occlusion Estimation",
+    "year": 2019,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 274,
+    "arxiv_published": "2019-04-10",
+    "ar5iv_html": "https://ar5iv.org/html/1904.05290",
+    "pdf": "http://arxiv.org/pdf/1904.05290v1"
+  },
+  {
+    "arxiv_id": "1709.03698",
+    "title": "Reversible Architectures for Arbitrarily Deep Residual Neural Networks",
+    "year": 2017,
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citationCount": 272,
+    "arxiv_published": "2017-09-12",
+    "ar5iv_html": "https://ar5iv.org/html/1709.03698",
+    "pdf": "http://arxiv.org/pdf/1709.03698v2"
+  },
+  {
+    "arxiv_id": "1904.01367",
+    "title": "Why ResNet Works? Residuals Generalize",
+    "year": 2019,
+    "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+    "citationCount": 271,
+    "arxiv_published": "2019-04-02",
+    "ar5iv_html": "https://ar5iv.org/html/1904.01367",
+    "pdf": "http://arxiv.org/pdf/1904.01367v1"
+  },
+  {
+    "arxiv_id": "1610.03098",
+    "title": "Neural Paraphrase Generation with Stacked Residual LSTM Networks",
+    "year": 2016,
+    "venue": "International Conference on Computational Linguistics",
+    "citationCount": 269,
+    "arxiv_published": "2016-10-10",
+    "ar5iv_html": "https://ar5iv.org/html/1610.03098",
+    "pdf": "http://arxiv.org/pdf/1610.03098v3"
+  },
+  {
+    "arxiv_id": "1811.04241",
+    "title": "Breast Cancer Classification from Histopathological Images with Inception Recurrent Residual Convolutional Neural Network",
+    "year": 2018,
+    "venue": "Journal of digital imaging",
+    "citationCount": 268,
+    "arxiv_published": "2018-11-10",
+    "ar5iv_html": "https://ar5iv.org/html/1811.04241",
+    "pdf": "http://arxiv.org/pdf/1811.04241v1"
+  },
+  {
+    "arxiv_id": "1901.01463",
+    "title": "Probing 10 μK stability and residual drifts in the cross-polarized dual-mode stabilization of single-crystal ultrahigh-Q optical resonators",
+    "year": 2019,
+    "venue": "Light: Science & Applications",
+    "citationCount": 258,
+    "arxiv_published": "2019-01-05",
+    "ar5iv_html": "https://ar5iv.org/html/1901.01463",
+    "pdf": "http://arxiv.org/pdf/1901.01463v1"
+  },
+  {
+    "arxiv_id": "1807.04067",
+    "title": "MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network",
+    "year": 2018,
+    "venue": "European Conference on Computer Vision",
+    "citationCount": 258,
+    "arxiv_published": "2018-07-11",
+    "ar5iv_html": "https://ar5iv.org/html/1807.04067",
+    "pdf": "http://arxiv.org/pdf/1807.04067v1"
+  },
+  {
+    "arxiv_id": "1604.03640",
+    "title": "Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex",
+    "year": 2016,
+    "venue": "arXiv.org",
+    "citationCount": 257,
+    "arxiv_published": "2016-04-13",
+    "ar5iv_html": "https://ar5iv.org/html/1604.03640",
+    "pdf": "http://arxiv.org/pdf/1604.03640v2"
+  },
+  {
+    "arxiv_id": "1505.00889",
+    "title": "Residual metallic contamination of transferred chemical vapor deposited graphene.",
+    "year": 2015,
+    "venue": "ACS Nano",
+    "citationCount": 256,
+    "arxiv_published": "2015-05-05",
+    "ar5iv_html": "https://ar5iv.org/html/1505.00889",
+    "pdf": "http://arxiv.org/pdf/1505.00889v1"
+  },
+  {
+    "arxiv_id": "1612.05363",
+    "title": "Learning Residual Images for Face Attribute Manipulation",
+    "year": 2016,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 254,
+    "arxiv_published": "2016-12-16",
+    "ar5iv_html": "https://ar5iv.org/html/1612.05363",
+    "pdf": "http://arxiv.org/pdf/1612.05363v2"
+  },
+  {
+    "arxiv_id": "2001.00459",
+    "title": "Joint Robust Voicing Detection and Pitch Estimation Based on Residual Harmonics",
+    "year": 2019,
+    "venue": "Interspeech",
+    "citationCount": 252,
+    "arxiv_published": "2019-12-28",
+    "ar5iv_html": "https://ar5iv.org/html/2001.00459",
+    "pdf": "http://arxiv.org/pdf/2001.00459v1"
+  },
+  {
+    "arxiv_id": "1612.05360",
+    "title": "FusionNet: A Deep Fully Residual Convolutional Neural Network for Image Segmentation in Connectomics",
+    "year": 2016,
+    "venue": "Frontiers of Computer Science",
+    "citationCount": 245,
+    "arxiv_published": "2016-12-16",
+    "ar5iv_html": "https://ar5iv.org/html/1612.05360",
+    "pdf": "http://arxiv.org/pdf/1612.05360v2"
+  },
+  {
+    "arxiv_id": "1710.10361",
+    "title": "Deep Residual Learning for Small-Footprint Keyword Spotting",
+    "year": 2017,
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "citationCount": 242,
+    "arxiv_published": "2017-10-28",
+    "ar5iv_html": "https://ar5iv.org/html/1710.10361",
+    "pdf": "http://arxiv.org/pdf/1710.10361v2"
+  },
+  {
+    "arxiv_id": "1906.12021",
+    "title": "Densely Residual Laplacian Super-Resolution",
+    "year": 2019,
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "citationCount": 240,
+    "arxiv_published": "2019-06-28",
+    "ar5iv_html": "https://ar5iv.org/html/1906.12021",
+    "pdf": "http://arxiv.org/pdf/1906.12021v2"
+  },
+  {
+    "arxiv_id": "1810.07248",
+    "title": "ReDMark: Framework for residual diffusion watermarking based on deep networks",
+    "year": 2018,
+    "venue": "Expert systems with applications",
+    "citationCount": 232,
+    "arxiv_published": "2018-10-16",
+    "ar5iv_html": "https://ar5iv.org/html/1810.07248",
+    "pdf": "http://arxiv.org/pdf/1810.07248v3"
+  },
+  {
+    "arxiv_id": "1707.07958",
+    "title": "Residual Conv-Deconv Grid Network for Semantic Segmentation",
+    "year": 2017,
+    "venue": "British Machine Vision Conference",
+    "citationCount": 224,
+    "arxiv_published": "2017-07-25",
+    "ar5iv_html": "https://ar5iv.org/html/1707.07958",
+    "pdf": "http://arxiv.org/pdf/1707.07958v2"
+  },
+  {
+    "arxiv_id": "1806.01054",
+    "title": "RedNet: Residual Encoder-Decoder Network for indoor RGB-D Semantic Segmentation",
+    "year": 2018,
+    "venue": "arXiv.org",
+    "citationCount": 223,
+    "arxiv_published": "2018-06-04",
+    "ar5iv_html": "https://ar5iv.org/html/1806.01054",
+    "pdf": "http://arxiv.org/pdf/1806.01054v2"
+  },
+  {
+    "arxiv_id": "2107.11291",
+    "title": "Human Pose Regression with Residual Log-likelihood Estimation",
+    "year": 2021,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 222,
+    "arxiv_published": "2021-07-23",
+    "ar5iv_html": "https://ar5iv.org/html/2107.11291",
+    "pdf": "http://arxiv.org/pdf/2107.11291v3"
+  },
+  {
+    "arxiv_id": "1508.03179",
+    "title": "Residual Weighted Learning for Estimating Individualized Treatment Rules",
+    "year": 2015,
+    "venue": "Journal of the American Statistical Association",
+    "citationCount": 218,
+    "arxiv_published": "2015-08-13",
+    "ar5iv_html": "https://ar5iv.org/html/1508.03179",
+    "pdf": "http://arxiv.org/pdf/1508.03179v1"
+  },
+  {
+    "arxiv_id": "2105.07451",
+    "title": "MSRF-Net: A Multi-Scale Residual Fusion Network for Biomedical Image Segmentation",
+    "year": 2021,
+    "venue": "IEEE journal of biomedical and health informatics",
+    "citationCount": 217,
+    "arxiv_published": "2021-05-16",
+    "ar5iv_html": "https://ar5iv.org/html/2105.07451",
+    "pdf": "http://arxiv.org/pdf/2105.07451v2"
+  },
+  {
+    "arxiv_id": "1612.07771",
+    "title": "Highway and Residual Networks learn Unrolled Iterative Estimation",
+    "year": 2016,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 217,
+    "arxiv_published": "2016-12-22",
+    "ar5iv_html": "https://ar5iv.org/html/1612.07771",
+    "pdf": "http://arxiv.org/pdf/1612.07771v3"
+  },
+  {
+    "arxiv_id": "1903.08817",
+    "title": "Dual Residual Networks Leveraging the Potential of Paired Operations for Image Restoration",
+    "year": 2019,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 216,
+    "arxiv_published": "2019-03-21",
+    "ar5iv_html": "https://ar5iv.org/html/1903.08817",
+    "pdf": "http://arxiv.org/pdf/1903.08817v2"
+  },
+  {
+    "arxiv_id": "2108.07152",
+    "title": "MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction",
+    "year": 2021,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 213,
+    "arxiv_published": "2021-08-16",
+    "ar5iv_html": "https://ar5iv.org/html/2108.07152",
+    "pdf": "http://arxiv.org/pdf/2108.07152v2"
+  },
+  {
+    "arxiv_id": "2009.01423",
+    "title": "Deep Residual Learning for Channel Estimation in Intelligent Reflecting Surface-Assisted Multi-User Communications",
+    "year": 2020,
+    "venue": "IEEE Transactions on Wireless Communications",
+    "citationCount": 207,
+    "arxiv_published": "2020-09-03",
+    "ar5iv_html": "https://ar5iv.org/html/2009.01423",
+    "pdf": "http://arxiv.org/pdf/2009.01423v4"
+  },
+  {
+    "arxiv_id": "1905.02082",
+    "title": "ReFusion: 3D Reconstruction in Dynamic Environments for RGB-D Cameras Exploiting Residuals",
+    "year": 2019,
+    "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+    "citationCount": 207,
+    "arxiv_published": "2019-05-06",
+    "ar5iv_html": "https://ar5iv.org/html/1905.02082",
+    "pdf": "http://arxiv.org/pdf/1905.02082v3"
+  },
+  {
+    "arxiv_id": "1611.06391",
+    "title": "Deep Residual Learning for Compressed Sensing CT Reconstruction via Persistent Homology Analysis",
+    "year": 2016,
+    "venue": "arXiv.org",
+    "citationCount": 207,
+    "arxiv_published": "2016-11-19",
+    "ar5iv_html": "https://ar5iv.org/html/1611.06391",
+    "pdf": "http://arxiv.org/pdf/1611.06391v2"
+  },
+  {
+    "arxiv_id": "1908.10763",
+    "title": "Unlearn Dataset Bias in Natural Language Inference by Fitting the Residual",
+    "year": 2019,
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "citationCount": 204,
+    "arxiv_published": "2019-08-28",
+    "ar5iv_html": "https://ar5iv.org/html/1908.10763",
+    "pdf": "http://arxiv.org/pdf/1908.10763v2"
+  },
+  {
+    "arxiv_id": "1612.06543",
+    "title": "Wide-Slice Residual Networks for Food Recognition",
+    "year": 2016,
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "citationCount": 203,
+    "arxiv_published": "2016-12-20",
+    "ar5iv_html": "https://ar5iv.org/html/1612.06543",
+    "pdf": "http://arxiv.org/pdf/1612.06543v1"
+  },
+  {
+    "arxiv_id": "1709.02898",
+    "title": "Learning a Dilated Residual Network for SAR Image Despeckling",
+    "year": 2017,
+    "venue": "Remote Sensing",
+    "citationCount": 202,
+    "arxiv_published": "2017-09-09",
+    "ar5iv_html": "https://ar5iv.org/html/1709.02898",
+    "pdf": "http://arxiv.org/pdf/1709.02898v3"
+  },
+  {
+    "arxiv_id": "1604.08671",
+    "title": "Deep Edge Guided Recurrent Residual Learning for Image Super-Resolution",
+    "year": 2016,
+    "venue": "IEEE Transactions on Image Processing",
+    "citationCount": 202,
+    "arxiv_published": "2016-04-29",
+    "ar5iv_html": "https://ar5iv.org/html/1604.08671",
+    "pdf": "http://arxiv.org/pdf/1604.08671v2"
+  },
+  {
+    "arxiv_id": "1703.04197",
+    "title": "Automatic Skin Lesion Analysis using Large-scale Dermoscopy Images and Deep Residual Networks",
+    "year": 2017,
+    "venue": "arXiv.org",
+    "citationCount": 200,
+    "arxiv_published": "2017-03-12",
+    "ar5iv_html": "https://ar5iv.org/html/1703.04197",
+    "pdf": "http://arxiv.org/pdf/1703.04197v2"
+  },
+  {
+    "arxiv_id": "2004.05645",
+    "title": "Residual Attention U-Net for Automated Multi-Class Segmentation of COVID-19 Chest CT Images",
+    "year": 2020,
+    "venue": "arXiv.org",
+    "citationCount": 197,
+    "arxiv_published": "2020-04-12",
+    "ar5iv_html": "https://ar5iv.org/html/2004.05645",
+    "pdf": "http://arxiv.org/pdf/2004.05645v1"
+  },
+  {
+    "arxiv_id": "1712.08969",
+    "title": "Mean Field Residual Networks: On the Edge of Chaos",
+    "year": 2017,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 196,
+    "arxiv_published": "2017-12-24",
+    "ar5iv_html": "https://ar5iv.org/html/1712.08969",
+    "pdf": "http://arxiv.org/pdf/1712.08969v1"
+  },
+  {
+    "arxiv_id": "1803.05196",
+    "title": "EdgeStereo: A Context Integrated Residual Pyramid Network for Stereo Matching",
+    "year": 2018,
+    "venue": "Asian Conference on Computer Vision",
+    "citationCount": 195,
+    "arxiv_published": "2018-03-14",
+    "ar5iv_html": "https://ar5iv.org/html/1803.05196",
+    "pdf": "http://arxiv.org/pdf/1803.05196v3"
+  },
+  {
+    "arxiv_id": "1712.08726",
+    "title": "Denoising of 3D magnetic resonance images with multi-channel residual learning of convolutional neural network",
+    "year": 2017,
+    "venue": "Japanese Journal of Radiology",
+    "citationCount": 193,
+    "arxiv_published": "2017-12-23",
+    "ar5iv_html": "https://ar5iv.org/html/1712.08726",
+    "pdf": "http://arxiv.org/pdf/1712.08726v2"
+  },
+  {
+    "arxiv_id": "1812.06298",
+    "title": "Residual Policy Learning",
+    "year": 2018,
+    "venue": "arXiv.org",
+    "citationCount": 189,
+    "arxiv_published": "2018-12-15",
+    "ar5iv_html": "https://ar5iv.org/html/1812.06298",
+    "pdf": "http://arxiv.org/pdf/1812.06298v2"
+  },
+  {
+    "arxiv_id": "1701.03360",
+    "title": "Residual LSTM: Design of a Deep Recurrent Architecture for Distant Speech Recognition",
+    "year": 2017,
+    "venue": "Interspeech",
+    "citationCount": 183,
+    "arxiv_published": "2017-01-10",
+    "ar5iv_html": "https://ar5iv.org/html/1701.03360",
+    "pdf": "http://arxiv.org/pdf/1701.03360v3"
+  },
+  {
+    "arxiv_id": "1611.06345",
+    "title": "Beyond Deep Residual Learning for Image Restoration: Persistent Homology-Guided Manifold Simplification",
+    "year": 2016,
+    "venue": "2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "citationCount": 183,
+    "arxiv_published": "2016-11-19",
+    "ar5iv_html": "https://ar5iv.org/html/1611.06345",
+    "pdf": "http://arxiv.org/pdf/1611.06345v4"
+  },
+  {
+    "arxiv_id": "1703.04079",
+    "title": "SurfNet: Generating 3D Shape Surfaces Using Deep Residual Networks",
+    "year": 2017,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 181,
+    "arxiv_published": "2017-03-12",
+    "ar5iv_html": "https://ar5iv.org/html/1703.04079",
+    "pdf": "http://arxiv.org/pdf/1703.04079v1"
+  },
+  {
+    "arxiv_id": "2009.02186",
+    "title": "Dynamic Scheduling for Stochastic Edge-Cloud Computing Environments Using A3C Learning and Residual Recurrent Neural Networks",
+    "year": 2020,
+    "venue": "IEEE Transactions on Mobile Computing",
+    "citationCount": 179,
+    "arxiv_published": "2020-09-01",
+    "ar5iv_html": "https://ar5iv.org/html/2009.02186",
+    "pdf": "http://arxiv.org/pdf/2009.02186v1"
+  },
+  {
+    "arxiv_id": "2004.04989",
+    "title": "Improved Residual Networks for Image and Video Recognition",
+    "year": 2020,
+    "venue": "International Conference on Pattern Recognition",
+    "citationCount": 179,
+    "arxiv_published": "2020-04-10",
+    "ar5iv_html": "https://ar5iv.org/html/2004.04989",
+    "pdf": "http://arxiv.org/pdf/2004.04989v1"
+  },
+  {
+    "arxiv_id": "1912.00862",
+    "title": "ICD Coding from Clinical Text Using Multi-Filter Residual Convolutional Neural Network",
+    "year": 2019,
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citationCount": 176,
+    "arxiv_published": "2019-11-25",
+    "ar5iv_html": "https://ar5iv.org/html/1912.00862",
+    "pdf": "http://arxiv.org/pdf/1912.00862v1"
+  },
+  {
+    "arxiv_id": "1712.02679",
+    "title": "AdaComp : Adaptive Residual Gradient Compression for Data-Parallel Distributed Training",
+    "year": 2017,
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citationCount": 176,
+    "arxiv_published": "2017-12-07",
+    "ar5iv_html": "https://ar5iv.org/html/1712.02679",
+    "pdf": "http://arxiv.org/pdf/1712.02679v1"
+  },
+  {
+    "arxiv_id": "1710.10348",
+    "title": "Multi-level Residual Networks from Dynamical Systems View",
+    "year": 2017,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 175,
+    "arxiv_published": "2017-10-27",
+    "ar5iv_html": "https://ar5iv.org/html/1710.10348",
+    "pdf": "http://arxiv.org/pdf/1710.10348v2"
+  },
+  {
+    "arxiv_id": "1706.03319",
+    "title": "Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN",
+    "year": 2017,
+    "venue": "Asian Conference on Pattern Recognition",
+    "citationCount": 172,
+    "arxiv_published": "2017-06-11",
+    "ar5iv_html": "https://ar5iv.org/html/1706.03319",
+    "pdf": "http://arxiv.org/pdf/1706.03319v2"
+  },
+  {
+    "arxiv_id": "1907.00501",
+    "title": "Deep Residual Neural Networks for Audio Spoofing Detection",
+    "year": 2019,
+    "venue": "Interspeech",
+    "citationCount": 170,
+    "arxiv_published": "2019-06-30",
+    "ar5iv_html": "https://ar5iv.org/html/1907.00501",
+    "pdf": "http://arxiv.org/pdf/1907.00501v1"
+  },
+  {
+    "arxiv_id": "2205.07514",
+    "title": "Residual Local Feature Network for Efficient Super-Resolution",
+    "year": 2022,
+    "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "citationCount": 168,
+    "arxiv_published": "2022-05-16",
+    "ar5iv_html": "https://ar5iv.org/html/2205.07514",
+    "pdf": "http://arxiv.org/pdf/2205.07514v1"
+  },
+  {
+    "arxiv_id": "1802.02375",
+    "title": "Shakedrop Regularization for Deep Residual Learning",
+    "year": 2018,
+    "venue": "IEEE Access",
+    "citationCount": 166,
+    "arxiv_published": "2018-02-07",
+    "ar5iv_html": "https://ar5iv.org/html/1802.02375",
+    "pdf": "http://arxiv.org/pdf/1802.02375v3"
+  },
+  {
+    "arxiv_id": "1610.04181",
+    "title": "Removal of batch effects using distribution‐matching residual networks",
+    "year": 2016,
+    "venue": "Bioinform.",
+    "citationCount": 166,
+    "arxiv_published": "2016-10-13",
+    "ar5iv_html": "https://ar5iv.org/html/1610.04181",
+    "pdf": "http://arxiv.org/pdf/1610.04181v6"
+  },
+  {
+    "arxiv_id": "1812.11289",
+    "title": "Trimaximal neutrino mixing from modular A4 invariance with residual symmetries",
+    "year": 2018,
+    "venue": "Physics Letters B",
+    "citationCount": 165,
+    "arxiv_published": "2018-12-29",
+    "ar5iv_html": "https://ar5iv.org/html/1812.11289",
+    "pdf": "http://arxiv.org/pdf/1812.11289v2"
+  },
+  {
+    "arxiv_id": "1708.03867",
+    "title": "Automated Pulmonary Nodule Detection via 3D ConvNets with Online Sample Filtering and Hybrid-Loss Residual Learning",
+    "year": 2017,
+    "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "citationCount": 164,
+    "arxiv_published": "2017-08-13",
+    "ar5iv_html": "https://ar5iv.org/html/1708.03867",
+    "pdf": "http://arxiv.org/pdf/1708.03867v1"
+  },
+  {
+    "arxiv_id": "1904.01120",
+    "title": "ASSERT: Anti-Spoofing with Squeeze-Excitation and Residual neTworks",
+    "year": 2019,
+    "venue": "Interspeech",
+    "citationCount": 161,
+    "arxiv_published": "2019-04-01",
+    "ar5iv_html": "https://ar5iv.org/html/1904.01120",
+    "pdf": "http://arxiv.org/pdf/1904.01120v1"
+  },
+  {
+    "arxiv_id": "2002.09219",
+    "title": "Stochastic Latent Residual Video Prediction",
+    "year": 2020,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 160,
+    "arxiv_published": "2020-02-21",
+    "ar5iv_html": "https://ar5iv.org/html/2002.09219",
+    "pdf": "http://arxiv.org/pdf/2002.09219v4"
+  },
+  {
+    "arxiv_id": "1910.09103",
+    "title": "Predicting origin-destination ride-sourcing demand with a spatio-temporal encoder-decoder residual multi-graph convolutional network",
+    "year": 2019,
+    "venue": "Transportation Research Part C: Emerging Technologies",
+    "citationCount": 160,
+    "arxiv_published": "2019-10-17",
+    "ar5iv_html": "https://ar5iv.org/html/1910.09103",
+    "pdf": "http://arxiv.org/pdf/1910.09103v1"
+  },
+  {
+    "arxiv_id": "1803.00839",
+    "title": "Pose-Robust Face Recognition via Deep Residual Equivariant Mapping",
+    "year": 2018,
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "citationCount": 159,
+    "arxiv_published": "2018-03-02",
+    "ar5iv_html": "https://ar5iv.org/html/1803.00839",
+    "pdf": "http://arxiv.org/pdf/1803.00839v1"
+  },
+  {
+    "arxiv_id": "1801.02971",
+    "title": "Minimizing residues and strain in 2D materials transferred from PDMS",
+    "year": 2018,
+    "venue": "Nanotechnology",
+    "citationCount": 159,
+    "arxiv_published": "2018-01-09",
+    "ar5iv_html": "https://ar5iv.org/html/1801.02971",
+    "pdf": "http://arxiv.org/pdf/1801.02971v2"
+  },
+  {
+    "arxiv_id": "1710.04773",
+    "title": "Residual Connections Encourage Iterative Inference",
+    "year": 2017,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 159,
+    "arxiv_published": "2017-10-13",
+    "ar5iv_html": "https://ar5iv.org/html/1710.04773",
+    "pdf": "http://arxiv.org/pdf/1710.04773v2"
+  },
+  {
+    "arxiv_id": "1805.10485",
+    "title": "Vehicle Instance Segmentation From Aerial Image and Video Using a Multitask Learning Residual Fully Convolutional Network",
+    "year": 2018,
+    "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+    "citationCount": 158,
+    "arxiv_published": "2018-05-26",
+    "ar5iv_html": "https://ar5iv.org/html/1805.10485",
+    "pdf": "http://arxiv.org/pdf/1805.10485v1"
+  },
+  {
+    "arxiv_id": "2205.05996",
+    "title": "Blueprint Separable Residual Network for Efficient Image Super-Resolution",
+    "year": 2022,
+    "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "citationCount": 154,
+    "arxiv_published": "2022-05-12",
+    "ar5iv_html": "https://ar5iv.org/html/2205.05996",
+    "pdf": "http://arxiv.org/pdf/2205.05996v1"
+  },
+  {
+    "arxiv_id": "2305.02765",
+    "title": "HiFi-Codec: Group-residual Vector quantization for High Fidelity Audio Codec",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 153,
+    "arxiv_published": "2023-05-04",
+    "ar5iv_html": "https://ar5iv.org/html/2305.02765",
+    "pdf": "http://arxiv.org/pdf/2305.02765v2"
+  },
+  {
+    "arxiv_id": "2101.10633",
+    "title": "ResLT: Residual Learning for Long-Tailed Recognition",
+    "year": 2021,
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "citationCount": 151,
+    "arxiv_published": "2021-01-26",
+    "ar5iv_html": "https://ar5iv.org/html/2101.10633",
+    "pdf": "http://arxiv.org/pdf/2101.10633v3"
+  },
+  {
+    "arxiv_id": "1808.02455",
+    "title": "Data augmentation using synthetic data for time series classification with deep residual networks",
+    "year": 2018,
+    "venue": "arXiv.org",
+    "citationCount": 150,
+    "arxiv_published": "2018-08-07",
+    "ar5iv_html": "https://ar5iv.org/html/1808.02455",
+    "pdf": "http://arxiv.org/pdf/1808.02455v1"
+  },
+  {
+    "arxiv_id": "2004.04914",
+    "title": "Deep Residual Correction Network for Partial Domain Adaptation",
+    "year": 2020,
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "citationCount": 149,
+    "arxiv_published": "2020-04-10",
+    "ar5iv_html": "https://ar5iv.org/html/2004.04914",
+    "pdf": "http://arxiv.org/pdf/2004.04914v1"
+  },
+  {
+    "arxiv_id": "2108.02456",
+    "title": "Residual Attention: A Simple but Effective Method for Multi-Label Recognition",
+    "year": 2021,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 148,
+    "arxiv_published": "2021-08-05",
+    "ar5iv_html": "https://ar5iv.org/html/2108.02456",
+    "pdf": "http://arxiv.org/pdf/2108.02456v2"
+  },
+  {
+    "arxiv_id": "1805.10241",
+    "title": "SLSDeep: Skin Lesion Segmentation Based on Dilated Residual and Pyramid Pooling Networks",
+    "year": 2018,
+    "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "citationCount": 147,
+    "arxiv_published": "2018-05-25",
+    "ar5iv_html": "https://ar5iv.org/html/1805.10241",
+    "pdf": "http://arxiv.org/pdf/1805.10241v2"
+  },
+  {
+    "arxiv_id": "1608.05895",
+    "title": "VoxResNet: Deep Voxelwise Residual Networks for Volumetric Brain Segmentation",
+    "year": 2016,
+    "venue": "arXiv.org",
+    "citationCount": 139,
+    "arxiv_published": "2016-08-21",
+    "ar5iv_html": "https://ar5iv.org/html/1608.05895",
+    "pdf": "http://arxiv.org/pdf/1608.05895v1"
+  },
+  {
+    "arxiv_id": "2007.13866",
+    "title": "se(3)-TrackNet: Data-driven 6D Pose Tracking by Calibrating Image Residuals in Synthetic Domains",
+    "year": 2020,
+    "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+    "citationCount": 138,
+    "arxiv_published": "2020-07-27",
+    "ar5iv_html": "https://ar5iv.org/html/2007.13866",
+    "pdf": "http://arxiv.org/pdf/2007.13866v1"
+  },
+  {
+    "arxiv_id": "1904.02870",
+    "title": "Fast Spatio-Temporal Residual Network for Video Super-Resolution",
+    "year": 2019,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 138,
+    "arxiv_published": "2019-04-05",
+    "ar5iv_html": "https://ar5iv.org/html/1904.02870",
+    "pdf": "http://arxiv.org/pdf/1904.02870v1"
+  },
+  {
+    "arxiv_id": "1804.07493",
+    "title": "Residual-Guide Network for Single Image Deraining",
+    "year": 2018,
+    "venue": "ACM Multimedia",
+    "citationCount": 138,
+    "arxiv_published": "2018-04-20",
+    "ar5iv_html": "https://ar5iv.org/html/1804.07493",
+    "pdf": "http://arxiv.org/pdf/1804.07493v1"
+  },
+  {
+    "arxiv_id": "1909.11409",
+    "title": "Efficient Residual Dense Block Search for Image Super-Resolution",
+    "year": 2019,
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citationCount": 137,
+    "arxiv_published": "2019-09-25",
+    "ar5iv_html": "https://ar5iv.org/html/1909.11409",
+    "pdf": "http://arxiv.org/pdf/1909.11409v3"
+  },
+  {
+    "arxiv_id": "1806.02887",
+    "title": "Residual Unfairness in Fair Machine Learning from Prejudiced Data",
+    "year": 2018,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 137,
+    "arxiv_published": "2018-06-07",
+    "ar5iv_html": "https://ar5iv.org/html/1806.02887",
+    "pdf": "http://arxiv.org/pdf/1806.02887v1"
+  },
+  {
+    "arxiv_id": "2008.04024",
+    "title": "An Explainable 3D Residual Self-Attention Deep Neural Network for Joint Atrophy Localization and Alzheimer’s Disease Diagnosis Using Structural MRI",
+    "year": 2020,
+    "venue": "IEEE journal of biomedical and health informatics",
+    "citationCount": 136,
+    "arxiv_published": "2020-08-10",
+    "ar5iv_html": "https://ar5iv.org/html/2008.04024",
+    "pdf": "http://arxiv.org/pdf/2008.04024v2"
+  },
+  {
+    "arxiv_id": "2106.04140",
+    "title": "Broadcasted Residual Learning for Efficient Keyword Spotting",
+    "year": 2021,
+    "venue": "Interspeech",
+    "citationCount": 129,
+    "arxiv_published": "2021-06-08",
+    "ar5iv_html": "https://ar5iv.org/html/2106.04140",
+    "pdf": "http://arxiv.org/pdf/2106.04140v4"
+  },
+  {
+    "arxiv_id": "1812.11690",
+    "title": "Deep Residual Learning in the JPEG Transform Domain",
+    "year": 2018,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 128,
+    "arxiv_published": "2018-12-31",
+    "ar5iv_html": "https://ar5iv.org/html/1812.11690",
+    "pdf": "http://arxiv.org/pdf/1812.11690v3"
+  },
+  {
+    "arxiv_id": "1803.05215",
+    "title": "Deep Image Demosaicking using a Cascade of Convolutional Residual Denoising Networks",
+    "year": 2018,
+    "venue": "European Conference on Computer Vision",
+    "citationCount": 127,
+    "arxiv_published": "2018-03-14",
+    "ar5iv_html": "https://ar5iv.org/html/1803.05215",
+    "pdf": "http://arxiv.org/pdf/1803.05215v4"
+  },
+  {
+    "arxiv_id": "1907.06023",
+    "title": "Structure-Aware Residual Pyramid Network for Monocular Depth Estimation",
+    "year": 2019,
+    "venue": "International Joint Conference on Artificial Intelligence",
+    "citationCount": 124,
+    "arxiv_published": "2019-07-13",
+    "ar5iv_html": "https://ar5iv.org/html/1907.06023",
+    "pdf": "http://arxiv.org/pdf/1907.06023v1"
+  },
+  {
+    "arxiv_id": "1910.01426",
+    "title": "High-Dimensional Dense Residual Convolutional Neural Network for Light Field Reconstruction",
+    "year": 2019,
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "citationCount": 123,
+    "arxiv_published": "2019-10-03",
+    "ar5iv_html": "https://ar5iv.org/html/1910.01426",
+    "pdf": "http://arxiv.org/pdf/1910.01426v4"
+  },
+  {
+    "arxiv_id": "1802.10249",
+    "title": "IM2HEIGHT: Height Estimation from Single Monocular Imagery via Fully Residual Convolutional-Deconvolutional Network",
+    "year": 2018,
+    "venue": "arXiv.org",
+    "citationCount": 123,
+    "arxiv_published": "2018-02-28",
+    "ar5iv_html": "https://ar5iv.org/html/1802.10249",
+    "pdf": "http://arxiv.org/pdf/1802.10249v1"
+  },
+  {
+    "arxiv_id": "1712.09888",
+    "title": "Improved inception-residual convolutional neural network for object recognition",
+    "year": 2017,
+    "venue": "Neural computing & applications (Print)",
+    "citationCount": 123,
+    "arxiv_published": "2017-12-28",
+    "ar5iv_html": "https://ar5iv.org/html/1712.09888",
+    "pdf": "http://arxiv.org/pdf/1712.09888v1"
+  },
+  {
+    "arxiv_id": "1911.08114",
+    "title": "Neural Network Pruning With Residual-Connections and Limited-Data",
+    "year": 2019,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 122,
+    "arxiv_published": "2019-11-19",
+    "ar5iv_html": "https://ar5iv.org/html/1911.08114",
+    "pdf": "http://arxiv.org/pdf/1911.08114v3"
+  },
+  {
+    "arxiv_id": "1604.04112",
+    "title": "Deep Residual Networks with Exponential Linear Unit",
+    "year": 2016,
+    "venue": "arXiv.org",
+    "citationCount": 122,
+    "arxiv_published": "2016-04-14",
+    "ar5iv_html": "https://ar5iv.org/html/1604.04112",
+    "pdf": "http://arxiv.org/pdf/1604.04112v4"
+  },
+  {
+    "arxiv_id": "1503.04407",
+    "title": "Spatial Autocorrelation Approaches to Testing Residuals from Least Squares Regression",
+    "year": 2015,
+    "venue": "PLoS ONE",
+    "citationCount": 121,
+    "arxiv_published": "2015-03-15",
+    "ar5iv_html": "https://ar5iv.org/html/1503.04407",
+    "pdf": "http://arxiv.org/pdf/1503.04407v1"
+  },
+  {
+    "arxiv_id": "1909.10360",
+    "title": "RAUNet: Residual Attention U-Net for Semantic Segmentation of Cataract Surgical Instruments",
+    "year": 2019,
+    "venue": "International Conference on Neural Information Processing",
+    "citationCount": 120,
+    "arxiv_published": "2019-09-23",
+    "ar5iv_html": "https://ar5iv.org/html/1909.10360",
+    "pdf": "http://arxiv.org/pdf/1909.10360v3"
+  },
+  {
+    "arxiv_id": "1703.08580",
+    "title": "Deep Residual Learning for Instrument Segmentation in Robotic Surgery",
+    "year": 2017,
+    "venue": "MLMI@MICCAI",
+    "citationCount": 119,
+    "arxiv_published": "2017-03-24",
+    "ar5iv_html": "https://ar5iv.org/html/1703.08580",
+    "pdf": "http://arxiv.org/pdf/1703.08580v1"
+  },
+  {
+    "arxiv_id": "1905.11172",
+    "title": "GRDN:Grouped Residual Dense Network for Real Image Denoising and GAN-Based Real-World Noise Modeling",
+    "year": 2019,
+    "venue": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "citationCount": 118,
+    "arxiv_published": "2019-05-27",
+    "ar5iv_html": "https://ar5iv.org/html/1905.11172",
+    "pdf": "http://arxiv.org/pdf/1905.11172v1"
+  },
+  {
+    "arxiv_id": "1802.06093",
+    "title": "Gradient Descent with Identity Initialization Efficiently Learns Positive-Definite Linear Transformations by Deep Residual Networks",
+    "year": 2018,
+    "venue": "Neural Computation",
+    "citationCount": 118,
+    "arxiv_published": "2018-02-16",
+    "ar5iv_html": "https://ar5iv.org/html/1802.06093",
+    "pdf": "http://arxiv.org/pdf/1802.06093v4"
+  },
+  {
+    "arxiv_id": "1705.10698",
+    "title": "ResnetCrowd: A residual deep learning architecture for crowd counting, violent behaviour detection and crowd density level classification",
+    "year": 2017,
+    "venue": "Advanced Video and Signal Based Surveillance",
+    "citationCount": 117,
+    "arxiv_published": "2017-05-30",
+    "ar5iv_html": "https://ar5iv.org/html/1705.10698",
+    "pdf": "http://arxiv.org/pdf/1705.10698v1"
+  },
+  {
+    "arxiv_id": "1501.04565",
+    "title": "Residual-driven online generalized multiscale finite element methods",
+    "year": 2015,
+    "venue": "Journal of Computational Physics",
+    "citationCount": 117,
+    "arxiv_published": "2015-01-19",
+    "ar5iv_html": "https://ar5iv.org/html/1501.04565",
+    "pdf": "http://arxiv.org/pdf/1501.04565v1"
+  },
+  {
+    "arxiv_id": "2012.08270",
+    "title": "FCFR-Net: Feature Fusion based Coarse-to-Fine Residual Learning for Depth Completion",
+    "year": 2020,
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citationCount": 116,
+    "arxiv_published": "2020-12-15",
+    "ar5iv_html": "https://ar5iv.org/html/2012.08270",
+    "pdf": "http://arxiv.org/pdf/2012.08270v2"
+  },
+  {
+    "arxiv_id": "2103.06419",
+    "title": "SAR-U-Net: Squeeze-and-excitation block and atrous spatial pyramid pooling based residual U-Net for automatic liver segmentation in Computed Tomography",
+    "year": 2021,
+    "venue": "Comput. Methods Programs Biomed.",
+    "citationCount": 115,
+    "arxiv_published": "2021-03-11",
+    "ar5iv_html": "https://ar5iv.org/html/2103.06419",
+    "pdf": "http://arxiv.org/pdf/2103.06419v3"
+  },
+  {
+    "arxiv_id": "1908.04206",
+    "title": "Multiplex discrimination of single amino acid residues in polypeptides by single SERS hot spot.",
+    "year": 2019,
+    "venue": "Angewandte Chemie",
+    "citationCount": 115,
+    "arxiv_published": "2019-08-09",
+    "ar5iv_html": "https://ar5iv.org/html/1908.04206",
+    "pdf": "http://arxiv.org/pdf/1908.04206v2"
+  },
+  {
+    "arxiv_id": "2012.11747",
+    "title": "RealFormer: Transformer Likes Residual Attention",
+    "year": 2020,
+    "venue": "Findings",
+    "citationCount": 114,
+    "arxiv_published": "2020-12-21",
+    "ar5iv_html": "https://ar5iv.org/html/2012.11747",
+    "pdf": "http://arxiv.org/pdf/2012.11747v3"
+  },
+  {
+    "arxiv_id": "1905.08413",
+    "title": "Dual-branch residual network for lung nodule segmentation",
+    "year": 2019,
+    "venue": "Applied Soft Computing",
+    "citationCount": 113,
+    "arxiv_published": "2019-05-21",
+    "ar5iv_html": "https://ar5iv.org/html/1905.08413",
+    "pdf": "http://arxiv.org/pdf/1905.08413v1"
+  },
+  {
+    "arxiv_id": "2112.08954",
+    "title": "Advancing Spiking Neural Networks Toward Deep Residual Learning",
+    "year": 2021,
+    "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+    "citationCount": 112,
+    "arxiv_published": "2021-12-15",
+    "ar5iv_html": "https://ar5iv.org/html/2112.08954",
+    "pdf": "http://arxiv.org/pdf/2112.08954v3"
+  },
+  {
+    "arxiv_id": "1507.03943",
+    "title": "Gauge B-L model with residual Z3 symmetry",
+    "year": 2015,
+    "venue": "",
+    "citationCount": 112,
+    "arxiv_published": "2015-07-14",
+    "ar5iv_html": "https://ar5iv.org/html/1507.03943",
+    "pdf": "http://arxiv.org/pdf/1507.03943v2"
+  },
+  {
+    "arxiv_id": "1703.08033",
+    "title": "Generative Adversarial Residual Pairwise Networks for One Shot Learning",
+    "year": 2017,
+    "venue": "arXiv.org",
+    "citationCount": 111,
+    "arxiv_published": "2017-03-23",
+    "ar5iv_html": "https://ar5iv.org/html/1703.08033",
+    "pdf": "http://arxiv.org/pdf/1703.08033v1"
+  },
+  {
+    "arxiv_id": "2108.09079",
+    "title": "Structure-Preserving Deraining with Residue Channel Prior Guidance",
+    "year": 2021,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 110,
+    "arxiv_published": "2021-08-20",
+    "ar5iv_html": "https://ar5iv.org/html/2108.09079",
+    "pdf": "http://arxiv.org/pdf/2108.09079v1"
+  },
+  {
+    "arxiv_id": "1907.10478",
+    "title": "Progressive Image Inpainting with Full-Resolution Residual Network",
+    "year": 2019,
+    "venue": "ACM Multimedia",
+    "citationCount": 110,
+    "arxiv_published": "2019-07-24",
+    "ar5iv_html": "https://ar5iv.org/html/1907.10478",
+    "pdf": "http://arxiv.org/pdf/1907.10478v3"
+  },
+  {
+    "arxiv_id": "1711.07094",
+    "title": "Fully resolved numerical simulations of fused deposition modeling. Part II – solidification, residual stresses and modeling of the nozzle",
+    "year": 2014,
+    "venue": "Rapid prototyping journal",
+    "citationCount": 110,
+    "arxiv_published": "2017-11-19",
+    "ar5iv_html": "https://ar5iv.org/html/1711.07094",
+    "pdf": "http://arxiv.org/pdf/1711.07094v2"
+  },
+  {
+    "arxiv_id": "2204.11436",
+    "title": "SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images",
+    "year": 2022,
+    "venue": "IEEE Transactions on Instrumentation and Measurement",
+    "citationCount": 109,
+    "arxiv_published": "2022-04-25",
+    "ar5iv_html": "https://ar5iv.org/html/2204.11436",
+    "pdf": "http://arxiv.org/pdf/2204.11436v1"
+  },
+  {
+    "arxiv_id": "1711.00106",
+    "title": "DCN+: Mixed Objective and Deep Residual Coattention for Question Answering",
+    "year": 2017,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 109,
+    "arxiv_published": "2017-10-31",
+    "ar5iv_html": "https://ar5iv.org/html/1711.00106",
+    "pdf": "http://arxiv.org/pdf/1711.00106v2"
+  },
+  {
+    "arxiv_id": "1802.07918",
+    "title": "Video Person Re-Identification by Temporal Residual Learning",
+    "year": 2018,
+    "venue": "IEEE Transactions on Image Processing",
+    "citationCount": 108,
+    "arxiv_published": "2018-02-22",
+    "ar5iv_html": "https://ar5iv.org/html/1802.07918",
+    "pdf": "http://arxiv.org/pdf/1802.07918v1"
+  },
+  {
+    "arxiv_id": "1708.08687",
+    "title": "Performance Guaranteed Network Acceleration via High-Order Residual Quantization",
+    "year": 2017,
+    "venue": "IEEE International Conference on Computer Vision",
+    "citationCount": 108,
+    "arxiv_published": "2017-08-29",
+    "ar5iv_html": "https://ar5iv.org/html/1708.08687",
+    "pdf": "http://arxiv.org/pdf/1708.08687v1"
+  },
+  {
+    "arxiv_id": "2211.10277",
+    "title": "Task Residual for Tuning Vision-Language Models",
+    "year": 2022,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 107,
+    "arxiv_published": "2022-11-18",
+    "ar5iv_html": "https://ar5iv.org/html/2211.10277",
+    "pdf": "http://arxiv.org/pdf/2211.10277v2"
+  },
+  {
+    "arxiv_id": "1904.02251",
+    "title": "StereoDRNet: Dilated Residual StereoNet",
+    "year": 2019,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 107,
+    "arxiv_published": "2019-04-03",
+    "ar5iv_html": "https://ar5iv.org/html/1904.02251",
+    "pdf": "http://arxiv.org/pdf/1904.02251v3"
+  },
+  {
+    "arxiv_id": "1707.08866",
+    "title": "Deep Residual Learning for Weakly-Supervised Relation Extraction",
+    "year": 2017,
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "citationCount": 107,
+    "arxiv_published": "2017-07-27",
+    "ar5iv_html": "https://ar5iv.org/html/1707.08866",
+    "pdf": "http://arxiv.org/pdf/1707.08866v1"
+  },
+  {
+    "arxiv_id": "1605.06431",
+    "title": "Residual Networks are Exponential Ensembles of Relatively Shallow Networks",
+    "year": 2016,
+    "venue": "arXiv.org",
+    "citationCount": 107,
+    "arxiv_published": "2016-05-20",
+    "ar5iv_html": "https://ar5iv.org/html/1605.06431",
+    "pdf": "http://arxiv.org/pdf/1605.06431v2"
+  },
+  {
+    "arxiv_id": "2001.01000",
+    "title": "The Deterministic Plus Stochastic Model of the Residual Signal and Its Applications",
+    "year": 2012,
+    "venue": "IEEE Transactions on Audio, Speech, and Language Processing",
+    "citationCount": 107,
+    "arxiv_published": "2019-12-29",
+    "ar5iv_html": "https://ar5iv.org/html/2001.01000",
+    "pdf": "http://arxiv.org/pdf/2001.01000v1"
+  },
+  {
+    "arxiv_id": "1907.12998",
+    "title": "Approximation Capabilities of Neural ODEs and Invertible Residual Networks",
+    "year": 2019,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 104,
+    "arxiv_published": "2019-07-30",
+    "ar5iv_html": "https://ar5iv.org/html/1907.12998",
+    "pdf": "http://arxiv.org/pdf/1907.12998v2"
+  },
+  {
+    "arxiv_id": "1807.06403",
+    "title": "Iterative Joint Image Demosaicking and Denoising Using a Residual Denoising Network",
+    "year": 2018,
+    "venue": "IEEE Transactions on Image Processing",
+    "citationCount": 103,
+    "arxiv_published": "2018-07-16",
+    "ar5iv_html": "https://ar5iv.org/html/1807.06403",
+    "pdf": "http://arxiv.org/pdf/1807.06403v3"
+  },
+  {
+    "arxiv_id": "1807.09951",
+    "title": "Learning to Forecast and Refine Residual Motion for Image-to-Video Generation",
+    "year": 2018,
+    "venue": "European Conference on Computer Vision",
+    "citationCount": 102,
+    "arxiv_published": "2018-07-26",
+    "ar5iv_html": "https://ar5iv.org/html/1807.09951",
+    "pdf": "http://arxiv.org/pdf/1807.09951v1"
+  },
+  {
+    "arxiv_id": "2205.14870",
+    "title": "Compressible-composable NeRF via Rank-residual Decomposition",
+    "year": 2022,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 101,
+    "arxiv_published": "2022-05-30",
+    "ar5iv_html": "https://ar5iv.org/html/2205.14870",
+    "pdf": "http://arxiv.org/pdf/2205.14870v2"
+  },
+  {
+    "arxiv_id": "2001.00842",
+    "title": "A deterministic plus stochastic model of the residual signal for improved parametric speech synthesis",
+    "year": 2019,
+    "venue": "Interspeech",
+    "citationCount": 101,
+    "arxiv_published": "2019-12-29",
+    "ar5iv_html": "https://ar5iv.org/html/2001.00842",
+    "pdf": "http://arxiv.org/pdf/2001.00842v1"
+  },
+  {
+    "arxiv_id": "2002.06262",
+    "title": "Why Do Deep Residual Networks Generalize Better than Deep Feedforward Networks? - A Neural Tangent Kernel Perspective",
+    "year": 2020,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 100,
+    "arxiv_published": "2020-02-14",
+    "ar5iv_html": "https://ar5iv.org/html/2002.06262",
+    "pdf": "http://arxiv.org/pdf/2002.06262v2"
+  },
+  {
+    "arxiv_id": "1911.09178",
+    "title": "RIS-GAN: Explore Residual and Illumination with Generative Adversarial Networks for Shadow Removal",
+    "year": 2019,
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citationCount": 100,
+    "arxiv_published": "2019-11-20",
+    "ar5iv_html": "https://ar5iv.org/html/1911.09178",
+    "pdf": "http://arxiv.org/pdf/1911.09178v2"
+  },
+  {
+    "arxiv_id": "1703.02243",
+    "title": "SRN: Side-Output Residual Network for Object Symmetry Detection in the Wild",
+    "year": 2017,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 100,
+    "arxiv_published": "2017-03-07",
+    "ar5iv_html": "https://ar5iv.org/html/1703.02243",
+    "pdf": "http://arxiv.org/pdf/1703.02243v2"
+  },
+  {
+    "arxiv_id": "1609.05119",
+    "title": "Deep Impression: Audiovisual Deep Residual Networks for Multimodal Apparent Personality Trait Recognition",
+    "year": 2016,
+    "venue": "ECCV Workshops",
+    "citationCount": 99,
+    "arxiv_published": "2016-09-16",
+    "ar5iv_html": "https://ar5iv.org/html/1609.05119",
+    "pdf": "http://arxiv.org/pdf/1609.05119v1"
+  },
+  {
+    "arxiv_id": "2011.14155",
+    "title": "Inter-Slice Context Residual Learning for 3D Medical Image Segmentation",
+    "year": 2020,
+    "venue": "IEEE Transactions on Medical Imaging",
+    "citationCount": 98,
+    "arxiv_published": "2020-11-28",
+    "ar5iv_html": "https://ar5iv.org/html/2011.14155",
+    "pdf": "http://arxiv.org/pdf/2011.14155v1"
+  },
+  {
+    "arxiv_id": "1912.11464",
+    "title": "Attack-Resistant Federated Learning with Residual-based Reweighting",
+    "year": 2019,
+    "venue": "arXiv.org",
+    "citationCount": 96,
+    "arxiv_published": "2019-12-24",
+    "ar5iv_html": "https://ar5iv.org/html/1912.11464",
+    "pdf": "http://arxiv.org/pdf/1912.11464v3"
+  },
+  {
+    "arxiv_id": "2109.14290",
+    "title": "Residual-based adaptivity for two-phase flow simulation in porous media using Physics-informed Neural Networks",
+    "year": 2021,
+    "venue": "Computer Methods in Applied Mechanics and Engineering",
+    "citationCount": 95,
+    "arxiv_published": "2021-09-29",
+    "ar5iv_html": "https://ar5iv.org/html/2109.14290",
+    "pdf": "http://arxiv.org/pdf/2109.14290v2"
+  },
+  {
+    "arxiv_id": "1812.04352",
+    "title": "Layer-Parallel Training of Deep Residual Neural Networks",
+    "year": 2018,
+    "venue": "SIAM Journal on Mathematics of Data Science",
+    "citationCount": 95,
+    "arxiv_published": "2018-12-11",
+    "ar5iv_html": "https://ar5iv.org/html/1812.04352",
+    "pdf": "http://arxiv.org/pdf/1812.04352v3"
+  },
+  {
+    "arxiv_id": "1801.04184",
+    "title": "How Pairwise Coevolutionary Models Capture the Collective Residue Variability in Proteins?",
+    "year": 2018,
+    "venue": "Molecular biology and evolution",
+    "citationCount": 94,
+    "arxiv_published": "2018-01-12",
+    "ar5iv_html": "https://ar5iv.org/html/1801.04184",
+    "pdf": "http://arxiv.org/pdf/1801.04184v1"
+  },
+  {
+    "arxiv_id": "1808.03941",
+    "title": "Denoising of 3-D Magnetic Resonance Images Using a Residual Encoder-Decoder Wasserstein Generative Adversarial Network",
+    "year": 2018,
+    "venue": "Medical Image Anal.",
+    "citationCount": 93,
+    "arxiv_published": "2018-08-12",
+    "ar5iv_html": "https://ar5iv.org/html/1808.03941",
+    "pdf": "http://arxiv.org/pdf/1808.03941v2"
+  },
+  {
+    "arxiv_id": "1804.09578",
+    "title": "Unsupervised Domain Adaptation With Adversarial Residual Transform Networks",
+    "year": 2018,
+    "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+    "citationCount": 92,
+    "arxiv_published": "2018-04-25",
+    "ar5iv_html": "https://ar5iv.org/html/1804.09578",
+    "pdf": "http://arxiv.org/pdf/1804.09578v2"
+  },
+  {
+    "arxiv_id": "1704.06333",
+    "title": "Rate-Splitting to Mitigate Residual Transceiver Hardware Impairments in Massive MIMO Systems",
+    "year": 2017,
+    "venue": "IEEE Transactions on Vehicular Technology",
+    "citationCount": 92,
+    "arxiv_published": "2017-04-20",
+    "ar5iv_html": "https://ar5iv.org/html/1704.06333",
+    "pdf": "http://arxiv.org/pdf/1704.06333v1"
+  },
+  {
+    "arxiv_id": "1604.01335",
+    "title": "Deep Cross Residual Learning for Multitask Visual Recognition",
+    "year": 2016,
+    "venue": "ACM Multimedia",
+    "citationCount": 91,
+    "arxiv_published": "2016-04-05",
+    "ar5iv_html": "https://ar5iv.org/html/1604.01335",
+    "pdf": "http://arxiv.org/pdf/1604.01335v2"
+  },
+  {
+    "arxiv_id": "1903.00620",
+    "title": "RGBD Based Dimensional Decomposition Residual Network for 3D Semantic Scene Completion",
+    "year": 2019,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 90,
+    "arxiv_published": "2019-03-02",
+    "ar5iv_html": "https://ar5iv.org/html/1903.00620",
+    "pdf": "http://arxiv.org/pdf/1903.00620v2"
+  },
+  {
+    "arxiv_id": "1707.04931",
+    "title": "Pathological OCT Retinal Layer Segmentation Using Branch Residual U-Shape Networks",
+    "year": 2017,
+    "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "citationCount": 90,
+    "arxiv_published": "2017-07-16",
+    "ar5iv_html": "https://ar5iv.org/html/1707.04931",
+    "pdf": "http://arxiv.org/pdf/1707.04931v1"
+  },
+  {
+    "arxiv_id": "2103.11664",
+    "title": "OnionNet-2: A Convolutional Neural Network Model for Predicting Protein-Ligand Binding Affinity Based on Residue-Atom Contacting Shells",
+    "year": 2021,
+    "venue": "Frontiers in Chemistry",
+    "citationCount": 89,
+    "arxiv_published": "2021-03-22",
+    "ar5iv_html": "https://ar5iv.org/html/2103.11664",
+    "pdf": "http://arxiv.org/pdf/2103.11664v1"
+  },
+  {
+    "arxiv_id": "2305.04269",
+    "title": "Dual Residual Attention Network for Image Denoising",
+    "year": 2023,
+    "venue": "Pattern Recognition",
+    "citationCount": 88,
+    "arxiv_published": "2023-05-07",
+    "ar5iv_html": "https://ar5iv.org/html/2305.04269",
+    "pdf": "http://arxiv.org/pdf/2305.04269v1"
+  },
+  {
+    "arxiv_id": "2203.00663",
+    "title": "Iterative residual policy: For goal-conditioned dynamic manipulation of deformable objects",
+    "year": 2022,
+    "venue": "Robotics: Science and Systems",
+    "citationCount": 88,
+    "arxiv_published": "2022-03-01",
+    "ar5iv_html": "https://ar5iv.org/html/2203.00663",
+    "pdf": "http://arxiv.org/pdf/2203.00663v2"
+  },
+  {
+    "arxiv_id": "1807.02504",
+    "title": "From Rank Estimation to Rank Approximation: Rank Residual Constraint for Image Restoration",
+    "year": 2018,
+    "venue": "IEEE Transactions on Image Processing",
+    "citationCount": 88,
+    "arxiv_published": "2018-07-06",
+    "ar5iv_html": "https://ar5iv.org/html/1807.02504",
+    "pdf": "http://arxiv.org/pdf/1807.02504v11"
+  },
+  {
+    "arxiv_id": "1704.02703",
+    "title": "Automatic Liver Lesion Detection using Cascaded Deep Residual Networks",
+    "year": 2017,
+    "venue": "arXiv.org",
+    "citationCount": 85,
+    "arxiv_published": "2017-04-10",
+    "ar5iv_html": "https://ar5iv.org/html/1704.02703",
+    "pdf": "http://arxiv.org/pdf/1704.02703v2"
+  },
+  {
+    "arxiv_id": "1708.05473",
+    "title": "Dilated Deep Residual Network for Image Denoising",
+    "year": 2017,
+    "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+    "citationCount": 84,
+    "arxiv_published": "2017-08-18",
+    "ar5iv_html": "https://ar5iv.org/html/1708.05473",
+    "pdf": "http://arxiv.org/pdf/1708.05473v3"
+  },
+  {
+    "arxiv_id": "2301.12485",
+    "title": "Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds",
+    "year": 2023,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 83,
+    "arxiv_published": "2023-01-29",
+    "ar5iv_html": "https://ar5iv.org/html/2301.12485",
+    "pdf": "http://arxiv.org/pdf/2301.12485v3"
+  },
+  {
+    "arxiv_id": "2012.01724",
+    "title": "Parallel Residual Bi-Fusion Feature Pyramid Network for Accurate Single-Shot Object Detection",
+    "year": 2020,
+    "venue": "IEEE Transactions on Image Processing",
+    "citationCount": 83,
+    "arxiv_published": "2020-12-03",
+    "ar5iv_html": "https://ar5iv.org/html/2012.01724",
+    "pdf": "http://arxiv.org/pdf/2012.01724v5"
+  },
+  {
+    "arxiv_id": "2009.14738",
+    "title": "ResGCN: attention-based deep residual modeling for anomaly detection on attributed networks",
+    "year": 2020,
+    "venue": "Machine-mediated learning",
+    "citationCount": 83,
+    "arxiv_published": "2020-09-30",
+    "ar5iv_html": "https://ar5iv.org/html/2009.14738",
+    "pdf": "http://arxiv.org/pdf/2009.14738v1"
+  },
+  {
+    "arxiv_id": "1702.07793",
+    "title": "Residual Convolutional CTC Networks for Automatic Speech Recognition",
+    "year": 2017,
+    "venue": "arXiv.org",
+    "citationCount": 83,
+    "arxiv_published": "2017-02-24",
+    "ar5iv_html": "https://ar5iv.org/html/1702.07793",
+    "pdf": "http://arxiv.org/pdf/1702.07793v1"
+  },
+  {
+    "arxiv_id": "2010.08019",
+    "title": "Error estimates of residual minimization using neural networks for linear PDEs",
+    "year": 2020,
+    "venue": "arXiv.org",
+    "citationCount": 81,
+    "arxiv_published": "2020-10-15",
+    "ar5iv_html": "https://ar5iv.org/html/2010.08019",
+    "pdf": "http://arxiv.org/pdf/2010.08019v3"
+  },
+  {
+    "arxiv_id": "1808.10023",
+    "title": "Coarse-grained residue-based models of disordered protein condensates: utility and limitations of simple charge pattern parameters.",
+    "year": 2018,
+    "venue": "Physical Chemistry, Chemical Physics - PCCP",
+    "citationCount": 81,
+    "arxiv_published": "2018-08-29",
+    "ar5iv_html": "https://ar5iv.org/html/1808.10023",
+    "pdf": "http://arxiv.org/pdf/1808.10023v2"
+  },
+  {
+    "arxiv_id": "1702.03163",
+    "title": "Cuts from residues: the one-loop case",
+    "year": 2017,
+    "venue": "",
+    "citationCount": 81,
+    "arxiv_published": "2017-02-10",
+    "ar5iv_html": "https://ar5iv.org/html/1702.03163",
+    "pdf": "http://arxiv.org/pdf/1702.03163v2"
+  },
+  {
+    "arxiv_id": "1809.05682",
+    "title": "Probing the link between residual entropy and viscosity of molecular fluids and model potentials",
+    "year": 2018,
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "citationCount": 80,
+    "arxiv_published": "2018-09-15",
+    "ar5iv_html": "https://ar5iv.org/html/1809.05682",
+    "pdf": "http://arxiv.org/pdf/1809.05682v1"
+  },
+  {
+    "arxiv_id": "1504.03010",
+    "title": "Morphing of geometric composites via residual swelling.",
+    "year": 2015,
+    "venue": "Soft Matter",
+    "citationCount": 80,
+    "arxiv_published": "2015-04-12",
+    "ar5iv_html": "https://ar5iv.org/html/1504.03010",
+    "pdf": "http://arxiv.org/pdf/1504.03010v2"
+  },
+  {
+    "arxiv_id": "2009.07480",
+    "title": "A Convolutional LSTM based Residual Network for Deepfake Video Detection",
+    "year": 2020,
+    "venue": "arXiv.org",
+    "citationCount": 79,
+    "arxiv_published": "2020-09-16",
+    "ar5iv_html": "https://ar5iv.org/html/2009.07480",
+    "pdf": "http://arxiv.org/pdf/2009.07480v1"
+  },
+  {
+    "arxiv_id": "2112.04488",
+    "title": "A Dynamic Residual Self-Attention Network for Lightweight Single Image Super-Resolution",
+    "year": 2021,
+    "venue": "IEEE transactions on multimedia",
+    "citationCount": 78,
+    "arxiv_published": "2021-12-08",
+    "ar5iv_html": "https://ar5iv.org/html/2112.04488",
+    "pdf": "http://arxiv.org/pdf/2112.04488v1"
+  },
+  {
+    "arxiv_id": "2008.11363",
+    "title": "How Do the Hearts of Deep Fakes Beat? Deep Fake Source Detection via Interpreting Residuals with Biological Signals",
+    "year": 2020,
+    "venue": "2020 IEEE International Joint Conference on Biometrics (IJCB)",
+    "citationCount": 78,
+    "arxiv_published": "2020-08-26",
+    "ar5iv_html": "https://ar5iv.org/html/2008.11363",
+    "pdf": "http://arxiv.org/pdf/2008.11363v1"
+  },
+  {
+    "arxiv_id": "1910.12590",
+    "title": "Detecting Multiple Speech Disfluencies Using a Deep Residual Network with Bidirectional Long Short-Term Memory",
+    "year": 2019,
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "citationCount": 78,
+    "arxiv_published": "2019-10-17",
+    "ar5iv_html": "https://ar5iv.org/html/1910.12590",
+    "pdf": "http://arxiv.org/pdf/1910.12590v1"
+  },
+  {
+    "arxiv_id": "1609.07053",
+    "title": "Semantic Tagging with Deep Residual Networks",
+    "year": 2016,
+    "venue": "International Conference on Computational Linguistics",
+    "citationCount": 78,
+    "arxiv_published": "2016-09-22",
+    "ar5iv_html": "https://ar5iv.org/html/1609.07053",
+    "pdf": "http://arxiv.org/pdf/1609.07053v2"
+  },
+  {
+    "arxiv_id": "2105.01876",
+    "title": "Change Matters: Medication Change Prediction with Recurrent Residual Networks",
+    "year": 2021,
+    "venue": "International Joint Conference on Artificial Intelligence",
+    "citationCount": 77,
+    "arxiv_published": "2021-05-05",
+    "ar5iv_html": "https://ar5iv.org/html/2105.01876",
+    "pdf": "http://arxiv.org/pdf/2105.01876v1"
+  },
+  {
+    "arxiv_id": "1805.01352",
+    "title": "Spiking Deep Residual Network",
+    "year": 2018,
+    "venue": "arXiv.org",
+    "citationCount": 77,
+    "arxiv_published": "2018-04-28",
+    "ar5iv_html": "https://ar5iv.org/html/1805.01352",
+    "pdf": "http://arxiv.org/pdf/1805.01352v2"
+  },
+  {
+    "arxiv_id": "2011.04566",
+    "title": "MPRNet: Multi-Path Residual Network for Lightweight Image Super Resolution",
+    "year": 2020,
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "citationCount": 76,
+    "arxiv_published": "2020-11-09",
+    "ar5iv_html": "https://ar5iv.org/html/2011.04566",
+    "pdf": "http://arxiv.org/pdf/2011.04566v1"
+  },
+  {
+    "arxiv_id": "1910.09858",
+    "title": "Fixed Pattern Noise Reduction for Infrared Images Based on Cascade Residual Attention CNN",
+    "year": 2019,
+    "venue": "Neurocomputing",
+    "citationCount": 76,
+    "arxiv_published": "2019-10-22",
+    "ar5iv_html": "https://ar5iv.org/html/1910.09858",
+    "pdf": "http://arxiv.org/pdf/1910.09858v1"
+  },
+  {
+    "arxiv_id": "2212.02031",
+    "title": "Prototypical Residual Networks for Anomaly Detection and Localization",
+    "year": 2022,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 75,
+    "arxiv_published": "2022-12-05",
+    "ar5iv_html": "https://ar5iv.org/html/2212.02031",
+    "pdf": "http://arxiv.org/pdf/2212.02031v2"
+  },
+  {
+    "arxiv_id": "2206.01793",
+    "title": "R2U++: a multiscale recurrent residual U-Net with dense skip connections for medical image segmentation",
+    "year": 2022,
+    "venue": "Neural computing & applications (Print)",
+    "citationCount": 75,
+    "arxiv_published": "2022-06-03",
+    "ar5iv_html": "https://ar5iv.org/html/2206.01793",
+    "pdf": "http://arxiv.org/pdf/2206.01793v1"
+  },
+  {
+    "arxiv_id": "2106.01621",
+    "title": "ERANNs: Efficient Residual Audio Neural Networks for Audio Pattern Recognition",
+    "year": 2021,
+    "venue": "Pattern Recognition Letters",
+    "citationCount": 75,
+    "arxiv_published": "2021-06-03",
+    "ar5iv_html": "https://ar5iv.org/html/2106.01621",
+    "pdf": "http://arxiv.org/pdf/2106.01621v7"
+  },
+  {
+    "arxiv_id": "1906.09731",
+    "title": "Deep Residual Learning for Image Compression",
+    "year": 2019,
+    "venue": "CVPR Workshops",
+    "citationCount": 75,
+    "arxiv_published": "2019-06-24",
+    "ar5iv_html": "https://ar5iv.org/html/1906.09731",
+    "pdf": "http://arxiv.org/pdf/1906.09731v1"
+  },
+  {
+    "arxiv_id": "1812.02050",
+    "title": "Point-To-Pose Voting Based Hand Pose Estimation Using Residual Permutation Equivariant Layer",
+    "year": 2018,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 75,
+    "arxiv_published": "2018-12-05",
+    "ar5iv_html": "https://ar5iv.org/html/1812.02050",
+    "pdf": "http://arxiv.org/pdf/1812.02050v1"
+  },
+  {
+    "arxiv_id": "2008.00587",
+    "title": "Multiplexed supercell metasurface design and optimization with tandem residual networks",
+    "year": 2020,
+    "venue": "Nanophotonics",
+    "citationCount": 74,
+    "arxiv_published": "2020-08-02",
+    "ar5iv_html": "https://ar5iv.org/html/2008.00587",
+    "pdf": "http://arxiv.org/pdf/2008.00587v2"
+  },
+  {
+    "arxiv_id": "1910.08041",
+    "title": "Discrete Residual Flow for Probabilistic Pedestrian Behavior Prediction",
+    "year": 2019,
+    "venue": "Conference on Robot Learning",
+    "citationCount": 74,
+    "arxiv_published": "2019-10-17",
+    "ar5iv_html": "https://ar5iv.org/html/1910.08041",
+    "pdf": "http://arxiv.org/pdf/1910.08041v1"
+  },
+  {
+    "arxiv_id": "1805.07477",
+    "title": "Norm-Preservation: Why Residual Networks Can Become Extremely Deep?",
+    "year": 2018,
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "citationCount": 72,
+    "arxiv_published": "2018-05-18",
+    "ar5iv_html": "https://ar5iv.org/html/1805.07477",
+    "pdf": "http://arxiv.org/pdf/1805.07477v5"
+  },
+  {
+    "arxiv_id": "2304.11954",
+    "title": "Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "citationCount": 71,
+    "arxiv_published": "2023-04-24",
+    "ar5iv_html": "https://ar5iv.org/html/2304.11954",
+    "pdf": "http://arxiv.org/pdf/2304.11954v3"
+  },
+  {
+    "arxiv_id": "1912.13335",
+    "title": "Volumetric lung nodule segmentation using adaptive ROI with multi-view residual learning",
+    "year": 2019,
+    "venue": "Scientific Reports",
+    "citationCount": 71,
+    "arxiv_published": "2019-12-31",
+    "ar5iv_html": "https://ar5iv.org/html/1912.13335",
+    "pdf": "http://arxiv.org/pdf/1912.13335v2"
+  },
+  {
+    "arxiv_id": "1802.08530",
+    "title": "Training wide residual networks for deployment using a single bit for each weight",
+    "year": 2018,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 71,
+    "arxiv_published": "2018-02-23",
+    "ar5iv_html": "https://ar5iv.org/html/1802.08530",
+    "pdf": "http://arxiv.org/pdf/1802.08530v1"
+  },
+  {
+    "arxiv_id": "2008.09416",
+    "title": "Automatic sleep stage classification with deep residual networks in a mixed-cohort setting",
+    "year": 2020,
+    "venue": "Sleep",
+    "citationCount": 70,
+    "arxiv_published": "2020-08-21",
+    "ar5iv_html": "https://ar5iv.org/html/2008.09416",
+    "pdf": "http://arxiv.org/pdf/2008.09416v1"
+  },
+  {
+    "arxiv_id": "2008.03285",
+    "title": "Physics-Based Dexterous Manipulations with Estimated Hand Poses and Residual Reinforcement Learning",
+    "year": 2020,
+    "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+    "citationCount": 70,
+    "arxiv_published": "2020-08-07",
+    "ar5iv_html": "https://ar5iv.org/html/2008.03285",
+    "pdf": "http://arxiv.org/pdf/2008.03285v1"
+  },
+  {
+    "arxiv_id": "2004.07160",
+    "title": "Residual-driven Fuzzy C-Means Clustering for Image Segmentation",
+    "year": 2020,
+    "venue": "IEEE/CAA Journal of Automatica Sinica",
+    "citationCount": 70,
+    "arxiv_published": "2020-04-15",
+    "ar5iv_html": "https://ar5iv.org/html/2004.07160",
+    "pdf": "http://arxiv.org/pdf/2004.07160v2"
+  },
+  {
+    "arxiv_id": "2205.09779",
+    "title": "Residual dynamic mode decomposition: robust and verified Koopmanism",
+    "year": 2022,
+    "venue": "Journal of Fluid Mechanics",
+    "citationCount": 69,
+    "arxiv_published": "2022-05-19",
+    "ar5iv_html": "https://ar5iv.org/html/2205.09779",
+    "pdf": "http://arxiv.org/pdf/2205.09779v1"
+  },
+  {
+    "arxiv_id": "1908.04556",
+    "title": "Reinterpretation and Extension of Entropy Correction Terms for Residual Distribution and Discontinuous Galerkin Schemes",
+    "year": 2019,
+    "venue": "Journal of Computational Physics",
+    "citationCount": 69,
+    "arxiv_published": "2019-08-13",
+    "ar5iv_html": "https://ar5iv.org/html/1908.04556",
+    "pdf": "http://arxiv.org/pdf/1908.04556v4"
+  },
+  {
+    "arxiv_id": "1906.09881",
+    "title": "Inter-residue, inter-protein and inter-family coevolution: bridging the scales.",
+    "year": 2018,
+    "venue": "Current Opinion in Structural Biology",
+    "citationCount": 69,
+    "arxiv_published": "2019-06-24",
+    "ar5iv_html": "https://ar5iv.org/html/1906.09881",
+    "pdf": "http://arxiv.org/pdf/1906.09881v1"
+  },
+  {
+    "arxiv_id": "1709.08462",
+    "title": "Spatial-temporal residue network based in-loop filter for video coding",
+    "year": 2017,
+    "venue": "Visual Communications and Image Processing",
+    "citationCount": 69,
+    "arxiv_published": "2017-09-25",
+    "ar5iv_html": "https://ar5iv.org/html/1709.08462",
+    "pdf": "http://arxiv.org/pdf/1709.08462v1"
+  },
+  {
+    "arxiv_id": "1709.00939",
+    "title": "DR-RNN: A deep residual recurrent neural network for model reduction",
+    "year": 2017,
+    "venue": "arXiv.org",
+    "citationCount": 69,
+    "arxiv_published": "2017-09-04",
+    "ar5iv_html": "https://ar5iv.org/html/1709.00939",
+    "pdf": "http://arxiv.org/pdf/1709.00939v1"
+  },
+  {
+    "arxiv_id": "1909.09437",
+    "title": "Underwater Image Super-Resolution using Deep Residual Multipliers",
+    "year": 2019,
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "citationCount": 68,
+    "arxiv_published": "2019-09-20",
+    "ar5iv_html": "https://ar5iv.org/html/1909.09437",
+    "pdf": "http://arxiv.org/pdf/1909.09437v3"
+  },
+  {
+    "arxiv_id": "2401.04151",
+    "title": "Chain of LoRA: Efficient Fine-tuning of Language Models via Residual Learning",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 67,
+    "arxiv_published": "2024-01-08",
+    "ar5iv_html": "https://ar5iv.org/html/2401.04151",
+    "pdf": "http://arxiv.org/pdf/2401.04151v1"
+  },
+  {
+    "arxiv_id": "1901.08236",
+    "title": "Reciprocal translation between SAR and optical remote sensing images with cascaded-residual adversarial networks",
+    "year": 2019,
+    "venue": "Science China Information Sciences",
+    "citationCount": 67,
+    "arxiv_published": "2019-01-24",
+    "ar5iv_html": "https://ar5iv.org/html/1901.08236",
+    "pdf": "http://arxiv.org/pdf/1901.08236v2"
+  },
+  {
+    "arxiv_id": "1704.06209",
+    "title": "ADMM Penalty Parameter Selection by Residual Balancing",
+    "year": 2017,
+    "venue": "arXiv.org",
+    "citationCount": 67,
+    "arxiv_published": "2017-04-20",
+    "ar5iv_html": "https://ar5iv.org/html/1704.06209",
+    "pdf": "http://arxiv.org/pdf/1704.06209v1"
+  },
+  {
+    "arxiv_id": "1605.02083",
+    "title": "Power-law creep and residual stresses in a carbopol gel",
+    "year": 2016,
+    "venue": "Rheologica Acta",
+    "citationCount": 67,
+    "arxiv_published": "2016-05-06",
+    "ar5iv_html": "https://ar5iv.org/html/1605.02083",
+    "pdf": "http://arxiv.org/pdf/1605.02083v2"
+  },
+  {
+    "arxiv_id": "1606.00500",
+    "title": "Variation of transition temperatures and residual resistivity ratio in vapor-grown FeSe and Fe(Se,S)",
+    "year": 2016,
+    "venue": "",
+    "citationCount": 66,
+    "arxiv_published": "2016-06-01",
+    "ar5iv_html": "https://ar5iv.org/html/1606.00500",
+    "pdf": "http://arxiv.org/pdf/1606.00500v1"
+  },
+  {
+    "arxiv_id": "2302.02091",
+    "title": "Reducing ANN-SNN Conversion Error through Residual Membrane Potential",
+    "year": 2023,
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citationCount": 65,
+    "arxiv_published": "2023-02-04",
+    "ar5iv_html": "https://ar5iv.org/html/2302.02091",
+    "pdf": "http://arxiv.org/pdf/2302.02091v1"
+  },
+  {
+    "arxiv_id": "2108.02508",
+    "title": "RCA-IUnet: a residual cross-spatial attention-guided inception U-Net model for tumor segmentation in breast ultrasound imaging",
+    "year": 2021,
+    "venue": "Machine Vision and Applications",
+    "citationCount": 65,
+    "arxiv_published": "2021-08-05",
+    "ar5iv_html": "https://ar5iv.org/html/2108.02508",
+    "pdf": "http://arxiv.org/pdf/2108.02508v4"
+  },
+  {
+    "arxiv_id": "1910.09910",
+    "title": "WeatherNet: Recognising weather and visual conditions from street-level images using deep residual learning",
+    "year": 2019,
+    "venue": "ISPRS Int. J. Geo Inf.",
+    "citationCount": 65,
+    "arxiv_published": "2019-10-22",
+    "ar5iv_html": "https://ar5iv.org/html/1910.09910",
+    "pdf": "http://arxiv.org/pdf/1910.09910v1"
+  },
+  {
+    "arxiv_id": "1609.00496",
+    "title": "Label Distribution-Based Facial Attractiveness Computation by Deep Residual Learning",
+    "year": 2016,
+    "venue": "IEEE transactions on multimedia",
+    "citationCount": 65,
+    "arxiv_published": "2016-09-02",
+    "ar5iv_html": "https://ar5iv.org/html/1609.00496",
+    "pdf": "http://arxiv.org/pdf/1609.00496v2"
+  },
+  {
+    "arxiv_id": "2304.04452",
+    "title": "Neural Residual Radiance Fields for Streamably Free-Viewpoint Videos",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 64,
+    "arxiv_published": "2023-04-10",
+    "ar5iv_html": "https://ar5iv.org/html/2304.04452",
+    "pdf": "http://arxiv.org/pdf/2304.04452v2"
+  },
+  {
+    "arxiv_id": "2107.06463",
+    "title": "Learned Image Compression With Gaussian-Laplacian-Logistic Mixture Model and Concatenated Residual Modules",
+    "year": 2021,
+    "venue": "IEEE Transactions on Image Processing",
+    "citationCount": 64,
+    "arxiv_published": "2021-07-14",
+    "ar5iv_html": "https://ar5iv.org/html/2107.06463",
+    "pdf": "http://arxiv.org/pdf/2107.06463v3"
+  },
+  {
+    "arxiv_id": "2009.10467",
+    "title": "Self-Supervised Learning of Non-Rigid Residual Flow and Ego-Motion",
+    "year": 2020,
+    "venue": "International Conference on 3D Vision",
+    "citationCount": 63,
+    "arxiv_published": "2020-09-22",
+    "ar5iv_html": "https://ar5iv.org/html/2009.10467",
+    "pdf": "http://arxiv.org/pdf/2009.10467v2"
+  },
+  {
+    "arxiv_id": "2303.10431",
+    "title": "DeAR: Debiasing Vision-Language Models with Additive Residuals",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 62,
+    "arxiv_published": "2023-03-18",
+    "ar5iv_html": "https://ar5iv.org/html/2303.10431",
+    "pdf": "http://arxiv.org/pdf/2303.10431v1"
+  },
+  {
+    "arxiv_id": "2303.07428",
+    "title": "TransNetR: Transformer-based Residual Network for Polyp Segmentation with Multi-Center Out-of-Distribution Testing",
+    "year": 2023,
+    "venue": "International Conference on Medical Imaging with Deep Learning",
+    "citationCount": 62,
+    "arxiv_published": "2023-03-13",
+    "ar5iv_html": "https://ar5iv.org/html/2303.07428",
+    "pdf": "http://arxiv.org/pdf/2303.07428v1"
+  },
+  {
+    "arxiv_id": "2105.02730",
+    "title": "Solve routing problems with a residual edge-graph attention neural network",
+    "year": 2021,
+    "venue": "Neurocomputing",
+    "citationCount": 62,
+    "arxiv_published": "2021-05-06",
+    "ar5iv_html": "https://ar5iv.org/html/2105.02730",
+    "pdf": "http://arxiv.org/pdf/2105.02730v1"
+  },
+  {
+    "arxiv_id": "2007.14292",
+    "title": "Monochrome And Color Polarization Demosaicking Using Edge-Aware Residual Interpolation",
+    "year": 2020,
+    "venue": "International Conference on Information Photonics",
+    "citationCount": 62,
+    "arxiv_published": "2020-07-28",
+    "ar5iv_html": "https://ar5iv.org/html/2007.14292",
+    "pdf": "http://arxiv.org/pdf/2007.14292v1"
+  },
+  {
+    "arxiv_id": "1902.04161",
+    "title": "ReStoCNet: Residual Stochastic Binary Convolutional Spiking Neural Network for Memory-Efficient Neuromorphic Computing",
+    "year": 2019,
+    "venue": "Frontiers in Neuroscience",
+    "citationCount": 62,
+    "arxiv_published": "2019-02-11",
+    "ar5iv_html": "https://ar5iv.org/html/1902.04161",
+    "pdf": "http://arxiv.org/pdf/1902.04161v1"
+  },
+  {
+    "arxiv_id": "1810.10422",
+    "title": "Reduced-Order Modeling of Subsurface Multi-phase Flow Models Using Deep Residual Recurrent Neural Networks",
+    "year": 2018,
+    "venue": "Transport in Porous Media",
+    "citationCount": 62,
+    "arxiv_published": "2018-10-24",
+    "ar5iv_html": "https://ar5iv.org/html/1810.10422",
+    "pdf": "http://arxiv.org/pdf/1810.10422v1"
+  },
+  {
+    "arxiv_id": "1509.08897",
+    "title": "Scattering equations and global duality of residues",
+    "year": 2015,
+    "venue": "",
+    "citationCount": 62,
+    "arxiv_published": "2015-09-29",
+    "ar5iv_html": "https://ar5iv.org/html/1509.08897",
+    "pdf": "http://arxiv.org/pdf/1509.08897v2"
+  },
+  {
+    "arxiv_id": "1509.02502",
+    "title": "Leptonic Dirac CP Violation Predictions from Residual Discrete Symmetries",
+    "year": 2015,
+    "venue": "",
+    "citationCount": 62,
+    "arxiv_published": "2015-09-08",
+    "ar5iv_html": "https://ar5iv.org/html/1509.02502",
+    "pdf": "http://arxiv.org/pdf/1509.02502v2"
+  },
+  {
+    "arxiv_id": "1503.08436",
+    "title": "Impact of Residual Transmit RF Impairments on Training-Based MIMO Systems",
+    "year": 2014,
+    "venue": "IEEE Transactions on Communications",
+    "citationCount": 62,
+    "arxiv_published": "2015-03-29",
+    "ar5iv_html": "https://ar5iv.org/html/1503.08436",
+    "pdf": "http://arxiv.org/pdf/1503.08436v1"
+  },
+  {
+    "arxiv_id": "2205.13128",
+    "title": "Cascading Residual Graph Convolutional Network for Multi-Behavior Recommendation",
+    "year": 2022,
+    "venue": "ACM Trans. Inf. Syst.",
+    "citationCount": 61,
+    "arxiv_published": "2022-05-26",
+    "ar5iv_html": "https://ar5iv.org/html/2205.13128",
+    "pdf": "http://arxiv.org/pdf/2205.13128v2"
+  },
+  {
+    "arxiv_id": "2102.07488",
+    "title": "Fermion mass hierarchies, large lepton mixing and residual modular symmetries",
+    "year": 2021,
+    "venue": "Journal of High Energy Physics",
+    "citationCount": 61,
+    "arxiv_published": "2021-02-15",
+    "ar5iv_html": "https://ar5iv.org/html/2102.07488",
+    "pdf": "http://arxiv.org/pdf/2102.07488v2"
+  },
+  {
+    "arxiv_id": "1911.11209",
+    "title": "Automatic post-stroke lesion segmentation on MR images using 3D residual convolutional neural network",
+    "year": 2019,
+    "venue": "NeuroImage: Clinical",
+    "citationCount": 61,
+    "arxiv_published": "2019-11-25",
+    "ar5iv_html": "https://ar5iv.org/html/1911.11209",
+    "pdf": "http://arxiv.org/pdf/1911.11209v1"
+  },
+  {
+    "arxiv_id": "1907.00135",
+    "title": "RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation",
+    "year": 2019,
+    "venue": "arXiv.org",
+    "citationCount": 61,
+    "arxiv_published": "2019-06-29",
+    "ar5iv_html": "https://ar5iv.org/html/1907.00135",
+    "pdf": "http://arxiv.org/pdf/1907.00135v2"
+  },
+  {
+    "arxiv_id": "1903.02154",
+    "title": "A Priori Estimates of the Population Risk for Residual Networks",
+    "year": 2019,
+    "venue": "arXiv.org",
+    "citationCount": 61,
+    "arxiv_published": "2019-03-06",
+    "ar5iv_html": "https://ar5iv.org/html/1903.02154",
+    "pdf": "http://arxiv.org/pdf/1903.02154v2"
+  },
+  {
+    "arxiv_id": "1703.01383",
+    "title": "Wavelet Domain Residual Network (WavResNet) for Low-Dose X-ray CT Reconstruction",
+    "year": 2017,
+    "venue": "arXiv.org",
+    "citationCount": 61,
+    "arxiv_published": "2017-03-04",
+    "ar5iv_html": "https://ar5iv.org/html/1703.01383",
+    "pdf": "http://arxiv.org/pdf/1703.01383v1"
+  },
+  {
+    "arxiv_id": "1609.02307",
+    "title": "Residual non-Abelian dark matter and dark radiation",
+    "year": 2016,
+    "venue": "",
+    "citationCount": 61,
+    "arxiv_published": "2016-09-08",
+    "ar5iv_html": "https://ar5iv.org/html/1609.02307",
+    "pdf": "http://arxiv.org/pdf/1609.02307v3"
+  },
+  {
+    "arxiv_id": "1503.07227",
+    "title": "A new study of an old sink of sulphur in hot molecular cores: the sulphur residue",
+    "year": 2015,
+    "venue": "",
+    "citationCount": 61,
+    "arxiv_published": "2015-03-24",
+    "ar5iv_html": "https://ar5iv.org/html/1503.07227",
+    "pdf": "http://arxiv.org/pdf/1503.07227v1"
+  },
+  {
+    "arxiv_id": "2305.17863",
+    "title": "GridFormer: Residual Dense Transformer with Grid Structure for Image Restoration in Adverse Weather Conditions",
+    "year": 2023,
+    "venue": "International Journal of Computer Vision",
+    "citationCount": 60,
+    "arxiv_published": "2023-05-29",
+    "ar5iv_html": "https://ar5iv.org/html/2305.17863",
+    "pdf": "http://arxiv.org/pdf/2305.17863v2"
+  },
+  {
+    "arxiv_id": "2112.01388",
+    "title": "Residual Pathway Priors for Soft Equivariance Constraints",
+    "year": 2021,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 60,
+    "arxiv_published": "2021-12-02",
+    "ar5iv_html": "https://ar5iv.org/html/2112.01388",
+    "pdf": "http://arxiv.org/pdf/2112.01388v1"
+  },
+  {
+    "arxiv_id": "2107.02630",
+    "title": "Hyperspectral Pansharpening Based on Improved Deep Image Prior and Residual Reconstruction",
+    "year": 2021,
+    "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+    "citationCount": 60,
+    "arxiv_published": "2021-07-06",
+    "ar5iv_html": "https://ar5iv.org/html/2107.02630",
+    "pdf": "http://arxiv.org/pdf/2107.02630v1"
+  },
+  {
+    "arxiv_id": "1910.11852",
+    "title": "From infinity to four dimensions: higher residue pairings and Feynman integrals",
+    "year": 2019,
+    "venue": "Journal of High Energy Physics",
+    "citationCount": 60,
+    "arxiv_published": "2019-10-25",
+    "ar5iv_html": "https://ar5iv.org/html/1910.11852",
+    "pdf": "http://arxiv.org/pdf/1910.11852v2"
+  },
+  {
+    "arxiv_id": "1811.01194",
+    "title": "Pushing the boundaries of audiovisual word recognition using Residual Networks and LSTMs",
+    "year": 2018,
+    "venue": "Computer Vision and Image Understanding",
+    "citationCount": 60,
+    "arxiv_published": "2018-11-03",
+    "ar5iv_html": "https://ar5iv.org/html/1811.01194",
+    "pdf": "http://arxiv.org/pdf/1811.01194v1"
+  },
+  {
+    "arxiv_id": "1611.06656",
+    "title": "Resfeats: Residual network based features for image classification",
+    "year": 2016,
+    "venue": "International Conference on Information Photonics",
+    "citationCount": 60,
+    "arxiv_published": "2016-11-21",
+    "ar5iv_html": "https://ar5iv.org/html/1611.06656",
+    "pdf": "http://arxiv.org/pdf/1611.06656v1"
+  },
+  {
+    "arxiv_id": "2102.07870",
+    "title": "Momentum Residual Neural Networks",
+    "year": 2021,
+    "venue": "International Conference on Machine Learning",
+    "citationCount": 59,
+    "arxiv_published": "2021-02-15",
+    "ar5iv_html": "https://ar5iv.org/html/2102.07870",
+    "pdf": "http://arxiv.org/pdf/2102.07870v3"
+  },
+  {
+    "arxiv_id": "2206.13909",
+    "title": "QTI Submission to DCASE 2021: residual normalization for device-imbalanced acoustic scene classification with efficient design",
+    "year": 2022,
+    "venue": "arXiv.org",
+    "citationCount": 58,
+    "arxiv_published": "2022-06-28",
+    "ar5iv_html": "https://ar5iv.org/html/2206.13909",
+    "pdf": "http://arxiv.org/pdf/2206.13909v2"
+  },
+  {
+    "arxiv_id": "2109.06952",
+    "title": "Residual Adapters for Parameter-Efficient ASR Adaptation to Atypical and Accented Speech",
+    "year": 2021,
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "citationCount": 58,
+    "arxiv_published": "2021-09-14",
+    "ar5iv_html": "https://ar5iv.org/html/2109.06952",
+    "pdf": "http://arxiv.org/pdf/2109.06952v1"
+  },
+  {
+    "arxiv_id": "1612.04383",
+    "title": "Matter-parity as a residual gauge symmetry: Probing a theory of cosmological dark matter",
+    "year": 2016,
+    "venue": "",
+    "citationCount": 58,
+    "arxiv_published": "2016-12-13",
+    "ar5iv_html": "https://ar5iv.org/html/1612.04383",
+    "pdf": "http://arxiv.org/pdf/1612.04383v1"
+  },
+  {
+    "arxiv_id": "2305.03937",
+    "title": "Residual Prompt Tuning: Improving Prompt Tuning with Residual Reparameterization",
+    "year": 2023,
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "citationCount": 57,
+    "arxiv_published": "2023-05-06",
+    "ar5iv_html": "https://ar5iv.org/html/2305.03937",
+    "pdf": "http://arxiv.org/pdf/2305.03937v1"
+  },
+  {
+    "arxiv_id": "2101.08366",
+    "title": "Quadratic Residual Networks: A New Class of Neural Networks for Solving Forward and Inverse Problems in Physics Involving PDEs",
+    "year": 2021,
+    "venue": "SDM",
+    "citationCount": 57,
+    "arxiv_published": "2021-01-20",
+    "ar5iv_html": "https://ar5iv.org/html/2101.08366",
+    "pdf": "http://arxiv.org/pdf/2101.08366v2"
+  },
+  {
+    "arxiv_id": "1907.11200",
+    "title": "TuneNet: One-Shot Residual Tuning for System Identification and Sim-to-Real Robot Task Transfer",
+    "year": 2019,
+    "venue": "Conference on Robot Learning",
+    "citationCount": 57,
+    "arxiv_published": "2019-07-25",
+    "ar5iv_html": "https://ar5iv.org/html/1907.11200",
+    "pdf": "http://arxiv.org/pdf/1907.11200v3"
+  },
+  {
+    "arxiv_id": "1912.12887",
+    "title": "Using a pitch-synchronous residual codebook for hybrid HMM/frame selection speech synthesis",
+    "year": 2009,
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "citationCount": 57,
+    "arxiv_published": "2019-12-30",
+    "ar5iv_html": "https://ar5iv.org/html/1912.12887",
+    "pdf": "http://arxiv.org/pdf/1912.12887v1"
+  },
+  {
+    "arxiv_id": "2403.06495",
+    "title": "Toward Generalist Anomaly Detection via In-Context Residual Learning with Few-Shot Sample Prompts",
+    "year": 2024,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 56,
+    "arxiv_published": "2024-03-11",
+    "ar5iv_html": "https://ar5iv.org/html/2403.06495",
+    "pdf": "http://arxiv.org/pdf/2403.06495v3"
+  },
+  {
+    "arxiv_id": "2208.00237",
+    "title": "RBP-Pose: Residual Bounding Box Projection for Category-Level Pose Estimation",
+    "year": 2022,
+    "venue": "European Conference on Computer Vision",
+    "citationCount": 56,
+    "arxiv_published": "2022-07-30",
+    "ar5iv_html": "https://ar5iv.org/html/2208.00237",
+    "pdf": "http://arxiv.org/pdf/2208.00237v2"
+  },
+  {
+    "arxiv_id": "1909.06349",
+    "title": "Slice-based Learning: A Programming Model for Residual Learning in Critical Data Slices",
+    "year": 2019,
+    "venue": "Neural Information Processing Systems",
+    "citationCount": 56,
+    "arxiv_published": "2019-09-13",
+    "ar5iv_html": "https://ar5iv.org/html/1909.06349",
+    "pdf": "http://arxiv.org/pdf/1909.06349v2"
+  },
+  {
+    "arxiv_id": "1906.00588",
+    "title": "Quantifying Point-Prediction Uncertainty in Neural Networks via Residual Estimation with an I/O Kernel",
+    "year": 2019,
+    "venue": "International Conference on Learning Representations",
+    "citationCount": 56,
+    "arxiv_published": "2019-06-03",
+    "ar5iv_html": "https://ar5iv.org/html/1906.00588",
+    "pdf": "http://arxiv.org/pdf/1906.00588v5"
+  },
+  {
+    "arxiv_id": "1810.11741",
+    "title": "Deep limits of residual neural networks",
+    "year": 2018,
+    "venue": "Research in the Mathematical Sciences",
+    "citationCount": 56,
+    "arxiv_published": "2018-10-28",
+    "ar5iv_html": "https://ar5iv.org/html/1810.11741",
+    "pdf": "http://arxiv.org/pdf/1810.11741v4"
+  },
+  {
+    "arxiv_id": "1711.07714",
+    "title": "Residual Parameter Transfer for Deep Domain Adaptation",
+    "year": 2017,
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "citationCount": 56,
+    "arxiv_published": "2017-11-21",
+    "ar5iv_html": "https://ar5iv.org/html/1711.07714",
+    "pdf": "http://arxiv.org/pdf/1711.07714v1"
+  },
+  {
+    "arxiv_id": "1610.07121",
+    "title": "Adaptive enriched Galerkin methods for miscible displacement problems with entropy residual stabilization",
+    "year": 2016,
+    "venue": "Journal of Computational Physics",
+    "citationCount": 56,
+    "arxiv_published": "2016-10-23",
+    "ar5iv_html": "https://ar5iv.org/html/1610.07121",
+    "pdf": "http://arxiv.org/pdf/1610.07121v1"
+  },
+  {
+    "arxiv_id": "2104.05036",
+    "title": "GR-RNN: Global-Context Residual Recurrent Neural Networks for Writer Identification",
+    "year": 2021,
+    "venue": "Pattern Recognition",
+    "citationCount": 55,
+    "arxiv_published": "2021-04-11",
+    "ar5iv_html": "https://ar5iv.org/html/2104.05036",
+    "pdf": "http://arxiv.org/pdf/2104.05036v1"
+  },
+  {
+    "arxiv_id": "1912.03397",
+    "title": "Kinematic Jacobi Identity is a Residue Theorem: Geometry of Color-Kinematics Duality for Gauge and Gravity Amplitudes.",
+    "year": 2019,
+    "venue": "Physical Review Letters",
+    "citationCount": 55,
+    "arxiv_published": "2019-12-06",
+    "ar5iv_html": "https://ar5iv.org/html/1912.03397",
+    "pdf": "http://arxiv.org/pdf/1912.03397v2"
+  },
+  {
+    "arxiv_id": "1909.05729",
+    "title": "GResNet: Graph Residual Network for Reviving Deep GNNs from Suspended Animation",
+    "year": 2019,
+    "venue": "arXiv.org",
+    "citationCount": 55,
+    "arxiv_published": "2019-09-12",
+    "ar5iv_html": "https://ar5iv.org/html/1909.05729",
+    "pdf": "http://arxiv.org/pdf/1909.05729v2"
+  },
+  {
+    "arxiv_id": "1809.09386",
+    "title": "Residually finite rationally solvable groups and virtual fibring",
+    "year": 2018,
+    "venue": "",
+    "citationCount": 55,
+    "arxiv_published": "2018-09-25",
+    "ar5iv_html": "https://ar5iv.org/html/1809.09386",
+    "pdf": "http://arxiv.org/pdf/1809.09386v2"
+  },
+  {
+    "arxiv_id": "1711.04291",
+    "title": "Scale out for large minibatch SGD: Residual network training on ImageNet-1K with improved accuracy and reduced time to train",
+    "year": 2017,
+    "venue": "arXiv.org",
+    "citationCount": 55,
+    "arxiv_published": "2017-11-12",
+    "ar5iv_html": "https://ar5iv.org/html/1711.04291",
+    "pdf": "http://arxiv.org/pdf/1711.04291v2"
+  },
+  {
+    "arxiv_id": "1706.07598",
+    "title": "Named Entity Recognition with Stack Residual LSTM and Trainable Bias Decoding",
+    "year": 2017,
+    "venue": "International Joint Conference on Natural Language Processing",
+    "citationCount": 55,
+    "arxiv_published": "2017-06-23",
+    "ar5iv_html": "https://ar5iv.org/html/1706.07598",
+    "pdf": "http://arxiv.org/pdf/1706.07598v2"
+  },
+  {
+    "arxiv_id": "1712.07489",
+    "title": "Asymmetric dark matter: residual annihilations and self-interactions",
+    "year": 2017,
+    "venue": "SciPost Physics",
+    "citationCount": 54,
+    "arxiv_published": "2017-12-20",
+    "ar5iv_html": "https://ar5iv.org/html/1712.07489",
+    "pdf": "http://arxiv.org/pdf/1712.07489v3"
+  },
+  {
+    "arxiv_id": "1703.01382",
+    "title": "Multi-Scale Wavelet Domain Residual Learning for Limited-Angle CT Reconstruction",
+    "year": 2017,
+    "venue": "arXiv.org",
+    "citationCount": 54,
+    "arxiv_published": "2017-03-04",
+    "ar5iv_html": "https://ar5iv.org/html/1703.01382",
+    "pdf": "http://arxiv.org/pdf/1703.01382v1"
+  },
+  {
+    "arxiv_id": "2203.16084",
+    "title": "STRPM: A Spatiotemporal Residual Predictive Model for High-Resolution Video Prediction",
+    "year": 2022,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 53,
+    "arxiv_published": "2022-03-30",
+    "ar5iv_html": "https://ar5iv.org/html/2203.16084",
+    "pdf": "http://arxiv.org/pdf/2203.16084v1"
+  },
+  {
+    "arxiv_id": "2012.07772",
+    "title": "A hybrid quantum-classical neural network with deep residual learning",
+    "year": 2020,
+    "venue": "Neural Networks",
+    "citationCount": 53,
+    "arxiv_published": "2020-12-14",
+    "ar5iv_html": "https://ar5iv.org/html/2012.07772",
+    "pdf": "http://arxiv.org/pdf/2012.07772v3"
+  },
+  {
+    "arxiv_id": "2402.00326",
+    "title": "PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citationCount": 52,
+    "arxiv_published": "2024-02-01",
+    "ar5iv_html": "https://ar5iv.org/html/2402.00326",
+    "pdf": "http://arxiv.org/pdf/2402.00326v3"
+  },
+  {
+    "arxiv_id": "2308.13712",
+    "title": "Residual Denoising Diffusion Models",
+    "year": 2023,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 52,
+    "arxiv_published": "2023-08-25",
+    "ar5iv_html": "https://ar5iv.org/html/2308.13712",
+    "pdf": "http://arxiv.org/pdf/2308.13712v3"
+  },
+  {
+    "arxiv_id": "2008.07682",
+    "title": "Residual Learning from Demonstration: Adapting DMPs for Contact-rich Manipulation",
+    "year": 2020,
+    "venue": "IEEE Robotics and Automation Letters",
+    "citationCount": 52,
+    "arxiv_published": "2020-08-18",
+    "ar5iv_html": "https://ar5iv.org/html/2008.07682",
+    "pdf": "http://arxiv.org/pdf/2008.07682v5"
+  },
+  {
+    "arxiv_id": "1910.07561",
+    "title": "A Double Residual Compression Algorithm for Efficient Distributed Learning",
+    "year": 2019,
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "citationCount": 52,
+    "arxiv_published": "2019-10-16",
+    "ar5iv_html": "https://ar5iv.org/html/1910.07561",
+    "pdf": "http://arxiv.org/pdf/1910.07561v1"
+  },
+  {
+    "arxiv_id": "2109.07152",
+    "title": "Incorporating Residual and Normalization Layers into Analysis of Masked Language Models",
+    "year": 2021,
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "citationCount": 51,
+    "arxiv_published": "2021-09-15",
+    "ar5iv_html": "https://ar5iv.org/html/2109.07152",
+    "pdf": "http://arxiv.org/pdf/2109.07152v1"
+  },
+  {
+    "arxiv_id": "1810.06766",
+    "title": "DN-ResNet: Efficient Deep Residual Network for Image Denoising",
+    "year": 2018,
+    "venue": "Asian Conference on Computer Vision",
+    "citationCount": 51,
+    "arxiv_published": "2018-10-16",
+    "ar5iv_html": "https://ar5iv.org/html/1810.06766",
+    "pdf": "http://arxiv.org/pdf/1810.06766v1"
+  },
+  {
+    "arxiv_id": "1706.08800",
+    "title": "On the R-superlinear convergence of the KKT residuals generated by the augmented Lagrangian method for convex composite conic programming",
+    "year": 2017,
+    "venue": "Mathematical programming",
+    "citationCount": 51,
+    "arxiv_published": "2017-06-27",
+    "ar5iv_html": "https://ar5iv.org/html/1706.08800",
+    "pdf": "http://arxiv.org/pdf/1706.08800v1"
+  },
+  {
+    "arxiv_id": "1705.09728",
+    "title": "Direct Estimation of Regional Wall Thicknesses via Residual Recurrent Neural Network",
+    "year": 2017,
+    "venue": "Information Processing in Medical Imaging",
+    "citationCount": 51,
+    "arxiv_published": "2017-05-26",
+    "ar5iv_html": "https://ar5iv.org/html/1705.09728",
+    "pdf": "http://arxiv.org/pdf/1705.09728v1"
+  },
+  {
+    "arxiv_id": "2009.06100",
+    "title": "Morphology of residually stressed tubular tissues: Beyond the elastic multiplicative decomposition",
+    "year": 2016,
+    "venue": "",
+    "citationCount": 51,
+    "arxiv_published": "2020-09-13",
+    "ar5iv_html": "https://ar5iv.org/html/2009.06100",
+    "pdf": "http://arxiv.org/pdf/2009.06100v1"
+  },
+  {
+    "arxiv_id": "2104.07350",
+    "title": "Depth Completion using Plane-Residual Representation",
+    "year": 2021,
+    "venue": "Computer Vision and Pattern Recognition",
+    "citationCount": 50,
+    "arxiv_published": "2021-04-15",
+    "ar5iv_html": "https://ar5iv.org/html/2104.07350",
+    "pdf": "http://arxiv.org/pdf/2104.07350v1"
+  },
+  {
+    "arxiv_id": "1803.00232",
+    "title": "DRUNET: A Dilated-Residual U-Net Deep Learning Network to Digitally Stain Optic Nerve Head Tissues in Optical Coherence Tomography Images",
+    "year": 2018,
+    "venue": "arXiv.org",
+    "citationCount": 50,
+    "arxiv_published": "2018-03-01",
+    "ar5iv_html": "https://ar5iv.org/html/1803.00232",
+    "pdf": "http://arxiv.org/pdf/1803.00232v1"
+  }
+]
